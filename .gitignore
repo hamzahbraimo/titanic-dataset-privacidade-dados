@@ -1,6 +1,10 @@
-# Ignore python cache
+# Ignorar o dataset original (motivos de copyright)
+data/titanic.csv
+
+# Ignorar todos os arquivos temporarios e caches
 __pycache__/
 *.pyc
-
-# .gitignore
-data/titanic.csv
+*.pyo
+*.pyd
+*.log
+*.tmp
