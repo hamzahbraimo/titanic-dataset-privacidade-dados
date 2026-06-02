@@ -1,6 +1,8 @@
 import pandas as pd
 
 from scripts.data_cleaning import DataCleaning
+from scripts.generalizacao import Generalizacao
+from scripts.pseudo_mask import PseudoMask
 
 def main():
     path = 'data/titanic.csv'
@@ -18,9 +20,16 @@ def main():
         # print(clean.isnull().sum())
 
         # dc.save_clean_data()
-        pm = PseudoMask()
+        # pm = PseudoMask()
         
-        pm.mask_data()
+        # pm.mask_data()
+
+        g = Generalizacao(None)
+        g.load_data()
+        merged = g.merge_data()
+
+        print(merged.info())
+        print(merged.head())
 
     except FileNotFoundError:
         print('File not found')
