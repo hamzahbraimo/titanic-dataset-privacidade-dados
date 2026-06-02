@@ -2,5 +2,5 @@
 __pycache__/
 *.pyc
 
-# Ignore the original dataset (copyright reasons)
+# .gitignore
 data/titanic.csv
