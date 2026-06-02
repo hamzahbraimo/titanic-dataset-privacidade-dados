@@ -1,0 +1,21 @@
+RELATÓRIO DE ANONIMIZAÇÃO - DATASET TITANIC
+============================================================
+
+Data do processo: 2026-06-02 15:08:51.659852
+Arquivo original: data/titanic_clean.csv
+Arquivo gerado: data/titanic_anonimizado.csv
+
+TÉCNICAS APLICADAS:
+1. Remoção de coluna 'Embarked' (porto de embarque)
+2. Remoção de coluna 'Sex' (gênero do passageiro)
+3. Hash SHA256 na coluna 'Name' (identificador direto)
+
+DADOS DO DATASET ANONIMIZADO:
+Total de registros: 891
+Total de colunas: 10
+Colunas: PassengerId, Survived, Pclass, Age, SibSp, Parch, Ticket, Fare, Cabin, Name_Hash
+
+HASH UTILIZADO:
+- Algoritmo: SHA256
+- Tamanho: 64 caracteres hexadecimais
+- Propriedade: Irreversível (one-way function)

@@ -1,6 +1,7 @@
 import pandas as pd
 
 from scripts.data_cleaning import DataCleaning
+from scripts.anonimizacao import DataAnonymization, process_anonymization
 
 def main():
     path = 'data/titanic.csv'
