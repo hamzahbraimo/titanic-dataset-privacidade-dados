@@ -7,9 +7,11 @@ A estrutura do projecto inclui scripts para leitura e tratamento de colunas sens
 
 ## Dependências
 
-Antes de executar o projeto, é necessário instalar a biblioteca **pandas**: ```pip install pandas```
+• Antes de executar o projeto, é necessário instalar a biblioteca **pandas**: ```pip install pandas```
 
-Além disso, o projecto utiliza as bibliotecas **secrets** e **hashlibs** para gerar identificadores e hashes seguros.
+• Também deve baixar o dataset original do Titanic no Kaggle: https://www.kaggle.com/code/chanchal24/titanic-dataset/input
+
+• Além disso, o projecto utiliza as bibliotecas **secrets** e **hashlibs** para gerar identificadores e hashes seguros.
 
 ---
 
@@ -32,6 +34,11 @@ Além disso, o projecto utiliza as bibliotecas **secrets** e **hashlibs** para g
 • **pandas** para manipulação de dados
 
 • **secrets** e **hashlibs** para geração de identificadores seguros
+
+---
+
+## Para velhor visualização
+• Visite o directorio notebooks/
 
 ---
 
