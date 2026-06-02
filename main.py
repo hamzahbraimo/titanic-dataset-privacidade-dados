@@ -8,27 +8,27 @@ def main():
     path = 'data/titanic.csv'
 
     try:
-        # df = pd.read_csv(path)
+        df = pd.read_csv(path)
 
-        # dc = DataCleaning(df)
-        # clean = dc.clean_data()
+        dc = DataCleaning(df)
+        clean = dc.clean_data()
 
-        # print(clean.head())
-        # print()
-        # print(clean.info())
-        # print()
-        # print(clean.isnull().sum())
+        print(clean.head())
+        print()
+        print(clean.info())
+        print()
+        print(clean.isnull().sum())
 
-        # dc.save_clean_data()
-        # pm = PseudoMask()
+        dc.save_clean_data()
+        pm = PseudoMask()
         
-        # pm.mask_data()
+        pm.mask_data()
 
         g = Generalizacao()
         g.load_data()
         merged = g.generalizar()
 
-        print(merged.head(50))
+        print(merged.tail(50))
 
     except FileNotFoundError:
         print('File not found')
