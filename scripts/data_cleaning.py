@@ -17,3 +17,10 @@ class DataCleaning:
     
     def save_clean_data(self):
         self.data.to_csv('data/titanic_clean.csv', index=False)
+
+    def get_clean_data(self):
+        try:
+            df = pd.read_csv('data/titanic_clean.csv')
+            return df
+        except FileNotFoundError:
+            print('File not found.')

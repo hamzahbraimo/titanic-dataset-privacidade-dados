@@ -1,27 +1,29 @@
 import pandas as pd
 
 from scripts.data_cleaning import DataCleaning
-from scripts.anonimizacao import DataAnonymization, process_anonymization
 
 def main():
     path = 'data/titanic.csv'
 
     try:
-        df = pd.read_csv(path)
+        # df = pd.read_csv(path)
 
-        dc = DataCleaning(df)
-        clean = dc.clean_data()
+        # dc = DataCleaning(df)
+        # clean = dc.clean_data()
 
-        print(clean.head())
-        print()
-        print(clean.info())
-        print()
-        print(clean.isnull().sum())
+        # print(clean.head())
+        # print()
+        # print(clean.info())
+        # print()
+        # print(clean.isnull().sum())
 
-        dc.save_clean_data()
+        # dc.save_clean_data()
+        pm = PseudoMask()
+        
+        pm.mask_data()
 
     except FileNotFoundError:
-        print('FIle not found')
+        print('File not found')
 
 if __name__ == "__main__":
     main()
