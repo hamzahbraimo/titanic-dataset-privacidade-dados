@@ -20,7 +20,7 @@ def main():
 
         # dc.save_clean_data()
         pm = PseudoMask()
-
+        
         pm.mask_data()
 
     except FileNotFoundError:
