@@ -16,7 +16,7 @@ A estrutura do projecto inclui scripts para leitura e tratamento de colunas sens
 ---
 
 ## Como Executar
-1. Certifique-se de que os arquivos CSV estão dentro da pasta data/.
+1. Certifique-se de que os arquivos CSV estão dentro da pasta `data/`.
 2. Execute o script principal: `python main.py`.
 3. O script irá:
 
@@ -38,7 +38,7 @@ A estrutura do projecto inclui scripts para leitura e tratamento de colunas sens
 ---
 
 ## Para velhor visualização
-• Visite o directorio notebooks/
+• Visite o directorio `notebooks/`
 
 ---
 
