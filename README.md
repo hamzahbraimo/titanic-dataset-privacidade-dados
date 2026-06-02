@@ -1,4 +1,4 @@
-# Projecto para Unidade Curricular Protecção de Dados
+# Projecto para Unidade Curricular de Protecção de Dados
 
 Este projeto tem como objectivo manipular, pseudonimizar, anonimizar e mascarar dados do famoso dataset do Titanic, utilizando Python e a biblioteca **pandas**.  
 A estrutura do projecto inclui scripts para leitura e tratamento de colunas sensíveis.
@@ -37,7 +37,7 @@ A estrutura do projecto inclui scripts para leitura e tratamento de colunas sens
 
 ---
 
-## Para velhor visualização
+## Para melhor visualização
 • Visite o directorio `notebooks/`
 
 ---
