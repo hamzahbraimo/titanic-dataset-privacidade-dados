@@ -24,12 +24,11 @@ def main():
         
         # pm.mask_data()
 
-        g = Generalizacao(None)
+        g = Generalizacao()
         g.load_data()
-        merged = g.merge_data()
+        merged = g.generalizar()
 
-        print(merged.info())
-        print(merged.head())
+        print(merged.head(50))
 
     except FileNotFoundError:
         print('File not found')
