@@ -1,893 +1,892 @@
 PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
-6deb07ce,0.0,3.0,"Braund, Mr. Owen Harris",male,22.0,1.0,0.0,A/5****,7.25,Desconhecido,S
-8e57aa3b,1.0,1.0,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1.0,0.0,PC ****,71.2833,C85,C
-594acbdc,1.0,3.0,"Heikkinen, Miss. Laina",female,26.0,0.0,0.0,STO****,7.925,Desconhecido,S
-39a799e2,1.0,1.0,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1.0,0.0,113****,53.1,C123,S
-5b6bef7f,0.0,3.0,"Allen, Mr. William Henry",male,35.0,0.0,0.0,373****,8.05,Desconhecido,S
-885eb128,0.0,3.0,"Moran, Mr. James",male,28.0,0.0,0.0,330****,8.4583,Desconhecido,Q
-cbfec7d8,0.0,1.0,"McCarthy, Mr. Timothy J",male,54.0,0.0,0.0,174****,51.8625,E46,S
-bc1ebefe,0.0,3.0,"Palsson, Master. Gosta Leonard",male,2.0,3.0,1.0,349****,21.075,Desconhecido,S
-95af9046,1.0,3.0,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0.0,2.0,347****,11.1333,Desconhecido,S
-4cd7faa8,1.0,2.0,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1.0,0.0,237****,30.0708,Desconhecido,C
-1e605f00,1.0,3.0,"Sandstrom, Miss. Marguerite Rut",female,4.0,1.0,1.0,PP ****,16.7,G6,S
-8f7718c7,1.0,1.0,"Bonnell, Miss. Elizabeth",female,58.0,0.0,0.0,113****,26.55,C103,S
-a0b2f67d,0.0,3.0,"Saundercock, Mr. William Henry",male,20.0,0.0,0.0,A/5****,8.05,Desconhecido,S
-29b7c762,0.0,3.0,"Andersson, Mr. Anders Johan",male,39.0,1.0,5.0,347****,31.275,Desconhecido,S
-67139911,0.0,3.0,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0.0,0.0,350****,7.8542,Desconhecido,S
-62042b97,1.0,2.0,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0.0,0.0,248****,16.0,Desconhecido,S
-af9f7a43,0.0,3.0,"Rice, Master. Eugene",male,2.0,4.0,1.0,382****,29.125,Desconhecido,Q
-a7a7db68,1.0,2.0,"Williams, Mr. Charles Eugene",male,28.0,0.0,0.0,244****,13.0,Desconhecido,S
-6d1962d7,0.0,3.0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1.0,0.0,345****,18.0,Desconhecido,S
-65eb9fe5,1.0,3.0,"Masselmani, Mrs. Fatima",female,28.0,0.0,0.0,264****,7.225,Desconhecido,C
-9bea60b0,0.0,2.0,"Fynney, Mr. Joseph J",male,35.0,0.0,0.0,239****,26.0,Desconhecido,S
-dd48bb18,1.0,2.0,"Beesley, Mr. Lawrence",male,34.0,0.0,0.0,248****,13.0,D56,S
-2f7adaa8,1.0,3.0,"McGowan, Miss. Anna ""Annie""",female,15.0,0.0,0.0,330****,8.0292,Desconhecido,Q
-a278a455,1.0,1.0,"Sloper, Mr. William Thompson",male,28.0,0.0,0.0,113****,35.5,A6,S
-29938d34,0.0,3.0,"Palsson, Miss. Torborg Danira",female,8.0,3.0,1.0,349****,21.075,Desconhecido,S
-78b9d67e,1.0,3.0,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1.0,5.0,347****,31.3875,Desconhecido,S
-7c172f3d,0.0,3.0,"Emir, Mr. Farred Chehab",male,28.0,0.0,0.0,263****,7.225,Desconhecido,C
-6696d463,0.0,1.0,"Fortune, Mr. Charles Alexander",male,19.0,3.0,2.0,199****,263.0,C23 C25 C27,S
-5094f612,1.0,3.0,"O'Dwyer, Miss. Ellen ""Nellie""",female,28.0,0.0,0.0,330****,7.8792,Desconhecido,Q
-1aebb2e2,0.0,3.0,"Todoroff, Mr. Lalio",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-5176b980,0.0,1.0,"Uruchurtu, Don. Manuel E",male,40.0,0.0,0.0,PC ****,27.7208,Desconhecido,C
-e07a8f23,1.0,1.0,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,28.0,1.0,0.0,PC ****,146.5208,B78,C
-98546d51,1.0,3.0,"Glynn, Miss. Mary Agatha",female,28.0,0.0,0.0,335****,7.75,Desconhecido,Q
-6dd79ab4,0.0,2.0,"Wheadon, Mr. Edward H",male,66.0,0.0,0.0,C.A****,10.5,Desconhecido,S
-c03ec371,0.0,1.0,"Meyer, Mr. Edgar Joseph",male,28.0,1.0,0.0,PC ****,82.1708,Desconhecido,C
-047db21c,0.0,1.0,"Holverson, Mr. Alexander Oskar",male,42.0,1.0,0.0,113****,52.0,Desconhecido,S
-322282e1,1.0,3.0,"Mamee, Mr. Hanna",male,28.0,0.0,0.0,267****,7.2292,Desconhecido,C
-9c345c67,0.0,3.0,"Cann, Mr. Ernest Charles",male,21.0,0.0,0.0,A./****,8.05,Desconhecido,S
-f7aaebad,0.0,3.0,"Vander Planke, Miss. Augusta Maria",female,18.0,2.0,0.0,345****,18.0,Desconhecido,S
-2b4d0636,1.0,3.0,"Nicola-Yarred, Miss. Jamila",female,14.0,1.0,0.0,265****,11.2417,Desconhecido,C
-e38890c6,0.0,3.0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1.0,0.0,754****,9.475,Desconhecido,S
-483bd93f,0.0,2.0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1.0,0.0,116****,21.0,Desconhecido,S
-b045749a,0.0,3.0,"Kraeff, Mr. Theodor",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,C
-639e22e5,1.0,2.0,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1.0,2.0,SC/****,41.5792,Desconhecido,C
-4586bb6a,1.0,3.0,"Devaney, Miss. Margaret Delia",female,19.0,0.0,0.0,330****,7.8792,Desconhecido,Q
-2177bca5,0.0,3.0,"Rogers, Mr. William John",male,28.0,0.0,0.0,S.C****,8.05,Desconhecido,S
-d2a050c6,0.0,3.0,"Lennon, Mr. Denis",male,28.0,1.0,0.0,370****,15.5,Desconhecido,Q
-0579e03b,1.0,3.0,"O'Driscoll, Miss. Bridget",female,28.0,0.0,0.0,143****,7.75,Desconhecido,Q
-b4a243d7,0.0,3.0,"Samaan, Mr. Youssef",male,28.0,2.0,0.0,266****,21.6792,Desconhecido,C
-58eec062,0.0,3.0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1.0,0.0,349****,17.8,Desconhecido,S
-d2a03f26,0.0,3.0,"Panula, Master. Juha Niilo",male,7.0,4.0,1.0,310****,39.6875,Desconhecido,S
-d98d86f7,0.0,3.0,"Nosworthy, Mr. Richard Cater",male,21.0,0.0,0.0,A/4****,7.8,Desconhecido,S
-81ceebe2,1.0,1.0,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1.0,0.0,PC ****,76.7292,D33,C
-dc0b4c31,1.0,2.0,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1.0,0.0,292****,26.0,Desconhecido,S
-4853e465,0.0,1.0,"Ostby, Mr. Engelhart Cornelius",male,65.0,0.0,1.0,113****,61.9792,B30,C
-bace8dc0,1.0,1.0,"Woolner, Mr. Hugh",male,28.0,0.0,0.0,199****,35.5,C52,S
-cb594a01,1.0,2.0,"Rugg, Miss. Emily",female,21.0,0.0,0.0,C.A****,10.5,Desconhecido,S
-7725549b,0.0,3.0,"Novel, Mr. Mansouer",male,28.0,0.0,0.0,269****,7.2292,Desconhecido,C
-0a0d2fb5,1.0,2.0,"West, Miss. Constance Mirium",female,5.0,1.0,2.0,C.A****,27.75,Desconhecido,S
-aa21f84e,0.0,3.0,"Goodwin, Master. William Frederick",male,11.0,5.0,2.0,CA ****,46.9,Desconhecido,S
-9e462e5e,0.0,3.0,"Sirayanian, Mr. Orsen",male,22.0,0.0,0.0,266****,7.2292,Desconhecido,C
-30445006,1.0,1.0,"Icard, Miss. Amelie",female,38.0,0.0,0.0,113****,80.0,B28,Desconhecido
-69500c2f,0.0,1.0,"Harris, Mr. Henry Birkhardt",male,45.0,1.0,0.0,369****,83.475,C83,S
-737786fe,0.0,3.0,"Skoog, Master. Harald",male,4.0,3.0,2.0,347****,27.9,Desconhecido,S
-4cdb81e1,0.0,1.0,"Stewart, Mr. Albert A",male,28.0,0.0,0.0,PC ****,27.7208,Desconhecido,C
-8bbcacb3,1.0,3.0,"Moubarek, Master. Gerios",male,28.0,1.0,1.0,266****,15.2458,Desconhecido,C
-81ed1079,1.0,2.0,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0.0,0.0,C.A****,10.5,F33,S
-ba0938e8,0.0,3.0,"Crease, Mr. Ernest James",male,19.0,0.0,0.0,S.P****,8.1583,Desconhecido,S
-cd5ddc7a,1.0,3.0,"Andersson, Miss. Erna Alexandra",female,17.0,4.0,2.0,310****,7.925,Desconhecido,S
-c4a8bcbf,0.0,3.0,"Kink, Mr. Vincenz",male,26.0,2.0,0.0,315****,8.6625,Desconhecido,S
-37304a80,0.0,2.0,"Jenkin, Mr. Stephen Curnow",male,32.0,0.0,0.0,C.A****,10.5,Desconhecido,S
-e1e86ba8,0.0,3.0,"Goodwin, Miss. Lillian Amy",female,16.0,5.0,2.0,CA ****,46.9,Desconhecido,S
-77f41df3,0.0,2.0,"Hood, Mr. Ambrose Jr",male,21.0,0.0,0.0,S.O****,73.5,Desconhecido,S
-a19ecdc5,0.0,3.0,"Chronopoulos, Mr. Apostolos",male,26.0,1.0,0.0,268****,14.4542,Desconhecido,C
-2250a357,1.0,3.0,"Bing, Mr. Lee",male,32.0,0.0,0.0,160****,56.4958,Desconhecido,S
-5dc344d8,0.0,3.0,"Moen, Mr. Sigurd Hansen",male,25.0,0.0,0.0,348****,7.65,F G73,S
-a2b379a5,0.0,3.0,"Staneff, Mr. Ivan",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-aa259679,0.0,3.0,"Moutal, Mr. Rahamin Haim",male,28.0,0.0,0.0,374****,8.05,Desconhecido,S
-a765a404,1.0,2.0,"Caldwell, Master. Alden Gates",male,0.0,0.0,2.0,248****,29.0,Desconhecido,S
-6c13a798,1.0,3.0,"Dowdell, Miss. Elizabeth",female,30.0,0.0,0.0,364****,12.475,Desconhecido,S
-45755a84,0.0,3.0,"Waelens, Mr. Achille",male,22.0,0.0,0.0,345****,9.0,Desconhecido,S
-a5c9a062,1.0,3.0,"Sheerlinck, Mr. Jan Baptist",male,29.0,0.0,0.0,345****,9.5,Desconhecido,S
-4a08c46c,1.0,3.0,"McDermott, Miss. Brigdet Delia",female,28.0,0.0,0.0,330****,7.7875,Desconhecido,Q
-87fd0254,0.0,1.0,"Carrau, Mr. Francisco M",male,28.0,0.0,0.0,113****,47.1,Desconhecido,S
-6df32cf7,1.0,2.0,"Ilett, Miss. Bertha",female,17.0,0.0,0.0,SO/****,10.5,Desconhecido,S
-1f48564d,1.0,3.0,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3.0,0.0,310****,15.85,Desconhecido,S
-bd287edb,0.0,3.0,"Ford, Mr. William Neal",male,16.0,1.0,3.0,W./****,34.375,Desconhecido,S
-16307ac2,0.0,3.0,"Slocovski, Mr. Selman Francis",male,28.0,0.0,0.0,SOT****,8.05,Desconhecido,S
-486eab23,1.0,1.0,"Fortune, Miss. Mabel Helen",female,23.0,3.0,2.0,199****,263.0,C23 C25 C27,S
-8a6244fd,0.0,3.0,"Celotti, Mr. Francesco",male,24.0,0.0,0.0,343****,8.05,Desconhecido,S
-cb6c1728,0.0,3.0,"Christmann, Mr. Emil",male,29.0,0.0,0.0,343****,8.05,Desconhecido,S
-d7d33f54,0.0,3.0,"Andreasson, Mr. Paul Edvin",male,20.0,0.0,0.0,347****,7.8542,Desconhecido,S
-fbb6545f,0.0,1.0,"Chaffee, Mr. Herbert Fuller",male,46.0,1.0,0.0,W.E****,61.175,E31,S
-e2ebc3e2,0.0,3.0,"Dean, Mr. Bertram Frank",male,26.0,1.0,2.0,C.A****,20.575,Desconhecido,S
-60633a26,0.0,3.0,"Coxon, Mr. Daniel",male,59.0,0.0,0.0,364****,7.25,Desconhecido,S
-b13b3f32,0.0,3.0,"Shorney, Mr. Charles Joseph",male,28.0,0.0,0.0,374****,8.05,Desconhecido,S
-36608cf9,0.0,1.0,"Goldschmidt, Mr. George B",male,71.0,0.0,0.0,PC ****,34.6542,A5,C
-d09fbfd0,1.0,1.0,"Greenfield, Mr. William Bertram",male,23.0,0.0,1.0,PC ****,63.3583,D10 D12,C
-a9825d67,1.0,2.0,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0.0,1.0,231****,23.0,Desconhecido,S
-55ddada5,0.0,2.0,"Kantor, Mr. Sinai",male,34.0,1.0,0.0,244****,26.0,Desconhecido,S
-c89fde83,0.0,3.0,"Petranec, Miss. Matilda",female,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-0754bc26,0.0,3.0,"Petroff, Mr. Pastcho (""Pentcho"")",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-84066133,0.0,1.0,"White, Mr. Richard Frasar",male,21.0,0.0,1.0,352****,77.2875,D26,S
-8d95c8cb,0.0,3.0,"Johansson, Mr. Gustaf Joel",male,33.0,0.0,0.0,754****,8.6542,Desconhecido,S
-40b35a39,0.0,3.0,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2.0,0.0,310****,7.925,Desconhecido,S
-5a84055d,0.0,3.0,"Mionoff, Mr. Stoytcho",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-366c02a5,1.0,3.0,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0.0,0.0,343****,7.65,Desconhecido,S
-a6f859ac,1.0,3.0,"Moss, Mr. Albert Johan",male,28.0,0.0,0.0,312****,7.775,Desconhecido,S
-796d6359,0.0,3.0,"Rekic, Mr. Tido",male,38.0,0.0,0.0,349****,7.8958,Desconhecido,S
-eff16713,1.0,3.0,"Moran, Miss. Bertha",female,28.0,1.0,0.0,371****,24.15,Desconhecido,Q
-22227438,0.0,1.0,"Porter, Mr. Walter Chamberlain",male,47.0,0.0,0.0,110****,52.0,C110,S
-e7421b24,0.0,3.0,"Zabour, Miss. Hileni",female,14.0,1.0,0.0,266****,14.4542,Desconhecido,C
-6f492d0f,0.0,3.0,"Barton, Mr. David John",male,22.0,0.0,0.0,324****,8.05,Desconhecido,S
-5fd25d08,0.0,3.0,"Jussila, Miss. Katriina",female,20.0,1.0,0.0,413****,9.825,Desconhecido,S
-9f602109,0.0,3.0,"Attalah, Miss. Malake",female,17.0,0.0,0.0,262****,14.4583,Desconhecido,C
-1447c532,0.0,3.0,"Pekoniemi, Mr. Edvard",male,21.0,0.0,0.0,STO****,7.925,Desconhecido,S
-9ebe7c77,0.0,3.0,"Connors, Mr. Patrick",male,70.0,0.0,0.0,370****,7.75,Desconhecido,Q
-069100b7,0.0,2.0,"Turpin, Mr. William John Robert",male,29.0,1.0,0.0,116****,21.0,Desconhecido,S
-59c005ab,0.0,1.0,"Baxter, Mr. Quigg Edmond",male,24.0,0.0,1.0,PC ****,247.5208,B58 B60,C
-41fd4579,0.0,3.0,"Andersson, Miss. Ellis Anna Maria",female,2.0,4.0,2.0,347****,31.275,Desconhecido,S
-5c45e152,0.0,2.0,"Hickman, Mr. Stanley George",male,21.0,2.0,0.0,S.O****,73.5,Desconhecido,S
-9705ae61,0.0,3.0,"Moore, Mr. Leonard Charles",male,28.0,0.0,0.0,A4.****,8.05,Desconhecido,S
-51be13a3,0.0,2.0,"Nasser, Mr. Nicholas",male,32.0,1.0,0.0,237****,30.0708,Desconhecido,C
-0060c62a,1.0,2.0,"Webber, Miss. Susan",female,32.0,0.0,0.0,272****,13.0,E101,S
-fdcd8441,0.0,1.0,"White, Mr. Percival Wayland",male,54.0,0.0,1.0,352****,77.2875,D26,S
-22a2f13d,1.0,3.0,"Nicola-Yarred, Master. Elias",male,12.0,1.0,0.0,265****,11.2417,Desconhecido,C
-7044e2c3,0.0,3.0,"McMahon, Mr. Martin",male,28.0,0.0,0.0,370****,7.75,Desconhecido,Q
-1a85af16,1.0,3.0,"Madsen, Mr. Fridtjof Arne",male,24.0,0.0,0.0,C 1****,7.1417,Desconhecido,S
-d8e9942d,1.0,3.0,"Peter, Miss. Anna",female,28.0,1.0,1.0,266****,22.3583,F E69,C
-a0e0aaa5,0.0,3.0,"Ekstrom, Mr. Johan",male,45.0,0.0,0.0,347****,6.975,Desconhecido,S
-44d2d74f,0.0,3.0,"Drazenoic, Mr. Jozef",male,33.0,0.0,0.0,349****,7.8958,Desconhecido,C
-6bb189d9,0.0,3.0,"Coelho, Mr. Domingos Fernandeo",male,20.0,0.0,0.0,SOT****,7.05,Desconhecido,S
-21d7dd93,0.0,3.0,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1.0,0.0,A/5****,14.5,Desconhecido,S
-3cb382e7,1.0,2.0,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1.0,0.0,228****,26.0,Desconhecido,S
-be09083b,0.0,2.0,"Sobey, Mr. Samuel James Hayden",male,25.0,0.0,0.0,C.A****,13.0,Desconhecido,S
-f9dc2d78,0.0,2.0,"Richard, Mr. Emile",male,23.0,0.0,0.0,SC/****,15.0458,Desconhecido,C
-99ce49be,1.0,1.0,"Newsom, Miss. Helen Monypeny",female,19.0,0.0,2.0,117****,26.2833,D47,S
-b27c9ba0,0.0,1.0,"Futrelle, Mr. Jacques Heath",male,37.0,1.0,0.0,113****,53.1,C123,S
-aa33a3e2,0.0,3.0,"Osen, Mr. Olaf Elon",male,16.0,0.0,0.0,753****,9.2167,Desconhecido,S
-bb449494,0.0,1.0,"Giglio, Mr. Victor",male,24.0,0.0,0.0,PC ****,79.2,B86,C
-36cf04fb,0.0,3.0,"Boulos, Mrs. Joseph (Sultana)",female,28.0,0.0,2.0,267****,15.2458,Desconhecido,C
-1e387494,1.0,3.0,"Nysten, Miss. Anna Sofia",female,22.0,0.0,0.0,347****,7.75,Desconhecido,S
-3e7423fb,1.0,3.0,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1.0,0.0,STO****,15.85,Desconhecido,S
-5f5142e9,0.0,3.0,"Burke, Mr. Jeremiah",male,19.0,0.0,0.0,365****,6.75,Desconhecido,Q
-0137520f,0.0,2.0,"Andrew, Mr. Edgardo Samuel",male,18.0,0.0,0.0,231****,11.5,Desconhecido,S
-c913b1ad,0.0,2.0,"Nicholls, Mr. Joseph Charles",male,19.0,1.0,1.0,C.A****,36.75,Desconhecido,S
-87e9b4d4,1.0,3.0,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0.0,0.0,350****,7.7958,Desconhecido,S
-7412faef,0.0,3.0,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2.0,2.0,W./****,34.375,Desconhecido,S
-f7a8d2dd,0.0,2.0,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.0,0.0,2.0,230****,26.0,F2,S
-97a6c9ea,0.0,2.0,"Byles, Rev. Thomas Roussel Davids",male,42.0,0.0,0.0,244****,13.0,Desconhecido,S
-4e5b2887,0.0,2.0,"Bateman, Rev. Robert James",male,51.0,0.0,0.0,S.O****,12.525,Desconhecido,S
-4867caa4,1.0,1.0,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1.0,0.0,113****,66.6,C2,S
-f7666049,0.0,3.0,"Meo, Mr. Alfonzo",male,55.0,0.0,0.0,A.5****,8.05,Desconhecido,S
-b5543d3b,0.0,3.0,"van Billiard, Mr. Austin Blyler",male,40.0,0.0,2.0,A/5****,14.5,Desconhecido,S
-6cd282bf,0.0,3.0,"Olsen, Mr. Ole Martin",male,28.0,0.0,0.0,Fa ****,7.3125,Desconhecido,S
-5d7cc3d2,0.0,1.0,"Williams, Mr. Charles Duane",male,51.0,0.0,1.0,PC ****,61.3792,Desconhecido,C
-e95f0add,1.0,3.0,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0.0,0.0,358****,7.7333,Desconhecido,Q
-90f6ba1b,0.0,3.0,"Corn, Mr. Harry",male,30.0,0.0,0.0,SOT****,8.05,Desconhecido,S
-b3c4d6aa,0.0,3.0,"Smiljanic, Mr. Mile",male,28.0,0.0,0.0,315****,8.6625,Desconhecido,S
-27ab1d19,0.0,3.0,"Sage, Master. Thomas Henry",male,28.0,8.0,2.0,CA.****,69.55,Desconhecido,S
-3c2cdf5d,0.0,3.0,"Cribb, Mr. John Hatfield",male,44.0,0.0,1.0,371****,16.1,Desconhecido,S
-ddca23e5,1.0,2.0,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0.0,0.0,C.A****,15.75,Desconhecido,S
-e702f629,0.0,3.0,"Bengtsson, Mr. John Viktor",male,26.0,0.0,0.0,347****,7.775,Desconhecido,S
-2ce78176,0.0,3.0,"Calic, Mr. Jovo",male,17.0,0.0,0.0,315****,8.6625,Desconhecido,S
-263713bc,0.0,3.0,"Panula, Master. Eino Viljami",male,1.0,4.0,1.0,310****,39.6875,Desconhecido,S
-c4803e96,1.0,3.0,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0.0,2.0,363****,20.525,Desconhecido,S
-7f877c11,1.0,1.0,"Chibnall, Mrs. (Edith Martha Bowerman)",female,28.0,0.0,1.0,113****,55.0,E33,S
-19a30467,0.0,3.0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1.0,4.0,347****,27.9,Desconhecido,S
-668f35f4,0.0,1.0,"Baumann, Mr. John D",male,28.0,0.0,0.0,PC ****,25.925,Desconhecido,S
-a15f09d3,0.0,3.0,"Ling, Mr. Lee",male,28.0,0.0,0.0,160****,56.4958,Desconhecido,S
-8461ae11,0.0,1.0,"Van der hoef, Mr. Wyckoff",male,61.0,0.0,0.0,111****,33.5,B19,S
-7ece116c,0.0,3.0,"Rice, Master. Arthur",male,4.0,4.0,1.0,382****,29.125,Desconhecido,Q
-8fdd5545,1.0,3.0,"Johnson, Miss. Eleanor Ileen",female,1.0,1.0,1.0,347****,11.1333,Desconhecido,S
-a8c2c864,0.0,3.0,"Sivola, Mr. Antti Wilhelm",male,21.0,0.0,0.0,STO****,7.925,Desconhecido,S
-33a69fb7,0.0,1.0,"Smith, Mr. James Clinch",male,56.0,0.0,0.0,177****,30.6958,A7,C
-dfe345cc,0.0,3.0,"Klasen, Mr. Klas Albin",male,18.0,1.0,1.0,350****,7.8542,Desconhecido,S
-af8e01f9,0.0,3.0,"Lefebre, Master. Henry Forbes",male,28.0,3.0,1.0,413****,25.4667,Desconhecido,S
-7e1f0442,0.0,1.0,"Isham, Miss. Ann Elizabeth",female,50.0,0.0,0.0,PC ****,28.7125,C49,C
-c2a02f89,0.0,2.0,"Hale, Mr. Reginald",male,30.0,0.0,0.0,250****,13.0,Desconhecido,S
-29c6655f,0.0,3.0,"Leonard, Mr. Lionel",male,36.0,0.0,0.0,LIN****,0.0,Desconhecido,S
-e6c7340c,0.0,3.0,"Sage, Miss. Constance Gladys",female,28.0,8.0,2.0,CA.****,69.55,Desconhecido,S
-386fa24e,0.0,2.0,"Pernot, Mr. Rene",male,28.0,0.0,0.0,SC/****,15.05,Desconhecido,C
-bb30d0ba,0.0,3.0,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4.0,2.0,347****,31.3875,Desconhecido,S
-d586987b,1.0,2.0,"Becker, Master. Richard F",male,1.0,2.0,1.0,230****,39.0,F4,S
-009e2b80,1.0,3.0,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0.0,2.0,315****,22.025,Desconhecido,S
-4ff3b9c0,0.0,1.0,"Rood, Mr. Hugh Roscoe",male,28.0,0.0,0.0,113****,50.0,A32,S
-7cff2a18,1.0,3.0,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,28.0,1.0,0.0,370****,15.5,Desconhecido,Q
-8b6d5aaa,1.0,1.0,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0.0,0.0,111****,26.55,Desconhecido,S
-84ca8cee,0.0,3.0,"Bourke, Mr. John",male,40.0,1.0,1.0,364****,15.5,Desconhecido,Q
-631f90bc,0.0,3.0,"Turcin, Mr. Stjepan",male,36.0,0.0,0.0,349****,7.8958,Desconhecido,S
-2b67e172,1.0,2.0,"Pinsky, Mrs. (Rosa)",female,32.0,0.0,0.0,234****,13.0,Desconhecido,S
-e450c564,0.0,2.0,"Carbines, Mr. William",male,19.0,0.0,0.0,284****,13.0,Desconhecido,S
-00d757aa,1.0,3.0,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1.0,0.0,350****,7.8542,Desconhecido,S
-40bde787,1.0,2.0,"Navratil, Master. Michel M",male,3.0,1.0,1.0,230****,26.0,F2,S
-eec4b68a,1.0,1.0,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0.0,0.0,PC ****,27.7208,B4,C
-e176b805,1.0,1.0,"Lurette, Miss. Elise",female,58.0,0.0,0.0,PC ****,146.5208,B80,C
-169d45dc,0.0,3.0,"Mernagh, Mr. Robert",male,28.0,0.0,0.0,368****,7.75,Desconhecido,Q
-6cc06f25,0.0,3.0,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0.0,1.0,457****,8.4042,Desconhecido,S
-1242c43f,1.0,3.0,"Madigan, Miss. Margaret ""Maggie""",female,28.0,0.0,0.0,370****,7.75,Desconhecido,Q
-fbc3a027,0.0,2.0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0.0,0.0,248****,13.0,Desconhecido,S
-f255564a,0.0,3.0,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0.0,0.0,345****,9.5,Desconhecido,S
-38af324f,0.0,3.0,"Sage, Mr. Frederick",male,28.0,8.0,2.0,CA.****,69.55,Desconhecido,S
-adb2b081,0.0,3.0,"Johanson, Mr. Jakob Alfred",male,34.0,0.0,0.0,310****,6.4958,Desconhecido,S
-3721fb2f,0.0,3.0,"Youseff, Mr. Gerious",male,45.0,0.0,0.0,262****,7.225,Desconhecido,C
-1e362824,1.0,3.0,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0.0,0.0,A/5****,8.05,Desconhecido,S
-e9215a65,0.0,3.0,"Strom, Miss. Telma Matilda",female,2.0,0.0,1.0,347****,10.4625,G6,S
-f0d1e5b6,0.0,3.0,"Backstrom, Mr. Karl Alfred",male,32.0,1.0,0.0,310****,15.85,Desconhecido,S
-99ae97d4,1.0,3.0,"Albimona, Mr. Nassef Cassem",male,26.0,0.0,0.0,269****,18.7875,Desconhecido,C
-fd330222,1.0,3.0,"Carr, Miss. Helen ""Ellen""",female,16.0,0.0,0.0,367****,7.75,Desconhecido,Q
-7ac1d7f5,1.0,1.0,"Blank, Mr. Henry",male,40.0,0.0,0.0,112****,31.0,A31,C
-b8afe6d6,0.0,3.0,"Ali, Mr. Ahmed",male,24.0,0.0,0.0,SOT****,7.05,Desconhecido,S
-dc8c61c4,1.0,2.0,"Cameron, Miss. Clear Annie",female,35.0,0.0,0.0,F.C****,21.0,Desconhecido,S
-cff8500c,0.0,3.0,"Perkin, Mr. John Henry",male,22.0,0.0,0.0,A/5****,7.25,Desconhecido,S
-301dbfb2,0.0,2.0,"Givard, Mr. Hans Kristensen",male,30.0,0.0,0.0,250****,13.0,Desconhecido,S
-9c6f1889,0.0,3.0,"Kiernan, Mr. Philip",male,28.0,1.0,0.0,367****,7.75,Desconhecido,Q
-6455d17a,1.0,1.0,"Newell, Miss. Madeleine",female,31.0,1.0,0.0,352****,113.275,D36,C
-06c5394f,1.0,3.0,"Honkanen, Miss. Eliina",female,27.0,0.0,0.0,STO****,7.925,Desconhecido,S
-3d8e59c9,0.0,2.0,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1.0,0.0,243****,27.0,Desconhecido,S
-e42846f5,1.0,1.0,"Bazzani, Miss. Albina",female,32.0,0.0,0.0,118****,76.2917,D15,C
-329b2c08,0.0,2.0,"Harris, Mr. Walter",male,30.0,0.0,0.0,W/C****,10.5,Desconhecido,S
-e91b2490,1.0,3.0,"Sunderland, Mr. Victor Francis",male,16.0,0.0,0.0,SOT****,8.05,Desconhecido,S
-8dff56d8,0.0,2.0,"Bracken, Mr. James H",male,27.0,0.0,0.0,220****,13.0,Desconhecido,S
-c55b63f8,0.0,3.0,"Green, Mr. George Henry",male,51.0,0.0,0.0,214****,8.05,Desconhecido,S
-b385c0f1,0.0,3.0,"Nenkoff, Mr. Christo",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-f47b4825,1.0,1.0,"Hoyt, Mr. Frederick Maxfield",male,38.0,1.0,0.0,199****,90.0,C93,S
-0bf2751b,0.0,3.0,"Berglund, Mr. Karl Ivar Sven",male,22.0,0.0,0.0,PP ****,9.35,Desconhecido,S
-b35a62fb,1.0,2.0,"Mellors, Mr. William John",male,19.0,0.0,0.0,SW/****,10.5,Desconhecido,S
-d71afee9,0.0,3.0,"Lovell, Mr. John Hall (""Henry"")",male,20.0,0.0,0.0,A/5****,7.25,Desconhecido,S
-48e3f507,0.0,2.0,"Fahlstrom, Mr. Arne Jonas",male,18.0,0.0,0.0,236****,13.0,Desconhecido,S
-fdc5c78b,0.0,3.0,"Lefebre, Miss. Mathilde",female,28.0,3.0,1.0,413****,25.4667,Desconhecido,S
-6b71bbd8,1.0,1.0,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1.0,0.0,369****,83.475,C83,S
-f7eb37d1,0.0,3.0,"Larsson, Mr. Bengt Edvin",male,29.0,0.0,0.0,347****,7.775,Desconhecido,S
-3c8c6ce8,0.0,2.0,"Sjostedt, Mr. Ernst Adolf",male,59.0,0.0,0.0,237****,13.5,Desconhecido,S
-5c1d2807,1.0,3.0,"Asplund, Miss. Lillian Gertrud",female,5.0,4.0,2.0,347****,31.3875,Desconhecido,S
-54876c71,0.0,2.0,"Leyson, Mr. Robert William Norman",male,24.0,0.0,0.0,C.A****,10.5,Desconhecido,S
-6e05a927,0.0,3.0,"Harknett, Miss. Alice Phoebe",female,28.0,0.0,0.0,W./****,7.55,Desconhecido,S
-321f5ea6,0.0,2.0,"Hold, Mr. Stephen",male,44.0,1.0,0.0,267****,26.0,Desconhecido,S
-1a46f979,1.0,2.0,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0.0,2.0,C.A****,26.25,Desconhecido,S
-e050d010,0.0,2.0,"Pengelly, Mr. Frederick William",male,19.0,0.0,0.0,286****,10.5,Desconhecido,S
-72385950,0.0,2.0,"Hunt, Mr. George Henry",male,33.0,0.0,0.0,SCO****,12.275,Desconhecido,S
-79634cf5,0.0,3.0,"Zabour, Miss. Thamine",female,28.0,1.0,0.0,266****,14.4542,Desconhecido,C
-3efeae19,1.0,3.0,"Murphy, Miss. Katherine ""Kate""",female,28.0,1.0,0.0,367****,15.5,Desconhecido,Q
-36a11807,0.0,2.0,"Coleridge, Mr. Reginald Charles",male,29.0,0.0,0.0,W./****,10.5,Desconhecido,S
-9d19dd33,0.0,3.0,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0.0,0.0,STO****,7.125,Desconhecido,S
-b4ae86a0,0.0,3.0,"Attalah, Mr. Sleiman",male,30.0,0.0,0.0,269****,7.225,Desconhecido,C
-8d2ff825,0.0,1.0,"Minahan, Dr. William Edward",male,44.0,2.0,0.0,199****,90.0,C78,Q
-32f8536d,0.0,3.0,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0.0,0.0,347****,7.775,Desconhecido,S
-43b24320,1.0,2.0,"Hamalainen, Mrs. William (Anna)",female,24.0,0.0,2.0,250****,14.5,Desconhecido,S
-f944c98e,1.0,1.0,"Beckwith, Mr. Richard Leonard",male,37.0,1.0,1.0,117****,52.5542,D35,S
-9bb7e3d8,0.0,2.0,"Carter, Rev. Ernest Courtenay",male,54.0,1.0,0.0,244****,26.0,Desconhecido,S
-96886709,0.0,3.0,"Reed, Mr. James George",male,28.0,0.0,0.0,362****,7.25,Desconhecido,S
-5f60fd99,0.0,3.0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1.0,1.0,347****,10.4625,G6,S
-e16b6558,0.0,1.0,"Stead, Mr. William Thomas",male,62.0,0.0,0.0,113****,26.55,C87,S
-37a3e26d,0.0,3.0,"Lobb, Mr. William Arthur",male,30.0,1.0,0.0,A/5****,16.1,Desconhecido,S
-8a752652,0.0,3.0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0.0,2.0,370****,20.2125,Desconhecido,S
-4563c45c,1.0,3.0,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0.0,2.0,265****,15.2458,Desconhecido,C
-fb6103d9,1.0,1.0,"Thorne, Mrs. Gertrude Maybelle",female,28.0,0.0,0.0,PC ****,79.2,Desconhecido,C
-4972de6f,1.0,1.0,"Cherry, Miss. Gladys",female,30.0,0.0,0.0,110****,86.5,B77,S
-2e97a590,1.0,1.0,"Ward, Miss. Anna",female,35.0,0.0,0.0,PC ****,512.3292,Desconhecido,C
-e1a72d45,1.0,2.0,"Parrish, Mrs. (Lutie Davis)",female,50.0,0.0,1.0,230****,26.0,Desconhecido,S
-f748ec38,0.0,3.0,"Smith, Mr. Thomas",male,28.0,0.0,0.0,384****,7.75,Desconhecido,Q
-07dff8fc,1.0,3.0,"Asplund, Master. Edvin Rojj Felix",male,3.0,4.0,2.0,347****,31.3875,Desconhecido,S
-5be7f7a9,0.0,1.0,"Taussig, Mr. Emil",male,52.0,1.0,1.0,110****,79.65,E67,S
-7977683d,0.0,1.0,"Harrison, Mr. William",male,40.0,0.0,0.0,112****,0.0,B94,S
-9c05bbf2,0.0,3.0,"Henry, Miss. Delia",female,28.0,0.0,0.0,382****,7.75,Desconhecido,Q
-50e78c58,0.0,2.0,"Reeves, Mr. David",male,36.0,0.0,0.0,C.A****,10.5,Desconhecido,S
-079a3414,0.0,3.0,"Panula, Mr. Ernesti Arvid",male,16.0,4.0,1.0,310****,39.6875,Desconhecido,S
-abf2a730,1.0,3.0,"Persson, Mr. Ernst Ulrik",male,25.0,1.0,0.0,347****,7.775,Desconhecido,S
-66d78c9e,1.0,1.0,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0.0,1.0,PC ****,153.4625,C125,S
-c1f01e4b,1.0,1.0,"Bissette, Miss. Amelia",female,35.0,0.0,0.0,PC ****,135.6333,C99,S
-55f5bedd,0.0,1.0,"Cairns, Mr. Alexander",male,28.0,0.0,0.0,113****,31.0,Desconhecido,S
-ec731074,1.0,3.0,"Tornquist, Mr. William Henry",male,25.0,0.0,0.0,LIN****,0.0,Desconhecido,S
-0a106b47,1.0,2.0,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0.0,1.0,250****,19.5,Desconhecido,S
-b010594b,0.0,1.0,"Natsch, Mr. Charles H",male,37.0,0.0,1.0,PC ****,29.7,C118,C
-5bc06d99,1.0,3.0,"Healy, Miss. Hanora ""Nora""",female,28.0,0.0,0.0,370****,7.75,Desconhecido,Q
-3e3b0c3e,1.0,1.0,"Andrews, Miss. Kornelia Theodosia",female,63.0,1.0,0.0,135****,77.9583,D7,S
-32299dc9,0.0,3.0,"Lindblom, Miss. Augusta Charlotta",female,45.0,0.0,0.0,347****,7.75,Desconhecido,S
-e286ce49,0.0,2.0,"Parkes, Mr. Francis ""Frank""",male,28.0,0.0,0.0,239****,0.0,Desconhecido,S
-952e1ca9,0.0,3.0,"Rice, Master. Eric",male,7.0,4.0,1.0,382****,29.125,Desconhecido,Q
-7df7cac1,1.0,3.0,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1.0,1.0,C.A****,20.25,Desconhecido,S
-a2070dca,0.0,3.0,"Duane, Mr. Frank",male,65.0,0.0,0.0,336****,7.75,Desconhecido,Q
-3b020e2e,0.0,3.0,"Olsson, Mr. Nils Johan Goransson",male,28.0,0.0,0.0,347****,7.8542,Desconhecido,S
-c21f8859,0.0,3.0,"de Pelsmaeker, Mr. Alfons",male,16.0,0.0,0.0,345****,9.5,Desconhecido,S
-ced23797,1.0,3.0,"Dorking, Mr. Edward Arthur",male,19.0,0.0,0.0,A/5****,8.05,Desconhecido,S
-aa5ef279,0.0,1.0,"Smith, Mr. Richard William",male,28.0,0.0,0.0,113****,26.0,A19,S
-8579213f,0.0,3.0,"Stankovic, Mr. Ivan",male,33.0,0.0,0.0,349****,8.6625,Desconhecido,C
-b1fb3b89,1.0,3.0,"de Mulder, Mr. Theodore",male,30.0,0.0,0.0,345****,9.5,Desconhecido,S
-7eb8d2a6,0.0,3.0,"Naidenoff, Mr. Penko",male,22.0,0.0,0.0,349****,7.8958,Desconhecido,S
-21d5b417,1.0,2.0,"Hosono, Mr. Masabumi",male,42.0,0.0,0.0,237****,13.0,Desconhecido,S
-ddc0fb99,1.0,3.0,"Connolly, Miss. Kate",female,22.0,0.0,0.0,370****,7.75,Desconhecido,Q
-ef3c32b8,1.0,1.0,"Barber, Miss. Ellen ""Nellie""",female,26.0,0.0,0.0,198****,78.85,Desconhecido,S
-ca28eba3,1.0,1.0,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1.0,0.0,119****,91.0792,B49,C
-9e4de909,0.0,2.0,"Levy, Mr. Rene Jacques",male,36.0,0.0,0.0,SC/****,12.875,D,C
-f01724d0,0.0,3.0,"Haas, Miss. Aloisia",female,24.0,0.0,0.0,349****,8.85,Desconhecido,S
-e928d450,0.0,3.0,"Mineff, Mr. Ivan",male,24.0,0.0,0.0,349****,7.8958,Desconhecido,S
-edd9afbf,0.0,1.0,"Lewy, Mr. Ervin G",male,28.0,0.0,0.0,PC ****,27.7208,Desconhecido,C
-be7b7f2b,0.0,3.0,"Hanna, Mr. Mansour",male,23.0,0.0,0.0,269****,7.2292,Desconhecido,C
-91865ff5,0.0,1.0,"Allison, Miss. Helen Loraine",female,2.0,1.0,2.0,113****,151.55,C22 C26,S
-a25df91b,1.0,1.0,"Saalfeld, Mr. Adolphe",male,28.0,0.0,0.0,199****,30.5,C106,S
-6dfe6cc9,1.0,1.0,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0.0,1.0,PC ****,247.5208,B58 B60,C
-95320883,1.0,3.0,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,28.0,0.0,0.0,923****,7.75,Desconhecido,Q
-c781a487,1.0,3.0,"McCoy, Mr. Bernard",male,28.0,2.0,0.0,367****,23.25,Desconhecido,Q
-5318c318,0.0,3.0,"Johnson, Mr. William Cahoone Jr",male,19.0,0.0,0.0,LIN****,0.0,Desconhecido,S
-5ab53379,1.0,2.0,"Keane, Miss. Nora A",female,28.0,0.0,0.0,226****,12.35,E101,Q
-796e991f,0.0,3.0,"Williams, Mr. Howard Hugh ""Harry""",male,28.0,0.0,0.0,A/5****,8.05,Desconhecido,S
-f0d0e89f,1.0,1.0,"Allison, Master. Hudson Trevor",male,0.0,1.0,2.0,113****,151.55,C22 C26,S
-849a2543,1.0,1.0,"Fleming, Miss. Margaret",female,28.0,0.0,0.0,174****,110.8833,Desconhecido,C
-8581d01c,1.0,1.0,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1.0,0.0,PC ****,108.9,C65,C
-217b5c25,0.0,2.0,"Abelson, Mr. Samuel",male,30.0,1.0,0.0,P/P****,24.0,Desconhecido,C
-0e3cfd02,1.0,1.0,"Francatelli, Miss. Laura Mabel",female,30.0,0.0,0.0,PC ****,56.9292,E36,C
-d14c6693,1.0,1.0,"Hays, Miss. Margaret Bechstein",female,24.0,0.0,0.0,117****,83.1583,C54,C
-2c153459,1.0,1.0,"Ryerson, Miss. Emily Borie",female,18.0,2.0,2.0,PC ****,262.375,B57 B59 B63 B66,C
-b7bd18fc,0.0,2.0,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1.0,1.0,250****,26.0,Desconhecido,S
-36a14e25,0.0,3.0,"Hendekovic, Mr. Ignjac",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-6e909af3,0.0,2.0,"Hart, Mr. Benjamin",male,43.0,1.0,1.0,F.C****,26.25,Desconhecido,S
-d3c450a4,1.0,3.0,"Nilsson, Miss. Helmina Josefina",female,26.0,0.0,0.0,347****,7.8542,Desconhecido,S
-9b7e93a2,1.0,2.0,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1.0,0.0,244****,26.0,Desconhecido,S
-ae3440f1,0.0,2.0,"Moraweck, Dr. Ernest",male,54.0,0.0,0.0,290****,14.0,Desconhecido,S
-07540b82,1.0,1.0,"Wick, Miss. Mary Natalie",female,31.0,0.0,2.0,369****,164.8667,C7,S
-3ff0c042,1.0,1.0,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1.0,1.0,169****,134.5,E34,C
-c765508e,0.0,3.0,"Dennis, Mr. Samuel",male,22.0,0.0,0.0,A/5****,7.25,Desconhecido,S
-a7c72e05,0.0,3.0,"Danoff, Mr. Yoto",male,27.0,0.0,0.0,349****,7.8958,Desconhecido,S
-86c1128d,1.0,2.0,"Slayter, Miss. Hilda Mary",female,30.0,0.0,0.0,234****,12.35,Desconhecido,Q
-ac4c7870,1.0,2.0,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1.0,1.0,248****,29.0,Desconhecido,S
-12fc93e6,0.0,3.0,"Sage, Mr. George John Jr",male,28.0,8.0,2.0,CA.****,69.55,Desconhecido,S
-f7f3567c,1.0,1.0,"Young, Miss. Marie Grice",female,36.0,0.0,0.0,PC ****,135.6333,C32,C
-ec9ab59e,0.0,3.0,"Nysveen, Mr. Johan Hansen",male,61.0,0.0,0.0,345****,6.2375,Desconhecido,S
-cd74088f,1.0,2.0,"Ball, Mrs. (Ada E Hall)",female,36.0,0.0,0.0,285****,13.0,D,S
-f96f977c,1.0,3.0,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1.0,1.0,363****,20.525,Desconhecido,S
-8c29b027,1.0,1.0,"Hippach, Miss. Jean Gertrude",female,16.0,0.0,1.0,111****,57.9792,B18,C
-716b8c6b,1.0,3.0,"McCoy, Miss. Agnes",female,28.0,2.0,0.0,367****,23.25,Desconhecido,Q
-ce312f35,0.0,1.0,"Partner, Mr. Austen",male,45.0,0.0,0.0,113****,28.5,C124,S
-b8765ada,0.0,1.0,"Graham, Mr. George Edward",male,38.0,0.0,1.0,PC ****,153.4625,C91,S
-6c71b476,0.0,3.0,"Vander Planke, Mr. Leo Edmondus",male,16.0,2.0,0.0,345****,18.0,Desconhecido,S
-821521ea,1.0,1.0,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,28.0,1.0,0.0,PC ****,133.65,Desconhecido,S
-2bc4cae9,0.0,3.0,"Denkoff, Mr. Mitto",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-3677bb4f,0.0,1.0,"Pears, Mr. Thomas Clinton",male,29.0,1.0,0.0,113****,66.6,C2,S
-eef114d0,1.0,1.0,"Burns, Miss. Elizabeth Margaret",female,41.0,0.0,0.0,169****,134.5,E40,C
-870b75d9,1.0,3.0,"Dahl, Mr. Karl Edwart",male,45.0,0.0,0.0,759****,8.05,Desconhecido,S
-41236f62,0.0,1.0,"Blackwell, Mr. Stephen Weart",male,45.0,0.0,0.0,113****,35.5,T,S
-8fcba6b0,1.0,2.0,"Navratil, Master. Edmond Roger",male,2.0,1.0,1.0,230****,26.0,F2,S
-270a0253,1.0,1.0,"Fortune, Miss. Alice Elizabeth",female,24.0,3.0,2.0,199****,263.0,C23 C25 C27,S
-9c44dafe,0.0,2.0,"Collander, Mr. Erik Gustaf",male,28.0,0.0,0.0,248****,13.0,Desconhecido,S
-84f00038,0.0,2.0,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0.0,0.0,244****,13.0,Desconhecido,S
-da4a1533,0.0,2.0,"Fox, Mr. Stanley Hubert",male,36.0,0.0,0.0,229****,13.0,Desconhecido,S
-9dc399fe,1.0,2.0,"Brown, Miss. Amelia ""Mildred""",female,24.0,0.0,0.0,248****,13.0,F33,S
-5fde1cad,1.0,2.0,"Smith, Miss. Marion Elsie",female,40.0,0.0,0.0,314****,13.0,Desconhecido,S
-2cc4a36b,1.0,3.0,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,28.0,1.0,0.0,386****,16.1,Desconhecido,S
-b7a9c687,1.0,3.0,"Coutts, Master. William Loch ""William""",male,3.0,1.0,1.0,C.A****,15.9,Desconhecido,S
-2ff639a8,0.0,3.0,"Dimic, Mr. Jovan",male,42.0,0.0,0.0,315****,8.6625,Desconhecido,S
-197e8bf8,0.0,3.0,"Odahl, Mr. Nils Martin",male,23.0,0.0,0.0,726****,9.225,Desconhecido,S
-3c4e5bc4,0.0,1.0,"Williams-Lambert, Mr. Fletcher Fellows",male,28.0,0.0,0.0,113****,35.0,C128,S
-bfc7c1ad,0.0,3.0,"Elias, Mr. Tannous",male,15.0,1.0,1.0,269****,7.2292,Desconhecido,C
-99453b1e,0.0,3.0,"Arnold-Franchi, Mr. Josef",male,25.0,1.0,0.0,349****,17.8,Desconhecido,S
-7f770bad,0.0,3.0,"Yousif, Mr. Wazli",male,28.0,0.0,0.0,264****,7.225,Desconhecido,C
-b1c9301e,0.0,3.0,"Vanden Steen, Mr. Leo Peter",male,28.0,0.0,0.0,345****,9.5,Desconhecido,S
-b2a32af8,1.0,1.0,"Bowerman, Miss. Elsie Edith",female,22.0,0.0,1.0,113****,55.0,E33,S
-571f063f,0.0,2.0,"Funk, Miss. Annie Clemmer",female,38.0,0.0,0.0,237****,13.0,Desconhecido,S
-fb8f125b,1.0,3.0,"McGovern, Miss. Mary",female,28.0,0.0,0.0,330****,7.8792,Desconhecido,Q
-1f782157,1.0,3.0,"Mockler, Miss. Helen Mary ""Ellie""",female,28.0,0.0,0.0,330****,7.8792,Desconhecido,Q
-566cb29c,0.0,3.0,"Skoog, Mr. Wilhelm",male,40.0,1.0,4.0,347****,27.9,Desconhecido,S
-2c5ecb99,0.0,2.0,"del Carlo, Mr. Sebastiano",male,29.0,1.0,0.0,SC/****,27.7208,Desconhecido,C
-4d070adb,0.0,3.0,"Barbara, Mrs. (Catherine David)",female,45.0,0.0,1.0,269****,14.4542,Desconhecido,C
-fd165ee0,0.0,3.0,"Asim, Mr. Adola",male,35.0,0.0,0.0,SOT****,7.05,Desconhecido,S
-950be4ef,0.0,3.0,"O'Brien, Mr. Thomas",male,28.0,1.0,0.0,370****,15.5,Desconhecido,Q
-6fb1dac0,0.0,3.0,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0.0,0.0,C 7****,7.25,Desconhecido,S
-6440b644,1.0,1.0,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1.0,0.0,110****,75.25,D37,C
-c958bb50,1.0,3.0,"Moussa, Mrs. (Mantoura Boulos)",female,28.0,0.0,0.0,262****,7.2292,Desconhecido,C
-276bc6ba,1.0,3.0,"Jermyn, Miss. Annie",female,28.0,0.0,0.0,143****,7.75,Desconhecido,Q
-b51e1cb4,1.0,1.0,"Aubart, Mme. Leontine Pauline",female,24.0,0.0,0.0,PC ****,69.3,B35,C
-2567fc30,1.0,1.0,"Harder, Mr. George Achilles",male,25.0,1.0,0.0,117****,55.4417,E50,C
-856a46b6,0.0,3.0,"Wiklund, Mr. Jakob Alfred",male,18.0,1.0,0.0,310****,6.4958,Desconhecido,S
-4614aef9,0.0,3.0,"Beavan, Mr. William Thomas",male,19.0,0.0,0.0,323****,8.05,Desconhecido,S
-fce3e1bf,0.0,1.0,"Ringhini, Mr. Sante",male,22.0,0.0,0.0,PC ****,135.6333,Desconhecido,C
-ecb33ccb,0.0,3.0,"Palsson, Miss. Stina Viola",female,3.0,3.0,1.0,349****,21.075,Desconhecido,S
-e4658cd7,1.0,1.0,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,28.0,1.0,0.0,PC ****,82.1708,Desconhecido,C
-96029d8b,1.0,3.0,"Landergren, Miss. Aurora Adelia",female,22.0,0.0,0.0,C 7****,7.25,Desconhecido,S
-16c3c396,0.0,1.0,"Widener, Mr. Harry Elkins",male,27.0,0.0,2.0,113****,211.5,C82,C
-d7f611e4,0.0,3.0,"Betros, Mr. Tannous",male,20.0,0.0,0.0,264****,4.0125,Desconhecido,C
-a6d6fd09,0.0,3.0,"Gustafsson, Mr. Karl Gideon",male,19.0,0.0,0.0,347****,7.775,Desconhecido,S
-98b155e9,1.0,1.0,"Bidois, Miss. Rosalie",female,42.0,0.0,0.0,PC ****,227.525,Desconhecido,C
-4168b0f3,1.0,3.0,"Nakid, Miss. Maria (""Mary"")",female,1.0,0.0,2.0,265****,15.7417,Desconhecido,C
-5e7156ce,0.0,3.0,"Tikkanen, Mr. Juho",male,32.0,0.0,0.0,STO****,7.925,Desconhecido,S
-96d29974,1.0,1.0,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1.0,0.0,113****,52.0,Desconhecido,S
-4a870b60,0.0,3.0,"Plotcharsky, Mr. Vasil",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-1ad92e94,0.0,2.0,"Davies, Mr. Charles Henry",male,18.0,0.0,0.0,S.O****,73.5,Desconhecido,S
-c51164ce,0.0,3.0,"Goodwin, Master. Sidney Leonard",male,1.0,5.0,2.0,CA ****,46.9,Desconhecido,S
-eb0b7b50,1.0,2.0,"Buss, Miss. Kate",female,36.0,0.0,0.0,278****,13.0,Desconhecido,S
-2563936b,0.0,3.0,"Sadlier, Mr. Matthew",male,28.0,0.0,0.0,367****,7.7292,Desconhecido,Q
-b2f7372c,1.0,2.0,"Lehmann, Miss. Bertha",female,17.0,0.0,0.0,SC ****,12.0,Desconhecido,C
-5df4238e,1.0,1.0,"Carter, Mr. William Ernest",male,36.0,1.0,2.0,113****,120.0,B96 B98,S
-45fb90b3,1.0,3.0,"Jansson, Mr. Carl Olof",male,21.0,0.0,0.0,350****,7.7958,Desconhecido,S
-8286c3cc,0.0,3.0,"Gustafsson, Mr. Johan Birger",male,28.0,2.0,0.0,310****,7.925,Desconhecido,S
-49c698a2,1.0,1.0,"Newell, Miss. Marjorie",female,23.0,1.0,0.0,352****,113.275,D36,C
-a9fb1bb1,1.0,3.0,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0.0,2.0,PP ****,16.7,G6,S
-96c5a9a9,0.0,3.0,"Johansson, Mr. Erik",male,22.0,0.0,0.0,350****,7.7958,Desconhecido,S
-8221367d,0.0,3.0,"Olsson, Miss. Elina",female,31.0,0.0,0.0,350****,7.8542,Desconhecido,S
-422b6919,0.0,2.0,"McKane, Mr. Peter David",male,46.0,0.0,0.0,284****,26.0,Desconhecido,S
-b1f49747,0.0,2.0,"Pain, Dr. Alfred",male,23.0,0.0,0.0,244****,10.5,Desconhecido,S
-bb8f6418,1.0,2.0,"Trout, Mrs. William H (Jessie L)",female,28.0,0.0,0.0,240****,12.65,Desconhecido,S
-c4f4fcff,1.0,3.0,"Niskanen, Mr. Juha",male,39.0,0.0,0.0,STO****,7.925,Desconhecido,S
-e55a5fc0,0.0,3.0,"Adams, Mr. John",male,26.0,0.0,0.0,341****,8.05,Desconhecido,S
-460b3912,0.0,3.0,"Jussila, Miss. Mari Aina",female,21.0,1.0,0.0,413****,9.825,Desconhecido,S
-7404fbb1,0.0,3.0,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1.0,0.0,STO****,15.85,Desconhecido,S
-df2b587f,0.0,3.0,"Oreskovic, Miss. Marija",female,20.0,0.0,0.0,315****,8.6625,Desconhecido,S
-510f1c1b,0.0,2.0,"Gale, Mr. Shadrach",male,34.0,1.0,0.0,286****,21.0,Desconhecido,S
-1a4c215a,0.0,3.0,"Widegren, Mr. Carl/Charles Peter",male,51.0,0.0,0.0,347****,7.75,Desconhecido,S
-5625b9d3,1.0,2.0,"Richards, Master. William Rowe",male,3.0,1.0,1.0,291****,18.75,Desconhecido,S
-0affa4fd,0.0,3.0,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0.0,0.0,312****,7.775,Desconhecido,S
-339213db,0.0,3.0,"Lefebre, Miss. Ida",female,28.0,3.0,1.0,413****,25.4667,Desconhecido,S
-b31b2e0a,0.0,3.0,"Sdycoff, Mr. Todor",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-7a8ae7cd,0.0,3.0,"Hart, Mr. Henry",male,28.0,0.0,0.0,394****,6.8583,Desconhecido,Q
-7fc4d7ef,1.0,1.0,"Minahan, Miss. Daisy E",female,33.0,1.0,0.0,199****,90.0,C78,Q
-c345be27,0.0,2.0,"Cunningham, Mr. Alfred Fleming",male,28.0,0.0,0.0,239****,0.0,Desconhecido,S
-202431e1,1.0,3.0,"Sundman, Mr. Johan Julian",male,44.0,0.0,0.0,STO****,7.925,Desconhecido,S
-b007dd17,0.0,3.0,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,28.0,0.0,0.0,343****,8.05,Desconhecido,S
-a30de79e,1.0,2.0,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1.0,1.0,282****,32.5,Desconhecido,S
-c5741673,1.0,2.0,"Silven, Miss. Lyyli Karoliina",female,18.0,0.0,2.0,250****,13.0,Desconhecido,S
-94bf4019,0.0,2.0,"Matthews, Mr. William John",male,30.0,0.0,0.0,282****,13.0,Desconhecido,S
-d6ba486b,0.0,3.0,"Van Impe, Miss. Catharina",female,10.0,0.0,2.0,345****,24.15,Desconhecido,S
-18225bfd,0.0,3.0,"Gheorgheff, Mr. Stanio",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,C
-cf383f1e,0.0,3.0,"Charters, Mr. David",male,21.0,0.0,0.0,A/5****,7.7333,Desconhecido,Q
-6ab278de,0.0,3.0,"Zimmerman, Mr. Leo",male,29.0,0.0,0.0,315****,7.875,Desconhecido,S
-e2a03176,0.0,3.0,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1.0,1.0,347****,14.4,Desconhecido,S
-406129ce,0.0,3.0,"Rosblom, Mr. Viktor Richard",male,18.0,1.0,1.0,370****,20.2125,Desconhecido,S
-6ef98d4c,0.0,3.0,"Wiseman, Mr. Phillippe",male,28.0,0.0,0.0,A/4****,7.25,Desconhecido,S
-5c5ca44c,1.0,2.0,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1.0,0.0,200****,26.0,Desconhecido,S
-5b816add,1.0,2.0,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0.0,0.0,250****,26.0,Desconhecido,S
-1bfb4e68,0.0,3.0,"Flynn, Mr. James",male,28.0,0.0,0.0,364****,7.75,Desconhecido,Q
-c8418855,1.0,3.0,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0.0,0.0,SOT****,8.05,E10,S
-494ba148,1.0,1.0,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0.0,0.0,110****,26.55,C52,S
-b769c5a9,1.0,3.0,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,28.0,1.0,0.0,376****,16.1,Desconhecido,S
-e4cb1cb7,1.0,2.0,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1.0,0.0,SC/****,26.0,Desconhecido,S
-66cc9023,0.0,3.0,"Kallio, Mr. Nikolai Erland",male,17.0,0.0,0.0,STO****,7.125,Desconhecido,S
-eb37c4d9,0.0,1.0,"Silvey, Mr. William Baird",male,50.0,1.0,0.0,135****,55.9,E44,S
-1c3b76ef,1.0,1.0,"Carter, Miss. Lucile Polk",female,14.0,1.0,2.0,113****,120.0,B96 B98,S
-f1544e94,0.0,3.0,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2.0,2.0,W./****,34.375,Desconhecido,S
-d5520b90,1.0,2.0,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2.0,3.0,291****,18.75,Desconhecido,S
-6034f8d5,0.0,1.0,"Fortune, Mr. Mark",male,64.0,1.0,4.0,199****,263.0,C23 C25 C27,S
-8bb39c42,0.0,2.0,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0.0,0.0,C.A****,10.5,Desconhecido,S
-fc91ad7f,1.0,2.0,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1.0,1.0,F.C****,26.25,Desconhecido,S
-3768618e,0.0,3.0,"Hampe, Mr. Leon",male,20.0,0.0,0.0,345****,9.5,Desconhecido,S
-d3d54ad7,0.0,3.0,"Petterson, Mr. Johan Emil",male,25.0,1.0,0.0,347****,7.775,Desconhecido,S
-f66bfde8,1.0,2.0,"Reynaldo, Ms. Encarnacion",female,28.0,0.0,0.0,230****,13.0,Desconhecido,S
-883654f1,1.0,3.0,"Johannesen-Bratthammer, Mr. Bernt",male,28.0,0.0,0.0,653****,8.1125,Desconhecido,S
-82a368da,1.0,1.0,"Dodge, Master. Washington",male,4.0,0.0,2.0,336****,81.8583,A34,S
-e420b180,1.0,2.0,"Mellinger, Miss. Madeleine Violet",female,13.0,0.0,1.0,250****,19.5,Desconhecido,S
-cd82101f,1.0,1.0,"Seward, Mr. Frederic Kimber",male,34.0,0.0,0.0,113****,26.55,Desconhecido,S
-9f041a1b,1.0,3.0,"Baclini, Miss. Marie Catherine",female,5.0,2.0,1.0,266****,19.2583,Desconhecido,C
-950dcadf,1.0,1.0,"Peuchen, Major. Arthur Godfrey",male,52.0,0.0,0.0,113****,30.5,C104,S
-2c55e164,0.0,2.0,"West, Mr. Edwy Arthur",male,36.0,1.0,2.0,C.A****,27.75,Desconhecido,S
-09e1dc7d,0.0,3.0,"Hagland, Mr. Ingvald Olai Olsen",male,28.0,1.0,0.0,653****,19.9667,Desconhecido,S
-fec107fb,0.0,1.0,"Foreman, Mr. Benjamin Laventall",male,30.0,0.0,0.0,113****,27.75,C111,C
-de798ea3,1.0,1.0,"Goldenberg, Mr. Samuel L",male,49.0,1.0,0.0,174****,89.1042,C92,C
-3ec35640,0.0,3.0,"Peduzzi, Mr. Joseph",male,28.0,0.0,0.0,A/5****,8.05,Desconhecido,S
-49d632f4,1.0,3.0,"Jalsevac, Mr. Ivan",male,29.0,0.0,0.0,349****,7.8958,Desconhecido,C
-8a75b03f,0.0,1.0,"Millet, Mr. Francis Davis",male,65.0,0.0,0.0,135****,26.55,E38,S
-2fd79237,1.0,1.0,"Kenyon, Mrs. Frederick R (Marion)",female,28.0,1.0,0.0,174****,51.8625,D21,S
-7a5a1fc6,1.0,2.0,"Toomey, Miss. Ellen",female,50.0,0.0,0.0,F.C****,10.5,Desconhecido,S
-6adc0423,0.0,3.0,"O'Connor, Mr. Maurice",male,28.0,0.0,0.0,371****,7.75,Desconhecido,Q
-c1932644,1.0,1.0,"Anderson, Mr. Harry",male,48.0,0.0,0.0,199****,26.55,E12,S
-33c96146,0.0,3.0,"Morley, Mr. William",male,34.0,0.0,0.0,364****,8.05,Desconhecido,S
-360ac073,0.0,1.0,"Gee, Mr. Arthur H",male,47.0,0.0,0.0,111****,38.5,E63,S
-e7fa655f,0.0,2.0,"Milling, Mr. Jacob Christian",male,48.0,0.0,0.0,234****,13.0,Desconhecido,S
-8e664b8e,0.0,3.0,"Maisner, Mr. Simon",male,28.0,0.0,0.0,A/S****,8.05,Desconhecido,S
-6cd91c55,0.0,3.0,"Goncalves, Mr. Manuel Estanslas",male,38.0,0.0,0.0,SOT****,7.05,Desconhecido,S
-3a07d629,0.0,2.0,"Campbell, Mr. William",male,28.0,0.0,0.0,239****,0.0,Desconhecido,S
-2f3e7cee,0.0,1.0,"Smart, Mr. John Montgomery",male,56.0,0.0,0.0,113****,26.55,Desconhecido,S
-83293bf7,0.0,3.0,"Scanlan, Mr. James",male,28.0,0.0,0.0,362****,7.725,Desconhecido,Q
-72fc29ec,1.0,3.0,"Baclini, Miss. Helene Barbara",female,0.0,2.0,1.0,266****,19.2583,Desconhecido,C
-937db1b5,0.0,3.0,"Keefe, Mr. Arthur",male,28.0,0.0,0.0,323****,7.25,Desconhecido,S
-93950fe0,0.0,3.0,"Cacic, Mr. Luka",male,38.0,0.0,0.0,315****,8.6625,Desconhecido,S
-73f54c7e,1.0,2.0,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1.0,2.0,C.A****,27.75,Desconhecido,S
-f17b4392,1.0,2.0,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0.0,0.0,SC/****,13.7917,D,C
-f5068729,0.0,3.0,"Strandberg, Miss. Ida Sofia",female,22.0,0.0,0.0,755****,9.8375,Desconhecido,S
-18c0a198,0.0,1.0,"Clifford, Mr. George Quincy",male,28.0,0.0,0.0,110****,52.0,A14,S
-baef5821,0.0,2.0,"Renouf, Mr. Peter Henry",male,34.0,1.0,0.0,310****,21.0,Desconhecido,S
-7f4317c8,0.0,3.0,"Braund, Mr. Lewis Richard",male,29.0,1.0,0.0,346****,7.0458,Desconhecido,S
-9bb2298e,0.0,3.0,"Karlsson, Mr. Nils August",male,22.0,0.0,0.0,350****,7.5208,Desconhecido,S
-af2f1b2a,1.0,3.0,"Hirvonen, Miss. Hildur E",female,2.0,0.0,1.0,310****,12.2875,Desconhecido,S
-3bab5141,0.0,3.0,"Goodwin, Master. Harold Victor",male,9.0,5.0,2.0,CA ****,46.9,Desconhecido,S
-f597e1e9,0.0,2.0,"Frost, Mr. Anthony Wood ""Archie""",male,28.0,0.0,0.0,239****,0.0,Desconhecido,S
-7f96e3fe,0.0,3.0,"Rouse, Mr. Richard Henry",male,50.0,0.0,0.0,A/5****,8.05,Desconhecido,S
-f8abbd4b,1.0,3.0,"Turkula, Mrs. (Hedwig)",female,63.0,0.0,0.0,413****,9.5875,Desconhecido,S
-fb2c2716,1.0,1.0,"Bishop, Mr. Dickinson H",male,25.0,1.0,0.0,119****,91.0792,B49,C
-cd6fe2d1,0.0,3.0,"Lefebre, Miss. Jeannie",female,28.0,3.0,1.0,413****,25.4667,Desconhecido,S
-2bd015f0,1.0,1.0,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1.0,0.0,199****,90.0,C93,S
-2e7eb85f,0.0,1.0,"Kent, Mr. Edward Austin",male,58.0,0.0,0.0,117****,29.7,B37,C
-3d4c9e90,0.0,3.0,"Somerton, Mr. Francis William",male,30.0,0.0,0.0,A.5****,8.05,Desconhecido,S
-699d3f84,1.0,3.0,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1.0,1.0,C.A****,15.9,Desconhecido,S
-608175f9,0.0,3.0,"Hagland, Mr. Konrad Mathias Reiersen",male,28.0,1.0,0.0,653****,19.9667,Desconhecido,S
-549864a0,0.0,3.0,"Windelov, Mr. Einar",male,21.0,0.0,0.0,SOT****,7.25,Desconhecido,S
-9ce6cdc7,0.0,1.0,"Molson, Mr. Harry Markland",male,55.0,0.0,0.0,113****,30.5,C30,S
-7fbc26d2,0.0,1.0,"Artagaveytia, Mr. Ramon",male,71.0,0.0,0.0,PC ****,49.5042,Desconhecido,C
-6142c6fd,0.0,3.0,"Stanley, Mr. Edward Roland",male,21.0,0.0,0.0,A/4****,8.05,Desconhecido,S
-67a28996,0.0,3.0,"Yousseff, Mr. Gerious",male,28.0,0.0,0.0,262****,14.4583,Desconhecido,C
-acdf8c66,1.0,1.0,"Eustis, Miss. Elizabeth Mussey",female,54.0,1.0,0.0,369****,78.2667,D20,C
-547996f5,0.0,3.0,"Shellard, Mr. Frederick William",male,28.0,0.0,0.0,C.A****,15.1,Desconhecido,S
-4adb9e53,0.0,1.0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1.0,2.0,113****,151.55,C22 C26,S
-66f20951,0.0,3.0,"Svensson, Mr. Olof",male,24.0,0.0,0.0,350****,7.7958,Desconhecido,S
-117665d8,0.0,3.0,"Calic, Mr. Petar",male,17.0,0.0,0.0,315****,8.6625,Desconhecido,S
-d198fd85,0.0,3.0,"Canavan, Miss. Mary",female,21.0,0.0,0.0,364****,7.75,Desconhecido,Q
-618b13a4,0.0,3.0,"O'Sullivan, Miss. Bridget Mary",female,28.0,0.0,0.0,330****,7.6292,Desconhecido,Q
-0d72fe3d,0.0,3.0,"Laitinen, Miss. Kristina Sofia",female,37.0,0.0,0.0,413****,9.5875,Desconhecido,S
-7f9933da,1.0,1.0,"Maioni, Miss. Roberta",female,16.0,0.0,0.0,110****,86.5,B79,S
-f7770978,0.0,1.0,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1.0,0.0,PC ****,108.9,C65,C
-0fb18dfa,1.0,2.0,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0.0,2.0,263****,26.0,Desconhecido,S
-4cdebd3b,1.0,1.0,"Bradley, Mr. George (""George Arthur Brayton"")",male,28.0,0.0,0.0,111****,26.55,Desconhecido,S
-22b7c9e3,0.0,3.0,"Olsen, Mr. Henry Margido",male,28.0,0.0,0.0,C 4****,22.525,Desconhecido,S
-92516ed1,1.0,3.0,"Lang, Mr. Fang",male,26.0,0.0,0.0,160****,56.4958,Desconhecido,S
-ab8953bc,1.0,3.0,"Daly, Mr. Eugene Patrick",male,29.0,0.0,0.0,382****,7.75,Desconhecido,Q
-27b55fb3,0.0,3.0,"Webber, Mr. James",male,28.0,0.0,0.0,SOT****,8.05,Desconhecido,S
-a3166efe,1.0,1.0,"McGough, Mr. James Robert",male,36.0,0.0,0.0,PC ****,26.2875,E25,S
-d8aa77a6,1.0,1.0,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1.0,0.0,PC ****,59.4,Desconhecido,C
-ea567e4c,0.0,3.0,"Coleff, Mr. Satio",male,24.0,0.0,0.0,349****,7.4958,Desconhecido,S
-76751f8d,0.0,1.0,"Walker, Mr. William Anderson",male,47.0,0.0,0.0,369****,34.0208,D46,S
-8d3bbe29,1.0,2.0,"Lemore, Mrs. (Amelia Milley)",female,34.0,0.0,0.0,C.A****,10.5,F33,S
-34e59a51,0.0,3.0,"Ryan, Mr. Patrick",male,28.0,0.0,0.0,371****,24.15,Desconhecido,Q
-f3165137,1.0,2.0,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1.0,0.0,226****,26.0,Desconhecido,S
-ef5cefc4,0.0,3.0,"Pavlovic, Mr. Stefo",male,32.0,0.0,0.0,349****,7.8958,Desconhecido,S
-848a0eef,1.0,1.0,"Perreault, Miss. Anne",female,30.0,0.0,0.0,127****,93.5,B73,S
-b8a635c9,0.0,3.0,"Vovk, Mr. Janko",male,22.0,0.0,0.0,349****,7.8958,Desconhecido,S
-e130e297,0.0,3.0,"Lahoud, Mr. Sarkis",male,28.0,0.0,0.0,262****,7.225,Desconhecido,C
-c1eb52c9,1.0,1.0,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0.0,1.0,111****,57.9792,B18,C
-eef9513c,0.0,3.0,"Kassem, Mr. Fared",male,28.0,0.0,0.0,270****,7.2292,Desconhecido,C
-6d667c57,0.0,3.0,"Farrell, Mr. James",male,40.0,0.0,0.0,367****,7.75,Desconhecido,Q
-7340f781,1.0,2.0,"Ridsdale, Miss. Lucy",female,50.0,0.0,0.0,W./****,10.5,Desconhecido,S
-802f0354,0.0,1.0,"Farthing, Mr. John",male,28.0,0.0,0.0,PC ****,221.7792,C95,S
-3009d154,0.0,3.0,"Salonen, Mr. Johan Werner",male,39.0,0.0,0.0,310****,7.925,Desconhecido,S
-1f0f627a,0.0,2.0,"Hocking, Mr. Richard George",male,23.0,2.0,1.0,291****,11.5,Desconhecido,S
-ba487db8,1.0,2.0,"Quick, Miss. Phyllis May",female,2.0,1.0,1.0,263****,26.0,Desconhecido,S
-74dcf1bc,0.0,3.0,"Toufik, Mr. Nakli",male,28.0,0.0,0.0,264****,7.2292,Desconhecido,C
-4befaccf,0.0,3.0,"Elias, Mr. Joseph Jr",male,17.0,1.0,1.0,269****,7.2292,Desconhecido,C
-d9255a05,1.0,3.0,"Peter, Mrs. Catherine (Catherine Rizk)",female,28.0,0.0,2.0,266****,22.3583,Desconhecido,C
-92b0ebd1,0.0,3.0,"Cacic, Miss. Marija",female,30.0,0.0,0.0,315****,8.6625,Desconhecido,S
-a2cbe057,1.0,2.0,"Hart, Miss. Eva Miriam",female,7.0,0.0,2.0,F.C****,26.25,Desconhecido,S
-c84f440d,0.0,1.0,"Butt, Major. Archibald Willingham",male,45.0,0.0,0.0,113****,26.55,B38,S
-9b5fa643,1.0,1.0,"LeRoy, Miss. Bertha",female,30.0,0.0,0.0,PC ****,106.425,Desconhecido,C
-665247ce,0.0,3.0,"Risien, Mr. Samuel Beard",male,28.0,0.0,0.0,364****,14.5,Desconhecido,S
-df5f78cc,1.0,1.0,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0.0,2.0,135****,49.5,B39,C
-3b09c5b6,1.0,1.0,"Crosby, Miss. Harriet R",female,36.0,0.0,2.0,WE/****,71.0,B22,S
-76a99854,0.0,3.0,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4.0,2.0,347****,31.275,Desconhecido,S
-12174340,0.0,3.0,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4.0,2.0,347****,31.275,Desconhecido,S
-5316089a,1.0,2.0,"Beane, Mr. Edward",male,32.0,1.0,0.0,290****,26.0,Desconhecido,S
-3dd0febb,0.0,1.0,"Douglas, Mr. Walter Donald",male,50.0,1.0,0.0,PC ****,106.425,C86,C
-43ee98a2,0.0,1.0,"Nicholson, Mr. Arthur Ernest",male,64.0,0.0,0.0,693****,26.0,Desconhecido,S
-0944d85e,1.0,2.0,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1.0,0.0,290****,26.0,Desconhecido,S
-780c6db8,1.0,2.0,"Padro y Manent, Mr. Julian",male,28.0,0.0,0.0,SC/****,13.8625,Desconhecido,C
-d6a5da32,0.0,3.0,"Goldsmith, Mr. Frank John",male,33.0,1.0,1.0,363****,20.525,Desconhecido,S
-8c36b80c,1.0,2.0,"Davies, Master. John Morgan Jr",male,8.0,1.0,1.0,C.A****,36.75,Desconhecido,S
-b6564f6d,1.0,1.0,"Thayer, Mr. John Borland Jr",male,17.0,0.0,2.0,174****,110.8833,C70,C
-236ae26a,0.0,2.0,"Sharp, Mr. Percival James R",male,27.0,0.0,0.0,244****,26.0,Desconhecido,S
-c8fb9bf9,0.0,3.0,"O'Brien, Mr. Timothy",male,28.0,0.0,0.0,330****,7.8292,Desconhecido,Q
-1e786aa4,1.0,3.0,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0.0,0.0,262****,7.225,Desconhecido,C
-f2fc210d,1.0,3.0,"Ohman, Miss. Velin",female,22.0,0.0,0.0,347****,7.775,Desconhecido,S
-985eebb7,0.0,1.0,"Wright, Mr. George",male,62.0,0.0,0.0,113****,26.55,Desconhecido,S
-6a15f7ff,1.0,1.0,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1.0,0.0,117****,39.6,A16,C
-59497025,0.0,1.0,"Robbins, Mr. Victor",male,28.0,0.0,0.0,PC ****,227.525,Desconhecido,C
-09b14aa2,1.0,1.0,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1.0,1.0,110****,79.65,E67,S
-9e9318c2,1.0,3.0,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1.0,0.0,345****,17.4,Desconhecido,S
-be81d2e0,0.0,3.0,"Morrow, Mr. Thomas Rowan",male,28.0,0.0,0.0,372****,7.75,Desconhecido,Q
-11731e6a,0.0,3.0,"Sivic, Mr. Husein",male,40.0,0.0,0.0,349****,7.8958,Desconhecido,S
-5e1e41d7,0.0,2.0,"Norman, Mr. Robert Douglas",male,28.0,0.0,0.0,218****,13.5,Desconhecido,S
-5dd3c2f6,0.0,3.0,"Simmons, Mr. John",male,28.0,0.0,0.0,SOT****,8.05,Desconhecido,S
-74e4cb13,0.0,3.0,"Meanwell, Miss. (Marion Ogden)",female,28.0,0.0,0.0,SOT****,8.05,Desconhecido,S
-3840aac9,0.0,3.0,"Davies, Mr. Alfred J",male,24.0,2.0,0.0,A/4****,24.15,Desconhecido,S
-a269ae87,0.0,3.0,"Stoytcheff, Mr. Ilia",male,19.0,0.0,0.0,349****,7.8958,Desconhecido,S
-715086fb,0.0,3.0,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0.0,4.0,349****,21.075,Desconhecido,S
-9edc3e47,0.0,3.0,"Doharr, Mr. Tannous",male,28.0,0.0,0.0,268****,7.2292,Desconhecido,C
-dece147e,1.0,3.0,"Jonsson, Mr. Carl",male,32.0,0.0,0.0,350****,7.8542,Desconhecido,S
-8d4a1b2c,1.0,2.0,"Harris, Mr. George",male,62.0,0.0,0.0,S.W****,10.5,Desconhecido,S
-6fe1a535,1.0,1.0,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2.0,0.0,117****,51.4792,C101,S
-76b74d1b,1.0,1.0,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0.0,0.0,PC ****,26.3875,E25,S
-8d6ebe42,1.0,3.0,"Kelly, Miss. Mary",female,28.0,0.0,0.0,143****,7.75,Desconhecido,Q
-ecf8d87a,0.0,3.0,"Rush, Mr. Alfred George John",male,16.0,0.0,0.0,A/4****,8.05,Desconhecido,S
-64b49d36,0.0,3.0,"Patchett, Mr. George",male,19.0,0.0,0.0,358****,14.5,Desconhecido,S
-59e802a0,1.0,2.0,"Garside, Miss. Ethel",female,34.0,0.0,0.0,243****,13.0,Desconhecido,S
-31c880d0,1.0,1.0,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1.0,0.0,135****,55.9,E44,S
-510cf180,0.0,3.0,"Caram, Mrs. Joseph (Maria Elias)",female,28.0,1.0,0.0,268****,14.4583,Desconhecido,C
-069d0422,1.0,3.0,"Jussila, Mr. Eiriik",male,32.0,0.0,0.0,STO****,7.925,Desconhecido,S
-ec298f3c,1.0,2.0,"Christy, Miss. Julie Rachel",female,25.0,1.0,1.0,237****,30.0,Desconhecido,S
-1788ac1f,1.0,1.0,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1.0,1.0,174****,110.8833,C68,C
-d4ac103a,0.0,2.0,"Downton, Mr. William James",male,54.0,0.0,0.0,284****,26.0,Desconhecido,S
-1b8759fe,0.0,1.0,"Ross, Mr. John Hugo",male,36.0,0.0,0.0,130****,40.125,A10,C
-1f32c2c0,0.0,3.0,"Paulner, Mr. Uscher",male,28.0,0.0,0.0,341****,8.7125,Desconhecido,C
-8ff01230,1.0,1.0,"Taussig, Miss. Ruth",female,18.0,0.0,2.0,110****,79.65,E68,S
-06042f2a,0.0,2.0,"Jarvis, Mr. John Denzil",male,47.0,0.0,0.0,237****,15.0,Desconhecido,S
-78e322ba,1.0,1.0,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1.0,1.0,135****,79.2,B41,C
-5aece00c,0.0,3.0,"Gilinski, Mr. Eliezer",male,22.0,0.0,0.0,149****,8.05,Desconhecido,S
-e800167d,0.0,3.0,"Murdlin, Mr. Joseph",male,28.0,0.0,0.0,A./****,8.05,Desconhecido,S
-24107dd2,0.0,3.0,"Rintamaki, Mr. Matti",male,35.0,0.0,0.0,STO****,7.125,Desconhecido,S
-b2053c67,1.0,1.0,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1.0,0.0,369****,78.2667,D20,C
-d0d25296,0.0,3.0,"Elsbury, Mr. William James",male,47.0,0.0,0.0,A/5****,7.25,Desconhecido,S
-c6d80874,0.0,3.0,"Bourke, Miss. Mary",female,28.0,0.0,2.0,364****,7.75,Desconhecido,Q
-69a7352e,0.0,2.0,"Chapman, Mr. John Henry",male,37.0,1.0,0.0,SC/****,26.0,Desconhecido,S
-e472a992,0.0,3.0,"Van Impe, Mr. Jean Baptiste",male,36.0,1.0,1.0,345****,24.15,Desconhecido,S
-d18ec2a0,1.0,2.0,"Leitch, Miss. Jessie Wills",female,28.0,0.0,0.0,248****,33.0,Desconhecido,S
-86ae1306,0.0,3.0,"Johnson, Mr. Alfred",male,49.0,0.0,0.0,LIN****,0.0,Desconhecido,S
-d47dabdd,0.0,3.0,"Boulos, Mr. Hanna",male,28.0,0.0,0.0,266****,7.225,Desconhecido,C
-3fd040a8,1.0,1.0,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1.0,0.0,PC ****,56.9292,A20,C
-64fe8aaf,1.0,2.0,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2.0,1.0,243****,27.0,Desconhecido,S
-3e4f928d,0.0,3.0,"Slabenoff, Mr. Petco",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-2dacc1ce,0.0,1.0,"Harrington, Mr. Charles H",male,28.0,0.0,0.0,113****,42.4,Desconhecido,S
-ac66f852,0.0,3.0,"Torber, Mr. Ernst William",male,44.0,0.0,0.0,364****,8.05,Desconhecido,S
-00a100d5,1.0,1.0,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0.0,0.0,111****,26.55,Desconhecido,C
-27d38273,0.0,3.0,"Lindell, Mr. Edvard Bengtsson",male,36.0,1.0,0.0,349****,15.55,Desconhecido,S
-d2d16a48,0.0,3.0,"Karaic, Mr. Milan",male,30.0,0.0,0.0,349****,7.8958,Desconhecido,S
-6aa81cf5,1.0,1.0,"Daniel, Mr. Robert Williams",male,27.0,0.0,0.0,113****,30.5,Desconhecido,S
-c6359bbb,1.0,2.0,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1.0,2.0,SC/****,41.5792,Desconhecido,C
-f7ba1532,1.0,1.0,"Shutes, Miss. Elizabeth W",female,40.0,0.0,0.0,PC ****,153.4625,C125,S
-901fd830,0.0,3.0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1.0,5.0,347****,31.275,Desconhecido,S
-da1025ea,0.0,3.0,"Jardin, Mr. Jose Neto",male,28.0,0.0,0.0,SOT****,7.05,Desconhecido,S
-8cca1f31,1.0,3.0,"Murphy, Miss. Margaret Jane",female,28.0,1.0,0.0,367****,15.5,Desconhecido,Q
-c668a61a,0.0,3.0,"Horgan, Mr. John",male,28.0,0.0,0.0,370****,7.75,Desconhecido,Q
-96471dd5,0.0,3.0,"Brocklebank, Mr. William Alfred",male,35.0,0.0,0.0,364****,8.05,Desconhecido,S
-3df17442,1.0,2.0,"Herman, Miss. Alice",female,24.0,1.0,2.0,220****,65.0,Desconhecido,S
-84125fa7,0.0,3.0,"Danbom, Mr. Ernst Gilbert",male,34.0,1.0,1.0,347****,14.4,Desconhecido,S
-50b6af3e,0.0,3.0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1.0,0.0,A/5****,16.1,Desconhecido,S
-dd67e68f,1.0,2.0,"Becker, Miss. Marion Louise",female,4.0,2.0,1.0,230****,39.0,F4,S
-f21a5cd1,0.0,2.0,"Gavey, Mr. Lawrence",male,26.0,0.0,0.0,310****,10.5,Desconhecido,S
-33df2f2e,0.0,3.0,"Yasbeck, Mr. Antoni",male,27.0,1.0,0.0,265****,14.4542,Desconhecido,C
-4785f65a,1.0,1.0,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1.0,0.0,117****,52.5542,D19,S
-726567ba,1.0,3.0,"Nakid, Mr. Sahid",male,20.0,1.0,1.0,265****,15.7417,Desconhecido,C
-9b93b587,0.0,3.0,"Hansen, Mr. Henry Damsgaard",male,21.0,0.0,0.0,350****,7.8542,Desconhecido,S
-121cecd5,0.0,3.0,"Bowen, Mr. David John ""Dai""",male,21.0,0.0,0.0,546****,16.1,Desconhecido,S
-29fec5d1,0.0,1.0,"Sutton, Mr. Frederick",male,61.0,0.0,0.0,369****,32.3208,D50,S
-7874fe2a,0.0,2.0,"Kirkland, Rev. Charles Leonard",male,57.0,0.0,0.0,219****,12.35,Desconhecido,Q
-dd4b927f,1.0,1.0,"Longley, Miss. Gretchen Fiske",female,21.0,0.0,0.0,135****,77.9583,D9,S
-cfeda6c0,0.0,3.0,"Bostandyeff, Mr. Guentcho",male,26.0,0.0,0.0,349****,7.8958,Desconhecido,S
-8d512141,0.0,3.0,"O'Connell, Mr. Patrick D",male,28.0,0.0,0.0,334****,7.7333,Desconhecido,Q
-997901d5,1.0,1.0,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0.0,0.0,270****,30.0,A23,S
-30c6dcc7,0.0,3.0,"Lundahl, Mr. Johan Svensson",male,51.0,0.0,0.0,347****,7.0542,Desconhecido,S
-c7a2c517,1.0,1.0,"Stahelin-Maeglin, Dr. Max",male,32.0,0.0,0.0,132****,30.5,B50,C
-36e7f6e9,0.0,1.0,"Parr, Mr. William Henry Marsh",male,28.0,0.0,0.0,112****,0.0,Desconhecido,S
-1f5039b9,0.0,3.0,"Skoog, Miss. Mabel",female,9.0,3.0,2.0,347****,27.9,Desconhecido,S
-1c9a7c61,1.0,2.0,"Davis, Miss. Mary",female,28.0,0.0,0.0,237****,13.0,Desconhecido,S
-cce6420b,0.0,3.0,"Leinonen, Mr. Antti Gustaf",male,32.0,0.0,0.0,STO****,7.925,Desconhecido,S
-debd2fc6,0.0,2.0,"Collyer, Mr. Harvey",male,31.0,1.0,1.0,C.A****,26.25,Desconhecido,S
-6e8f455f,0.0,3.0,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0.0,5.0,310****,39.6875,Desconhecido,S
-f9915dc0,0.0,3.0,"Thorneycroft, Mr. Percival",male,28.0,1.0,0.0,376****,16.1,Desconhecido,S
-e054c3a1,0.0,3.0,"Jensen, Mr. Hans Peder",male,20.0,0.0,0.0,350****,7.8542,Desconhecido,S
-45be1005,1.0,1.0,"Sagesser, Mlle. Emma",female,24.0,0.0,0.0,PC ****,69.3,B35,C
-0a8516be,0.0,3.0,"Skoog, Miss. Margit Elizabeth",female,2.0,3.0,2.0,347****,27.9,Desconhecido,S
-d0894c21,1.0,3.0,"Foo, Mr. Choong",male,28.0,0.0,0.0,160****,56.4958,Desconhecido,S
-7ca8a919,1.0,3.0,"Baclini, Miss. Eugenie",female,0.0,2.0,1.0,266****,19.2583,Desconhecido,C
-71d27b50,1.0,1.0,"Harper, Mr. Henry Sleeper",male,48.0,1.0,0.0,PC ****,76.7292,D33,C
-a99f5f72,0.0,3.0,"Cor, Mr. Liudevit",male,19.0,0.0,0.0,349****,7.8958,Desconhecido,S
-8baaa563,1.0,1.0,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0.0,0.0,132****,35.5,A26,C
-90c62ef7,0.0,3.0,"Willey, Mr. Edward",male,28.0,0.0,0.0,S.O****,7.55,Desconhecido,S
-a89efbc7,1.0,3.0,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0.0,0.0,CA.****,7.55,Desconhecido,S
-a66d3b6a,0.0,3.0,"Mitkoff, Mr. Mito",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-68d058eb,1.0,2.0,"Doling, Miss. Elsie",female,18.0,0.0,1.0,231****,23.0,Desconhecido,S
-4177d88d,0.0,3.0,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0.0,0.0,847****,8.4333,Desconhecido,S
-bde74d5a,1.0,3.0,"O'Leary, Miss. Hanora ""Norah""",female,28.0,0.0,0.0,330****,7.8292,Desconhecido,Q
-2775117a,0.0,3.0,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0.0,0.0,365****,6.75,Desconhecido,Q
-af5282ac,0.0,2.0,"Hickman, Mr. Leonard Mark",male,24.0,2.0,0.0,S.O****,73.5,Desconhecido,S
-93573a90,0.0,3.0,"Radeff, Mr. Alexander",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-1e8f0b7a,0.0,3.0,"Bourke, Mrs. John (Catherine)",female,32.0,1.0,1.0,364****,15.5,Desconhecido,Q
-f818ffba,0.0,2.0,"Eitemiller, Mr. George Floyd",male,23.0,0.0,0.0,297****,13.0,Desconhecido,S
-af2e26fe,0.0,1.0,"Newell, Mr. Arthur Webster",male,58.0,0.0,2.0,352****,113.275,D48,C
-5eac75e0,1.0,1.0,"Frauenthal, Dr. Henry William",male,50.0,2.0,0.0,PC ****,133.65,Desconhecido,S
-ade68dd4,0.0,3.0,"Badt, Mr. Mohamed",male,40.0,0.0,0.0,262****,7.225,Desconhecido,C
-f9dd64b7,0.0,1.0,"Colley, Mr. Edward Pomeroy",male,47.0,0.0,0.0,572****,25.5875,E58,S
-f9eac728,0.0,3.0,"Coleff, Mr. Peju",male,36.0,0.0,0.0,349****,7.4958,Desconhecido,S
-a7a7b66f,1.0,3.0,"Lindqvist, Mr. Eino William",male,20.0,1.0,0.0,STO****,7.925,Desconhecido,S
-49f2bd48,0.0,2.0,"Hickman, Mr. Lewis",male,32.0,2.0,0.0,S.O****,73.5,Desconhecido,S
-82d6acb4,0.0,2.0,"Butler, Mr. Reginald Fenton",male,25.0,0.0,0.0,234****,13.0,Desconhecido,S
-e8b1f49f,0.0,3.0,"Rommetvedt, Mr. Knud Paust",male,28.0,0.0,0.0,312****,7.775,Desconhecido,S
-4f901d91,0.0,3.0,"Cook, Mr. Jacob",male,43.0,0.0,0.0,A/5****,8.05,Desconhecido,S
-d5745ae1,1.0,1.0,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,28.0,1.0,0.0,199****,52.0,C126,S
-ef5df192,1.0,2.0,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1.0,1.0,297****,39.0,Desconhecido,S
-ba5d232a,0.0,1.0,"Davidson, Mr. Thornton",male,31.0,1.0,0.0,F.C****,52.0,B71,S
-0c32b67e,0.0,2.0,"Mitchell, Mr. Henry Michael",male,70.0,0.0,0.0,C.A****,10.5,Desconhecido,S
-f0d84e17,1.0,2.0,"Wilhelms, Mr. Charles",male,31.0,0.0,0.0,244****,13.0,Desconhecido,S
-51e451fb,0.0,2.0,"Watson, Mr. Ennis Hastings",male,28.0,0.0,0.0,239****,0.0,Desconhecido,S
-812225b7,0.0,3.0,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0.0,0.0,349****,7.775,Desconhecido,S
-2816a103,0.0,3.0,"Sawyer, Mr. Frederick Charles",male,24.0,0.0,0.0,342****,8.05,Desconhecido,S
-79aa5aca,1.0,3.0,"Turja, Miss. Anna Sofia",female,18.0,0.0,0.0,413****,9.8417,Desconhecido,S
-85c05499,0.0,3.0,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1.0,6.0,CA ****,46.9,Desconhecido,S
-25fc4037,1.0,1.0,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0.0,1.0,PC ****,512.3292,B51 B53 B55,C
-c191c198,0.0,3.0,"Peters, Miss. Katie",female,28.0,0.0,0.0,330****,8.1375,Desconhecido,Q
-b395aa8a,1.0,1.0,"Hassab, Mr. Hammad",male,27.0,0.0,0.0,PC ****,76.7292,D49,C
-c21d7c5f,0.0,3.0,"Olsvigen, Mr. Thor Anderson",male,20.0,0.0,0.0,656****,9.225,Desconhecido,S
-5e84bae8,0.0,3.0,"Goodwin, Mr. Charles Edward",male,14.0,5.0,2.0,CA ****,46.9,Desconhecido,S
-c52e2c2f,0.0,2.0,"Brown, Mr. Thomas William Solomon",male,60.0,1.0,1.0,297****,39.0,Desconhecido,S
-eda192cd,0.0,2.0,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1.0,2.0,SC/****,41.5792,Desconhecido,C
-b96fd70a,0.0,3.0,"Panula, Mr. Jaako Arnold",male,14.0,4.0,1.0,310****,39.6875,Desconhecido,S
-fef4444b,0.0,3.0,"Dakic, Mr. Branko",male,19.0,0.0,0.0,349****,10.1708,Desconhecido,S
-f1bdb1aa,0.0,3.0,"Fischer, Mr. Eberhard Thelander",male,18.0,0.0,0.0,350****,7.7958,Desconhecido,S
-41614114,1.0,1.0,"Madill, Miss. Georgette Alexandra",female,15.0,0.0,1.0,241****,211.3375,B5,S
-7b531b45,1.0,1.0,"Dick, Mr. Albert Adrian",male,31.0,1.0,0.0,174****,57.0,B20,S
-9632778c,1.0,3.0,"Karun, Miss. Manca",female,4.0,0.0,1.0,349****,13.4167,Desconhecido,C
-d168f875,1.0,3.0,"Lam, Mr. Ali",male,28.0,0.0,0.0,160****,56.4958,Desconhecido,S
-b35edfcc,0.0,3.0,"Saad, Mr. Khalil",male,25.0,0.0,0.0,267****,7.225,Desconhecido,C
-0da8c637,0.0,1.0,"Weir, Col. John",male,60.0,0.0,0.0,113****,26.55,Desconhecido,S
-47ce2617,0.0,2.0,"Chapman, Mr. Charles Henry",male,52.0,0.0,0.0,248****,13.5,Desconhecido,S
-a363cb52,0.0,3.0,"Kelly, Mr. James",male,44.0,0.0,0.0,363****,8.05,Desconhecido,S
-c5c906f2,1.0,3.0,"Mullens, Miss. Katherine ""Katie""",female,28.0,0.0,0.0,358****,7.7333,Desconhecido,Q
-4c5748b4,0.0,1.0,"Thayer, Mr. John Borland",male,49.0,1.0,1.0,174****,110.8833,C68,C
-49d146ac,0.0,3.0,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0.0,0.0,348****,7.65,F G63,S
-476f5f4f,1.0,1.0,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1.0,0.0,PC ****,227.525,C62 C64,C
-a38a99ea,1.0,1.0,"Silverthorne, Mr. Spencer Victor",male,35.0,0.0,0.0,PC ****,26.2875,E24,S
-c3ac1b9e,0.0,3.0,"Barbara, Miss. Saiide",female,18.0,0.0,1.0,269****,14.4542,Desconhecido,C
-ed71bbf4,0.0,3.0,"Gallagher, Mr. Martin",male,25.0,0.0,0.0,368****,7.7417,Desconhecido,Q
-181a0ca0,0.0,3.0,"Hansen, Mr. Henrik Juul",male,26.0,1.0,0.0,350****,7.8542,Desconhecido,S
-b56beca1,0.0,2.0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0.0,0.0,250****,26.0,Desconhecido,S
-971abd71,1.0,2.0,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0.0,0.0,223****,13.5,Desconhecido,S
-38972142,1.0,1.0,"Calderhead, Mr. Edward Pennington",male,42.0,0.0,0.0,PC ****,26.2875,E24,S
-8734a6ed,1.0,1.0,"Cleaver, Miss. Alice",female,22.0,0.0,0.0,113****,151.55,Desconhecido,S
-1ecbc278,1.0,3.0,"Moubarek, Master. Halim Gonios (""William George"")",male,28.0,1.0,1.0,266****,15.2458,Desconhecido,C
-de4a4945,1.0,1.0,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0.0,0.0,PC ****,49.5042,C90,C
-b5a3c903,0.0,1.0,"Klaber, Mr. Herman",male,28.0,0.0,0.0,113****,26.55,C124,S
-f4e36e4c,1.0,1.0,"Taylor, Mr. Elmer Zebley",male,48.0,1.0,0.0,199****,52.0,C126,S
-ea3ee7f6,0.0,3.0,"Larsson, Mr. August Viktor",male,29.0,0.0,0.0,754****,9.4833,Desconhecido,S
-0438bf81,0.0,2.0,"Greenberg, Mr. Samuel",male,52.0,0.0,0.0,250****,13.0,Desconhecido,S
-cc4aac39,0.0,3.0,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0.0,0.0,348****,7.65,F G73,S
-87b76e33,1.0,1.0,"Endres, Miss. Caroline Louise",female,38.0,0.0,0.0,PC ****,227.525,C45,C
-7bfe3f2e,1.0,2.0,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0.0,0.0,342****,10.5,E101,S
-df67a60a,0.0,3.0,"McEvoy, Mr. Michael",male,28.0,0.0,0.0,365****,15.5,Desconhecido,Q
-1f997d57,0.0,3.0,"Johnson, Mr. Malkolm Joackim",male,33.0,0.0,0.0,347****,7.775,Desconhecido,S
-85ca9f60,1.0,2.0,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0.0,1.0,248****,33.0,Desconhecido,S
-0958254d,0.0,3.0,"Jensen, Mr. Svend Lauritz",male,17.0,1.0,0.0,350****,7.0542,Desconhecido,S
-e2614e38,0.0,2.0,"Gillespie, Mr. William Henry",male,34.0,0.0,0.0,122****,13.0,Desconhecido,S
-d9f3b1d5,0.0,2.0,"Hodges, Mr. Henry Price",male,50.0,0.0,0.0,250****,13.0,Desconhecido,S
-1e1600a7,1.0,1.0,"Chambers, Mr. Norman Campbell",male,27.0,1.0,0.0,113****,53.1,E8,S
-554231e5,0.0,3.0,"Oreskovic, Mr. Luka",male,20.0,0.0,0.0,315****,8.6625,Desconhecido,S
-464b9593,1.0,2.0,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3.0,0.0,310****,21.0,Desconhecido,S
-02c2f80a,1.0,3.0,"Mannion, Miss. Margareth",female,28.0,0.0,0.0,368****,7.7375,Desconhecido,Q
-5fa86049,0.0,2.0,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1.0,0.0,236****,26.0,Desconhecido,S
-0f630496,0.0,3.0,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1.0,0.0,STO****,7.925,Desconhecido,S
-496c28d8,1.0,1.0,"Allen, Miss. Elisabeth Walton",female,29.0,0.0,0.0,241****,211.3375,B5,S
-e9714ceb,0.0,3.0,"Hassan, Mr. Houssein G N",male,11.0,0.0,0.0,269****,18.7875,Desconhecido,C
-938e721f,0.0,2.0,"Knight, Mr. Robert J",male,28.0,0.0,0.0,239****,0.0,Desconhecido,S
-7bb5d18b,0.0,2.0,"Berriman, Mr. William John",male,23.0,0.0,0.0,284****,13.0,Desconhecido,S
-c87de675,0.0,2.0,"Troupiansky, Mr. Moses Aaron",male,23.0,0.0,0.0,233****,13.0,Desconhecido,S
-0b0b5a2f,0.0,3.0,"Williams, Mr. Leslie",male,28.0,0.0,0.0,546****,16.1,Desconhecido,S
-3d137708,0.0,3.0,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1.0,3.0,W./****,34.375,Desconhecido,S
-e4a6f5fc,1.0,1.0,"Lesurer, Mr. Gustave J",male,35.0,0.0,0.0,PC ****,512.3292,B101,C
-8763e6e0,0.0,3.0,"Ivanoff, Mr. Kanio",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-bb3e8fce,0.0,3.0,"Nankoff, Mr. Minko",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-6f1c6ef1,1.0,1.0,"Hawksford, Mr. Walter James",male,28.0,0.0,0.0,169****,30.0,D45,S
-2e29a682,0.0,1.0,"Cavendish, Mr. Tyrell William",male,36.0,1.0,0.0,198****,78.85,C46,S
-37d2c708,1.0,1.0,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2.0,2.0,PC ****,262.375,B57 B59 B63 B66,C
-ea947fda,0.0,3.0,"McNamee, Mr. Neal",male,24.0,1.0,0.0,376****,16.1,Desconhecido,S
-7ab2ff5f,1.0,3.0,"Stranden, Mr. Juho",male,31.0,0.0,0.0,STO****,7.925,Desconhecido,S
-8f797b54,0.0,1.0,"Crosby, Capt. Edward Gifford",male,70.0,1.0,1.0,WE/****,71.0,B22,S
-321a3c24,0.0,3.0,"Abbott, Mr. Rossmore Edward",male,16.0,1.0,1.0,C.A****,20.25,Desconhecido,S
-6e1bd36a,1.0,2.0,"Sinkkonen, Miss. Anna",female,30.0,0.0,0.0,250****,13.0,Desconhecido,S
-e358c9da,0.0,1.0,"Marvin, Mr. Daniel Warner",male,19.0,1.0,0.0,113****,53.1,D30,S
-5f5f9e0b,0.0,3.0,"Connaghton, Mr. Michael",male,31.0,0.0,0.0,335****,7.75,Desconhecido,Q
-12b0b80e,1.0,2.0,"Wells, Miss. Joan",female,4.0,1.0,1.0,291****,23.0,Desconhecido,S
-97d8cd9e,1.0,3.0,"Moor, Master. Meier",male,6.0,0.0,1.0,392****,12.475,E121,S
-a0ba0a72,0.0,3.0,"Vande Velde, Mr. Johannes Joseph",male,33.0,0.0,0.0,345****,9.5,Desconhecido,S
-9d51ca2f,0.0,3.0,"Jonkoff, Mr. Lalio",male,23.0,0.0,0.0,349****,7.8958,Desconhecido,S
-6097a531,1.0,2.0,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1.0,2.0,220****,65.0,Desconhecido,S
-4a190683,1.0,2.0,"Hamalainen, Master. Viljo",male,0.0,1.0,1.0,250****,14.5,Desconhecido,S
-dd09213f,0.0,3.0,"Carlsson, Mr. August Sigfrid",male,28.0,0.0,0.0,350****,7.7958,Desconhecido,S
-e68545f9,0.0,2.0,"Bailey, Mr. Percy Andrew",male,18.0,0.0,0.0,291****,11.5,Desconhecido,S
-8c83662e,0.0,3.0,"Theobald, Mr. Thomas Leonard",male,34.0,0.0,0.0,363****,8.05,Desconhecido,S
-4b7e317a,1.0,1.0,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0.0,0.0,110****,86.5,B77,S
-f143aae5,0.0,3.0,"Garfirth, Mr. John",male,28.0,0.0,0.0,358****,14.5,Desconhecido,S
-b3ed6aaf,0.0,3.0,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0.0,0.0,SOT****,7.125,Desconhecido,S
-554bf140,1.0,3.0,"Barah, Mr. Hanna Assi",male,20.0,0.0,0.0,266****,7.2292,Desconhecido,C
-e91fccc0,1.0,1.0,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1.0,2.0,113****,120.0,B96 B98,S
-582d4227,0.0,3.0,"Eklund, Mr. Hans Linus",male,16.0,0.0,0.0,347****,7.775,Desconhecido,S
-5e7b2e1e,1.0,1.0,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1.0,0.0,135****,77.9583,D11,S
-e3d43941,0.0,1.0,"Brewe, Dr. Arthur Jackson",male,28.0,0.0,0.0,112****,39.6,Desconhecido,C
-e17e8916,0.0,3.0,"Mangan, Miss. Mary",female,30.0,0.0,0.0,364****,7.75,Desconhecido,Q
-19693063,0.0,3.0,"Moran, Mr. Daniel J",male,28.0,1.0,0.0,371****,24.15,Desconhecido,Q
-7daf9e9c,0.0,3.0,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0.0,0.0,847****,8.3625,Desconhecido,S
-53b20aa9,0.0,3.0,"Lievens, Mr. Rene Aime",male,24.0,0.0,0.0,345****,9.5,Desconhecido,S
-9071d8df,0.0,3.0,"Jensen, Mr. Niels Peder",male,48.0,0.0,0.0,350****,7.8542,Desconhecido,S
-559c273f,0.0,2.0,"Mack, Mrs. (Mary)",female,57.0,0.0,0.0,S.O****,10.5,E77,S
-821cc883,0.0,3.0,"Elias, Mr. Dibo",male,28.0,0.0,0.0,267****,7.225,Desconhecido,C
-e08892b7,1.0,2.0,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1.0,3.0,291****,23.0,Desconhecido,S
-ba5cfd72,0.0,3.0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0.0,0.0,347****,7.75,Desconhecido,S
-11108139,0.0,3.0,"Tobin, Mr. Roger",male,28.0,0.0,0.0,383****,7.75,F38,Q
-84d9a4ce,1.0,3.0,"Emanuel, Miss. Virginia Ethel",female,5.0,0.0,0.0,364****,12.475,Desconhecido,S
-275ec69a,0.0,3.0,"Kilgannon, Mr. Thomas J",male,28.0,0.0,0.0,368****,7.7375,Desconhecido,Q
-d716f2e5,1.0,1.0,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0.0,1.0,241****,211.3375,B3,S
-c3ea5f95,1.0,3.0,"Ayoub, Miss. Banoura",female,13.0,0.0,0.0,268****,7.2292,Desconhecido,C
-66e1fdc9,1.0,1.0,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1.0,0.0,174****,57.0,B20,S
-078f65bf,0.0,1.0,"Long, Mr. Milton Clyde",male,29.0,0.0,0.0,113****,30.0,D6,S
-a16b61fd,0.0,3.0,"Johnston, Mr. Andrew G",male,28.0,1.0,2.0,W./****,23.45,Desconhecido,S
-31a6c0ca,0.0,3.0,"Ali, Mr. William",male,25.0,0.0,0.0,SOT****,7.05,Desconhecido,S
-807a7a9f,0.0,3.0,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0.0,0.0,374****,7.25,Desconhecido,S
-7998d07f,1.0,3.0,"Sjoblom, Miss. Anna Sofia",female,18.0,0.0,0.0,310****,7.4958,Desconhecido,S
-cc8bcb2f,0.0,3.0,"Rice, Master. George Hugh",male,8.0,4.0,1.0,382****,29.125,Desconhecido,Q
-3b49bdd2,1.0,3.0,"Dean, Master. Bertram Vere",male,1.0,1.0,2.0,C.A****,20.575,Desconhecido,S
-6c46e3fc,0.0,1.0,"Guggenheim, Mr. Benjamin",male,46.0,0.0,0.0,PC ****,79.2,B82 B84,C
-11858934,0.0,3.0,"Keane, Mr. Andrew ""Andy""",male,28.0,0.0,0.0,124****,7.75,Desconhecido,Q
-67618e9a,0.0,2.0,"Gaskell, Mr. Alfred",male,16.0,0.0,0.0,239****,26.0,Desconhecido,S
-6e667d9e,0.0,3.0,"Sage, Miss. Stella Anna",female,28.0,8.0,2.0,CA.****,69.55,Desconhecido,S
-0938c393,0.0,1.0,"Hoyt, Mr. William Fisher",male,28.0,0.0,0.0,PC ****,30.6958,Desconhecido,C
-892739d9,0.0,3.0,"Dantcheff, Mr. Ristiu",male,25.0,0.0,0.0,349****,7.8958,Desconhecido,S
-608cfac7,0.0,2.0,"Otter, Mr. Richard",male,39.0,0.0,0.0,282****,13.0,Desconhecido,S
-533a1873,1.0,1.0,"Leader, Dr. Alice (Farnham)",female,49.0,0.0,0.0,174****,25.9292,D17,S
-ded68710,1.0,3.0,"Osman, Mrs. Mara",female,31.0,0.0,0.0,349****,8.6833,Desconhecido,S
-2b006e06,0.0,3.0,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0.0,0.0,268****,7.2292,Desconhecido,C
-7abdf348,0.0,3.0,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1.0,1.0,345****,24.15,Desconhecido,S
-c92819d6,0.0,2.0,"Ponesell, Mr. Martin",male,34.0,0.0,0.0,250****,13.0,Desconhecido,S
-5a068c90,1.0,2.0,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1.0,1.0,C.A****,26.25,Desconhecido,S
-8f69288c,1.0,1.0,"Carter, Master. William Thornton II",male,11.0,1.0,2.0,113****,120.0,B96 B98,S
-f2e2ccdb,1.0,3.0,"Thomas, Master. Assad Alexander",male,0.0,0.0,1.0,262****,8.5167,Desconhecido,C
-239fab39,1.0,3.0,"Hedman, Mr. Oskar Arvid",male,27.0,0.0,0.0,347****,6.975,Desconhecido,S
-32e933d9,0.0,3.0,"Johansson, Mr. Karl Johan",male,31.0,0.0,0.0,347****,7.775,Desconhecido,S
-cb557491,0.0,1.0,"Andrews, Mr. Thomas Jr",male,39.0,0.0,0.0,112****,0.0,A36,S
-0b62cf3b,0.0,3.0,"Pettersson, Miss. Ellen Natalia",female,18.0,0.0,0.0,347****,7.775,Desconhecido,S
-9a03e406,0.0,2.0,"Meyer, Mr. August",male,39.0,0.0,0.0,248****,13.0,Desconhecido,S
-ec3e8371,1.0,1.0,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1.0,0.0,113****,53.1,E8,S
-dc63420e,0.0,3.0,"Alexander, Mr. William",male,26.0,0.0,0.0,347****,7.8875,Desconhecido,S
-719c5fbf,0.0,3.0,"Lester, Mr. James",male,39.0,0.0,0.0,A/4****,24.15,Desconhecido,S
-f7ef26fc,0.0,2.0,"Slemen, Mr. Richard James",male,35.0,0.0,0.0,282****,10.5,Desconhecido,S
-ec127866,0.0,3.0,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4.0,2.0,347****,31.275,Desconhecido,S
-a5f23c70,0.0,3.0,"Tomlin, Mr. Ernest Portage",male,30.0,0.0,0.0,364****,8.05,Desconhecido,S
-09796f7b,0.0,1.0,"Fry, Mr. Richard",male,28.0,0.0,0.0,112****,0.0,B102,S
-d5b7590f,0.0,3.0,"Heininen, Miss. Wendla Maria",female,23.0,0.0,0.0,STO****,7.925,Desconhecido,S
-bbb52c63,0.0,2.0,"Mallet, Mr. Albert",male,31.0,1.0,1.0,S.C****,37.0042,Desconhecido,C
-421b1cc1,0.0,3.0,"Holm, Mr. John Fredrik Alexander",male,43.0,0.0,0.0,C 7****,6.45,Desconhecido,S
-25a0e47d,0.0,3.0,"Skoog, Master. Karl Thorsten",male,10.0,3.0,2.0,347****,27.9,Desconhecido,S
-5a3f410f,1.0,1.0,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1.0,1.0,127****,93.5,B69,S
-074ce8eb,1.0,3.0,"Lulic, Mr. Nikola",male,27.0,0.0,0.0,315****,8.6625,Desconhecido,S
-014e5ca2,0.0,1.0,"Reuchlin, Jonkheer. John George",male,38.0,0.0,0.0,199****,0.0,Desconhecido,S
-88656bec,1.0,3.0,"Moor, Mrs. (Beila)",female,27.0,0.0,1.0,392****,12.475,E121,S
-cbff08ef,0.0,3.0,"Panula, Master. Urho Abraham",male,2.0,4.0,1.0,310****,39.6875,Desconhecido,S
-92543fa9,0.0,3.0,"Flynn, Mr. John",male,28.0,0.0,0.0,368****,6.95,Desconhecido,Q
-9b51b10e,0.0,3.0,"Lam, Mr. Len",male,28.0,0.0,0.0,160****,56.4958,Desconhecido,S
-189b0078,1.0,2.0,"Mallet, Master. Andre",male,1.0,0.0,2.0,S.C****,37.0042,Desconhecido,C
-b0d9c027,1.0,3.0,"McCormack, Mr. Thomas Joseph",male,28.0,0.0,0.0,367****,7.75,Desconhecido,Q
-0daddb5a,1.0,1.0,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0.0,0.0,113****,80.0,B28,Desconhecido
-4b3ed453,1.0,3.0,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1.0,0.0,265****,14.4542,Desconhecido,C
-1fa37db6,1.0,2.0,"Richards, Master. George Sibley",male,0.0,1.0,1.0,291****,18.75,Desconhecido,S
-878ab26c,0.0,3.0,"Saad, Mr. Amin",male,28.0,0.0,0.0,267****,7.2292,Desconhecido,C
-09b6fe06,0.0,3.0,"Augustsson, Mr. Albert",male,23.0,0.0,0.0,347****,7.8542,Desconhecido,S
-090df497,0.0,3.0,"Allum, Mr. Owen George",male,18.0,0.0,0.0,222****,8.3,Desconhecido,S
-48bb5a9e,1.0,1.0,"Compton, Miss. Sara Rebecca",female,39.0,1.0,1.0,PC ****,83.1583,E49,C
-b19a4300,0.0,3.0,"Pasic, Mr. Jakob",male,21.0,0.0,0.0,315****,8.6625,Desconhecido,S
-279fd2b8,0.0,3.0,"Sirota, Mr. Maurice",male,28.0,0.0,0.0,392****,8.05,Desconhecido,S
-a1651c10,1.0,3.0,"Chip, Mr. Chang",male,32.0,0.0,0.0,160****,56.4958,Desconhecido,S
-6db9f029,1.0,1.0,"Marechal, Mr. Pierre",male,28.0,0.0,0.0,117****,29.7,C47,C
-33cbbf64,0.0,3.0,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0.0,0.0,SOT****,7.925,Desconhecido,S
-a26434e5,0.0,2.0,"Mudd, Mr. Thomas Charles",male,16.0,0.0,0.0,S.O****,10.5,Desconhecido,S
-c2143592,1.0,1.0,"Serepeca, Miss. Augusta",female,30.0,0.0,0.0,113****,31.0,Desconhecido,C
-2a56819b,0.0,3.0,"Lemberopolous, Mr. Peter L",male,34.0,0.0,0.0,268****,6.4375,Desconhecido,C
-87208542,0.0,3.0,"Culumovic, Mr. Jeso",male,17.0,0.0,0.0,315****,8.6625,Desconhecido,S
-bd53d7f5,0.0,3.0,"Abbing, Mr. Anthony",male,42.0,0.0,0.0,C.A****,7.55,Desconhecido,S
-b18a2f9b,0.0,3.0,"Sage, Mr. Douglas Bullen",male,28.0,8.0,2.0,CA.****,69.55,Desconhecido,S
-4eba2384,0.0,3.0,"Markoff, Mr. Marin",male,35.0,0.0,0.0,349****,7.8958,Desconhecido,C
-432d2178,0.0,2.0,"Harper, Rev. John",male,28.0,0.0,1.0,248****,33.0,Desconhecido,S
-563ee475,1.0,1.0,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,28.0,1.0,0.0,174****,89.1042,C92,C
-7c4ddddc,0.0,3.0,"Andersson, Master. Sigvard Harald Elias",male,4.0,4.0,2.0,347****,31.275,Desconhecido,S
-a4ead63d,0.0,3.0,"Svensson, Mr. Johan",male,74.0,0.0,0.0,347****,7.775,Desconhecido,S
-e0804c0c,0.0,3.0,"Boulos, Miss. Nourelain",female,9.0,1.0,1.0,267****,15.2458,Desconhecido,C
-b1d3f1b4,1.0,1.0,"Lines, Miss. Mary Conover",female,16.0,0.0,1.0,PC ****,39.4,D28,S
-ad0cd7d5,0.0,2.0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1.0,0.0,244****,26.0,Desconhecido,S
-ee03a7d9,1.0,3.0,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0.0,1.0,392****,9.35,Desconhecido,S
-c820a735,1.0,1.0,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1.0,1.0,369****,164.8667,Desconhecido,S
-4a6b6d18,1.0,1.0,"Daly, Mr. Peter Denis ",male,51.0,0.0,0.0,113****,26.55,E17,S
-9f03e61f,1.0,3.0,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0.0,3.0,266****,19.2583,Desconhecido,C
-9cfc5976,0.0,3.0,"Razi, Mr. Raihed",male,28.0,0.0,0.0,262****,7.2292,Desconhecido,C
-571cf1f7,0.0,3.0,"Hansen, Mr. Claus Peter",male,41.0,2.0,0.0,350****,14.1083,Desconhecido,S
-8048f774,0.0,2.0,"Giles, Mr. Frederick Edward",male,21.0,1.0,0.0,281****,11.5,Desconhecido,S
-d3c3180f,1.0,1.0,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0.0,0.0,174****,25.9292,D17,S
-dac90f5c,0.0,3.0,"Sage, Miss. Dorothy Edith ""Dolly""",female,28.0,8.0,2.0,CA.****,69.55,Desconhecido,S
-b0778661,0.0,2.0,"Gill, Mr. John William",male,24.0,0.0,0.0,233****,13.0,Desconhecido,S
-8486e747,1.0,2.0,"Bystrom, Mrs. (Karolina)",female,42.0,0.0,0.0,236****,13.0,Desconhecido,S
-29474152,1.0,2.0,"Duran y More, Miss. Asuncion",female,27.0,1.0,0.0,SC/****,13.8583,Desconhecido,C
-6d283737,0.0,1.0,"Roebling, Mr. Washington Augustus II",male,31.0,0.0,0.0,PC ****,50.4958,A24,S
-4ed57221,0.0,3.0,"van Melkebeke, Mr. Philemon",male,28.0,0.0,0.0,345****,9.5,Desconhecido,S
-4ebd2dfd,1.0,3.0,"Johnson, Master. Harold Theodor",male,4.0,1.0,1.0,347****,11.1333,Desconhecido,S
-05ddfe18,0.0,3.0,"Balkic, Mr. Cerin",male,26.0,0.0,0.0,349****,7.8958,Desconhecido,S
-823c65f5,1.0,1.0,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1.0,1.0,117****,52.5542,D35,S
-f5a08aff,0.0,1.0,"Carlsson, Mr. Frans Olof",male,33.0,0.0,0.0,695****,5.0,B51 B53 B55,S
-05be1a5f,0.0,3.0,"Vander Cruyssen, Mr. Victor",male,47.0,0.0,0.0,345****,9.0,Desconhecido,S
-4584f480,1.0,2.0,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1.0,0.0,P/P****,24.0,Desconhecido,C
-e84ce76f,1.0,3.0,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0.0,0.0,266****,7.225,Desconhecido,C
-f912ca56,0.0,3.0,"Gustafsson, Mr. Alfred Ossian",male,20.0,0.0,0.0,753****,9.8458,Desconhecido,S
-3e4d1d43,0.0,3.0,"Petroff, Mr. Nedelio",male,19.0,0.0,0.0,349****,7.8958,Desconhecido,S
-760a125b,0.0,3.0,"Laleff, Mr. Kristo",male,28.0,0.0,0.0,349****,7.8958,Desconhecido,S
-bce2d916,1.0,1.0,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0.0,1.0,117****,83.1583,C50,C
-269985aa,1.0,2.0,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0.0,1.0,230****,26.0,Desconhecido,S
-07f2e77b,0.0,3.0,"Markun, Mr. Johann",male,33.0,0.0,0.0,349****,7.8958,Desconhecido,S
-64ae71d8,0.0,3.0,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0.0,0.0,755****,10.5167,Desconhecido,S
-23ec6b9b,0.0,2.0,"Banfield, Mr. Frederick James",male,28.0,0.0,0.0,C.A****,10.5,Desconhecido,S
-af444447,0.0,3.0,"Sutehall, Mr. Henry Jr",male,25.0,0.0,0.0,SOT****,7.05,Desconhecido,S
-1c26fa50,0.0,3.0,"Rice, Mrs. William (Margaret Norton)",female,39.0,0.0,5.0,382****,29.125,Desconhecido,Q
-3147511f,0.0,2.0,"Montvila, Rev. Juozas",male,27.0,0.0,0.0,211****,13.0,Desconhecido,S
-f2a73891,1.0,1.0,"Graham, Miss. Margaret Edith",female,19.0,0.0,0.0,112****,30.0,B42,S
-a129a948,0.0,3.0,"Johnston, Miss. Catherine Helen ""Carrie""",female,28.0,1.0,2.0,W./****,23.45,Desconhecido,S
-20bcf993,1.0,1.0,"Behr, Mr. Karl Howell",male,26.0,0.0,0.0,111****,30.0,C148,C
-38de5f4e,0.0,3.0,"Dooley, Mr. Patrick",male,32.0,0.0,0.0,370****,7.75,Desconhecido,Q
-,,,,,,,,,,,
+b201ea7c,0,3,"Braund, Mr. Owen Harris",male,22,1,0,A/5****,7.25,Desconhecido,S
+d78f5c99,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC ****,71.2833,C,C
+e877f559,1,3,"Heikkinen, Miss. Laina",female,26,0,0,STO****,7.925,Desconhecido,S
+affc4c7d,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113****,53.1,C,S
+fba5eaf2,0,3,"Allen, Mr. William Henry",male,35,0,0,373****,8.05,Desconhecido,S
+3795ddf1,0,3,"Moran, Mr. James",male,28,0,0,330****,8.4583,Desconhecido,Q
+f26c4281,0,1,"McCarthy, Mr. Timothy J",male,54,0,0,174****,51.8625,E,S
+c2b6ada3,0,3,"Palsson, Master. Gosta Leonard",male,2,3,1,349****,21.075,Desconhecido,S
+53c7200b,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,0,2,347****,11.1333,Desconhecido,S
+642e0886,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,237****,30.0708,Desconhecido,C
+dfbf6f12,1,3,"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP ****,16.7,G,S
+fc4c479f,1,1,"Bonnell, Miss. Elizabeth",female,58,0,0,113****,26.55,C,S
+82c2f4d3,0,3,"Saundercock, Mr. William Henry",male,20,0,0,A/5****,8.05,Desconhecido,S
+0f81ec5e,0,3,"Andersson, Mr. Anders Johan",male,39,1,5,347****,31.275,Desconhecido,S
+347216fc,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14,0,0,350****,7.8542,Desconhecido,S
+449a4962,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55,0,0,248****,16.0,Desconhecido,S
+f741eba1,0,3,"Rice, Master. Eugene",male,2,4,1,382****,29.125,Desconhecido,Q
+d4085523,1,2,"Williams, Mr. Charles Eugene",male,28,0,0,244****,13.0,Desconhecido,S
+325deaf3,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,1,0,345****,18.0,Desconhecido,S
+96056670,1,3,"Masselmani, Mrs. Fatima",female,28,0,0,264****,7.225,Desconhecido,C
+ac26417c,0,2,"Fynney, Mr. Joseph J",male,35,0,0,239****,26.0,Desconhecido,S
+ce9e7f83,1,2,"Beesley, Mr. Lawrence",male,34,0,0,248****,13.0,D,S
+7556d706,1,3,"McGowan, Miss. Anna ""Annie""",female,15,0,0,330****,8.0292,Desconhecido,Q
+00910e27,1,1,"Sloper, Mr. William Thompson",male,28,0,0,113****,35.5,A,S
+d3427e7f,0,3,"Palsson, Miss. Torborg Danira",female,8,3,1,349****,21.075,Desconhecido,S
+2e0bd581,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,1,5,347****,31.3875,Desconhecido,S
+8937018f,0,3,"Emir, Mr. Farred Chehab",male,28,0,0,263****,7.225,Desconhecido,C
+32578c61,0,1,"Fortune, Mr. Charles Alexander",male,19,3,2,199****,263.0,C,S
+08c5f0a0,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,28,0,0,330****,7.8792,Desconhecido,Q
+e2d10df5,0,3,"Todoroff, Mr. Lalio",male,28,0,0,349****,7.8958,Desconhecido,S
+405d8ef6,0,1,"Uruchurtu, Don. Manuel E",male,40,0,0,PC ****,27.7208,Desconhecido,C
+56828b74,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,28,1,0,PC ****,146.5208,B,C
+434e1a12,1,3,"Glynn, Miss. Mary Agatha",female,28,0,0,335****,7.75,Desconhecido,Q
+452d5c3a,0,2,"Wheadon, Mr. Edward H",male,66,0,0,C.A****,10.5,Desconhecido,S
+1cb2d106,0,1,"Meyer, Mr. Edgar Joseph",male,28,1,0,PC ****,82.1708,Desconhecido,C
+bc703f56,0,1,"Holverson, Mr. Alexander Oskar",male,42,1,0,113****,52.0,Desconhecido,S
+cd1b2351,1,3,"Mamee, Mr. Hanna",male,28,0,0,267****,7.2292,Desconhecido,C
+19c07cf4,0,3,"Cann, Mr. Ernest Charles",male,21,0,0,A./****,8.05,Desconhecido,S
+7d41ff2c,0,3,"Vander Planke, Miss. Augusta Maria",female,18,2,0,345****,18.0,Desconhecido,S
+8471a35a,1,3,"Nicola-Yarred, Miss. Jamila",female,14,1,0,265****,11.2417,Desconhecido,C
+b4326850,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,1,0,754****,9.475,Desconhecido,S
+d8ac5b28,0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,1,0,116****,21.0,Desconhecido,S
+c8a333b0,0,3,"Kraeff, Mr. Theodor",male,28,0,0,349****,7.8958,Desconhecido,C
+b84275ac,1,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3,1,2,SC/****,41.5792,Desconhecido,C
+2ce02216,1,3,"Devaney, Miss. Margaret Delia",female,19,0,0,330****,7.8792,Desconhecido,Q
+3bf12817,0,3,"Rogers, Mr. William John",male,28,0,0,S.C****,8.05,Desconhecido,S
+7f50a5eb,0,3,"Lennon, Mr. Denis",male,28,1,0,370****,15.5,Desconhecido,Q
+05e08022,1,3,"O'Driscoll, Miss. Bridget",female,28,0,0,143****,7.75,Desconhecido,Q
+baaf7e2c,0,3,"Samaan, Mr. Youssef",male,28,2,0,266****,21.6792,Desconhecido,C
+a672eaa0,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,1,0,349****,17.8,Desconhecido,S
+cfc6e8c9,0,3,"Panula, Master. Juha Niilo",male,7,4,1,310****,39.6875,Desconhecido,S
+17c5448b,0,3,"Nosworthy, Mr. Richard Cater",male,21,0,0,A/4****,7.8,Desconhecido,S
+9dbcdf1c,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,1,0,PC ****,76.7292,D,C
+a5ef3be1,1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,1,0,292****,26.0,Desconhecido,S
+adbe7e5d,0,1,"Ostby, Mr. Engelhart Cornelius",male,65,0,1,113****,61.9792,B,C
+d999f6c2,1,1,"Woolner, Mr. Hugh",male,28,0,0,199****,35.5,C,S
+9f6acf01,1,2,"Rugg, Miss. Emily",female,21,0,0,C.A****,10.5,Desconhecido,S
+adf34601,0,3,"Novel, Mr. Mansouer",male,28,0,0,269****,7.2292,Desconhecido,C
+c6daaecd,1,2,"West, Miss. Constance Mirium",female,5,1,2,C.A****,27.75,Desconhecido,S
+f1faf632,0,3,"Goodwin, Master. William Frederick",male,11,5,2,CA ****,46.9,Desconhecido,S
+d5e0d3dd,0,3,"Sirayanian, Mr. Orsen",male,22,0,0,266****,7.2292,Desconhecido,C
+82a56699,1,1,"Icard, Miss. Amelie",female,38,0,0,113****,80.0,B,Desconhecido
+db8a2e69,0,1,"Harris, Mr. Henry Birkhardt",male,45,1,0,369****,83.475,C,S
+44bd17c4,0,3,"Skoog, Master. Harald",male,4,3,2,347****,27.9,Desconhecido,S
+7636340b,0,1,"Stewart, Mr. Albert A",male,28,0,0,PC ****,27.7208,Desconhecido,C
+185b40fd,1,3,"Moubarek, Master. Gerios",male,28,1,1,266****,15.2458,Desconhecido,C
+dea11980,1,2,"Nye, Mrs. (Elizabeth Ramell)",female,29,0,0,C.A****,10.5,F,S
+a6606bcf,0,3,"Crease, Mr. Ernest James",male,19,0,0,S.P****,8.1583,Desconhecido,S
+a0817f2c,1,3,"Andersson, Miss. Erna Alexandra",female,17,4,2,310****,7.925,Desconhecido,S
+dc54dab3,0,3,"Kink, Mr. Vincenz",male,26,2,0,315****,8.6625,Desconhecido,S
+1160891f,0,2,"Jenkin, Mr. Stephen Curnow",male,32,0,0,C.A****,10.5,Desconhecido,S
+e99f7410,0,3,"Goodwin, Miss. Lillian Amy",female,16,5,2,CA ****,46.9,Desconhecido,S
+55ead299,0,2,"Hood, Mr. Ambrose Jr",male,21,0,0,S.O****,73.5,Desconhecido,S
+9ceac800,0,3,"Chronopoulos, Mr. Apostolos",male,26,1,0,268****,14.4542,Desconhecido,C
+c2075e62,1,3,"Bing, Mr. Lee",male,32,0,0,160****,56.4958,Desconhecido,S
+5dbbb8cf,0,3,"Moen, Mr. Sigurd Hansen",male,25,0,0,348****,7.65,F,S
+43e00475,0,3,"Staneff, Mr. Ivan",male,28,0,0,349****,7.8958,Desconhecido,S
+04d1b4e7,0,3,"Moutal, Mr. Rahamin Haim",male,28,0,0,374****,8.05,Desconhecido,S
+a9b3c2d6,1,2,"Caldwell, Master. Alden Gates",male,0,0,2,248****,29.0,Desconhecido,S
+3f373b5b,1,3,"Dowdell, Miss. Elizabeth",female,30,0,0,364****,12.475,Desconhecido,S
+2b01a06c,0,3,"Waelens, Mr. Achille",male,22,0,0,345****,9.0,Desconhecido,S
+3148971e,1,3,"Sheerlinck, Mr. Jan Baptist",male,29,0,0,345****,9.5,Desconhecido,S
+adfda962,1,3,"McDermott, Miss. Brigdet Delia",female,28,0,0,330****,7.7875,Desconhecido,Q
+cf299090,0,1,"Carrau, Mr. Francisco M",male,28,0,0,113****,47.1,Desconhecido,S
+58ed558d,1,2,"Ilett, Miss. Bertha",female,17,0,0,SO/****,10.5,Desconhecido,S
+c2a96559,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,3,0,310****,15.85,Desconhecido,S
+fb840b3b,0,3,"Ford, Mr. William Neal",male,16,1,3,W./****,34.375,Desconhecido,S
+1bb39792,0,3,"Slocovski, Mr. Selman Francis",male,28,0,0,SOT****,8.05,Desconhecido,S
+f0add848,1,1,"Fortune, Miss. Mabel Helen",female,23,3,2,199****,263.0,C,S
+3047a6a2,0,3,"Celotti, Mr. Francesco",male,24,0,0,343****,8.05,Desconhecido,S
+51e49130,0,3,"Christmann, Mr. Emil",male,29,0,0,343****,8.05,Desconhecido,S
+c062f98a,0,3,"Andreasson, Mr. Paul Edvin",male,20,0,0,347****,7.8542,Desconhecido,S
+d8c7818c,0,1,"Chaffee, Mr. Herbert Fuller",male,46,1,0,W.E****,61.175,E,S
+9b910941,0,3,"Dean, Mr. Bertram Frank",male,26,1,2,C.A****,20.575,Desconhecido,S
+5c226b66,0,3,"Coxon, Mr. Daniel",male,59,0,0,364****,7.25,Desconhecido,S
+0d04858a,0,3,"Shorney, Mr. Charles Joseph",male,28,0,0,374****,8.05,Desconhecido,S
+685f95a5,0,1,"Goldschmidt, Mr. George B",male,71,0,0,PC ****,34.6542,A,C
+cc565836,1,1,"Greenfield, Mr. William Bertram",male,23,0,1,PC ****,63.3583,D,C
+a925c087,1,2,"Doling, Mrs. John T (Ada Julia Bone)",female,34,0,1,231****,23.0,Desconhecido,S
+ce280feb,0,2,"Kantor, Mr. Sinai",male,34,1,0,244****,26.0,Desconhecido,S
+d5879a6a,0,3,"Petranec, Miss. Matilda",female,28,0,0,349****,7.8958,Desconhecido,S
+a4c1da4c,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,28,0,0,349****,7.8958,Desconhecido,S
+cdc0ff28,0,1,"White, Mr. Richard Frasar",male,21,0,1,352****,77.2875,D,S
+d0bcd71a,0,3,"Johansson, Mr. Gustaf Joel",male,33,0,0,754****,8.6542,Desconhecido,S
+ccd22712,0,3,"Gustafsson, Mr. Anders Vilhelm",male,37,2,0,310****,7.925,Desconhecido,S
+e9d6b4d3,0,3,"Mionoff, Mr. Stoytcho",male,28,0,0,349****,7.8958,Desconhecido,S
+eae4bf3c,1,3,"Salkjelsvik, Miss. Anna Kristine",female,21,0,0,343****,7.65,Desconhecido,S
+166e398a,1,3,"Moss, Mr. Albert Johan",male,28,0,0,312****,7.775,Desconhecido,S
+016c74e8,0,3,"Rekic, Mr. Tido",male,38,0,0,349****,7.8958,Desconhecido,S
+bfc4aa4a,1,3,"Moran, Miss. Bertha",female,28,1,0,371****,24.15,Desconhecido,Q
+6e94f956,0,1,"Porter, Mr. Walter Chamberlain",male,47,0,0,110****,52.0,C,S
+359563f3,0,3,"Zabour, Miss. Hileni",female,14,1,0,266****,14.4542,Desconhecido,C
+74275658,0,3,"Barton, Mr. David John",male,22,0,0,324****,8.05,Desconhecido,S
+2ed705c6,0,3,"Jussila, Miss. Katriina",female,20,1,0,413****,9.825,Desconhecido,S
+61937ed5,0,3,"Attalah, Miss. Malake",female,17,0,0,262****,14.4583,Desconhecido,C
+bb288b05,0,3,"Pekoniemi, Mr. Edvard",male,21,0,0,STO****,7.925,Desconhecido,S
+219541c9,0,3,"Connors, Mr. Patrick",male,70,0,0,370****,7.75,Desconhecido,Q
+3fef0b67,0,2,"Turpin, Mr. William John Robert",male,29,1,0,116****,21.0,Desconhecido,S
+437fedfe,0,1,"Baxter, Mr. Quigg Edmond",male,24,0,1,PC ****,247.5208,B,C
+46f94875,0,3,"Andersson, Miss. Ellis Anna Maria",female,2,4,2,347****,31.275,Desconhecido,S
+4718fb1f,0,2,"Hickman, Mr. Stanley George",male,21,2,0,S.O****,73.5,Desconhecido,S
+70ce4a3a,0,3,"Moore, Mr. Leonard Charles",male,28,0,0,A4.****,8.05,Desconhecido,S
+1ec0d57c,0,2,"Nasser, Mr. Nicholas",male,32,1,0,237****,30.0708,Desconhecido,C
+d57a442c,1,2,"Webber, Miss. Susan",female,32,0,0,272****,13.0,E,S
+cfc4b646,0,1,"White, Mr. Percival Wayland",male,54,0,1,352****,77.2875,D,S
+71c9368c,1,3,"Nicola-Yarred, Master. Elias",male,12,1,0,265****,11.2417,Desconhecido,C
+a4e8180d,0,3,"McMahon, Mr. Martin",male,28,0,0,370****,7.75,Desconhecido,Q
+73a58430,1,3,"Madsen, Mr. Fridtjof Arne",male,24,0,0,C 1****,7.1417,Desconhecido,S
+88a4c7a4,1,3,"Peter, Miss. Anna",female,28,1,1,266****,22.3583,F,C
+de380d15,0,3,"Ekstrom, Mr. Johan",male,45,0,0,347****,6.975,Desconhecido,S
+3bf248e2,0,3,"Drazenoic, Mr. Jozef",male,33,0,0,349****,7.8958,Desconhecido,C
+602b73df,0,3,"Coelho, Mr. Domingos Fernandeo",male,20,0,0,SOT****,7.05,Desconhecido,S
+02dbfea0,0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47,1,0,A/5****,14.5,Desconhecido,S
+5700fd40,1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29,1,0,228****,26.0,Desconhecido,S
+6f8dbfa9,0,2,"Sobey, Mr. Samuel James Hayden",male,25,0,0,C.A****,13.0,Desconhecido,S
+18d8b815,0,2,"Richard, Mr. Emile",male,23,0,0,SC/****,15.0458,Desconhecido,C
+5300bd01,1,1,"Newsom, Miss. Helen Monypeny",female,19,0,2,117****,26.2833,D,S
+ff9072d0,0,1,"Futrelle, Mr. Jacques Heath",male,37,1,0,113****,53.1,C,S
+103b352b,0,3,"Osen, Mr. Olaf Elon",male,16,0,0,753****,9.2167,Desconhecido,S
+cdeabb13,0,1,"Giglio, Mr. Victor",male,24,0,0,PC ****,79.2,B,C
+ed5b3aa7,0,3,"Boulos, Mrs. Joseph (Sultana)",female,28,0,2,267****,15.2458,Desconhecido,C
+8b078d26,1,3,"Nysten, Miss. Anna Sofia",female,22,0,0,347****,7.75,Desconhecido,S
+4bb9f7bc,1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24,1,0,STO****,15.85,Desconhecido,S
+007de761,0,3,"Burke, Mr. Jeremiah",male,19,0,0,365****,6.75,Desconhecido,Q
+4536dc94,0,2,"Andrew, Mr. Edgardo Samuel",male,18,0,0,231****,11.5,Desconhecido,S
+2e7231ee,0,2,"Nicholls, Mr. Joseph Charles",male,19,1,1,C.A****,36.75,Desconhecido,S
+cfc50eaa,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,0,0,350****,7.7958,Desconhecido,S
+34a6b519,0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,9,2,2,W./****,34.375,Desconhecido,S
+87046b83,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36,0,2,230****,26.0,F,S
+2bec5aa9,0,2,"Byles, Rev. Thomas Roussel Davids",male,42,0,0,244****,13.0,Desconhecido,S
+83d8f1f2,0,2,"Bateman, Rev. Robert James",male,51,0,0,S.O****,12.525,Desconhecido,S
+f0fe2904,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22,1,0,113****,66.6,C,S
+1a080de6,0,3,"Meo, Mr. Alfonzo",male,55,0,0,A.5****,8.05,Desconhecido,S
+c932d172,0,3,"van Billiard, Mr. Austin Blyler",male,40,0,2,A/5****,14.5,Desconhecido,S
+845f151d,0,3,"Olsen, Mr. Ole Martin",male,28,0,0,Fa ****,7.3125,Desconhecido,S
+74340109,0,1,"Williams, Mr. Charles Duane",male,51,0,1,PC ****,61.3792,Desconhecido,C
+6f707b1e,1,3,"Gilnagh, Miss. Katherine ""Katie""",female,16,0,0,358****,7.7333,Desconhecido,Q
+ae52ee0e,0,3,"Corn, Mr. Harry",male,30,0,0,SOT****,8.05,Desconhecido,S
+a3e18ad3,0,3,"Smiljanic, Mr. Mile",male,28,0,0,315****,8.6625,Desconhecido,S
+eabd34bf,0,3,"Sage, Master. Thomas Henry",male,28,8,2,CA.****,69.55,Desconhecido,S
+572f3f73,0,3,"Cribb, Mr. John Hatfield",male,44,0,1,371****,16.1,Desconhecido,S
+9a3d3e97,1,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,0,0,C.A****,15.75,Desconhecido,S
+6043b2ad,0,3,"Bengtsson, Mr. John Viktor",male,26,0,0,347****,7.775,Desconhecido,S
+2d432aec,0,3,"Calic, Mr. Jovo",male,17,0,0,315****,8.6625,Desconhecido,S
+cbdeb896,0,3,"Panula, Master. Eino Viljami",male,1,4,1,310****,39.6875,Desconhecido,S
+2218ad50,1,3,"Goldsmith, Master. Frank John William ""Frankie""",male,9,0,2,363****,20.525,Desconhecido,S
+a8913eb7,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,28,0,1,113****,55.0,E,S
+530b833f,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45,1,4,347****,27.9,Desconhecido,S
+7e00cac7,0,1,"Baumann, Mr. John D",male,28,0,0,PC ****,25.925,Desconhecido,S
+74a39746,0,3,"Ling, Mr. Lee",male,28,0,0,160****,56.4958,Desconhecido,S
+b2fc8227,0,1,"Van der hoef, Mr. Wyckoff",male,61,0,0,111****,33.5,B,S
+25254385,0,3,"Rice, Master. Arthur",male,4,4,1,382****,29.125,Desconhecido,Q
+85db515e,1,3,"Johnson, Miss. Eleanor Ileen",female,1,1,1,347****,11.1333,Desconhecido,S
+66aa57f1,0,3,"Sivola, Mr. Antti Wilhelm",male,21,0,0,STO****,7.925,Desconhecido,S
+c4c10b02,0,1,"Smith, Mr. James Clinch",male,56,0,0,177****,30.6958,A,C
+efffc5b7,0,3,"Klasen, Mr. Klas Albin",male,18,1,1,350****,7.8542,Desconhecido,S
+37038b74,0,3,"Lefebre, Master. Henry Forbes",male,28,3,1,413****,25.4667,Desconhecido,S
+d69a1803,0,1,"Isham, Miss. Ann Elizabeth",female,50,0,0,PC ****,28.7125,C,C
+0e8ab476,0,2,"Hale, Mr. Reginald",male,30,0,0,250****,13.0,Desconhecido,S
+0ffcde5e,0,3,"Leonard, Mr. Lionel",male,36,0,0,LIN****,0.0,Desconhecido,S
+4dd52d24,0,3,"Sage, Miss. Constance Gladys",female,28,8,2,CA.****,69.55,Desconhecido,S
+bdcfb1ac,0,2,"Pernot, Mr. Rene",male,28,0,0,SC/****,15.05,Desconhecido,C
+2bfffea2,0,3,"Asplund, Master. Clarence Gustaf Hugo",male,9,4,2,347****,31.3875,Desconhecido,S
+e5563527,1,2,"Becker, Master. Richard F",male,1,2,1,230****,39.0,F,S
+aff50d42,1,3,"Kink-Heilmann, Miss. Luise Gretchen",female,4,0,2,315****,22.025,Desconhecido,S
+ce968fdf,0,1,"Rood, Mr. Hugh Roscoe",male,28,0,0,113****,50.0,A,S
+a25b3b4d,1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,28,1,0,370****,15.5,Desconhecido,Q
+e24cccd3,1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45,0,0,111****,26.55,Desconhecido,S
+437af9d3,0,3,"Bourke, Mr. John",male,40,1,1,364****,15.5,Desconhecido,Q
+39fc1b57,0,3,"Turcin, Mr. Stjepan",male,36,0,0,349****,7.8958,Desconhecido,S
+c0f60a7d,1,2,"Pinsky, Mrs. (Rosa)",female,32,0,0,234****,13.0,Desconhecido,S
+1c31a140,0,2,"Carbines, Mr. William",male,19,0,0,284****,13.0,Desconhecido,S
+e677365b,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19,1,0,350****,7.8542,Desconhecido,S
+10e5aba9,1,2,"Navratil, Master. Michel M",male,3,1,1,230****,26.0,F,S
+83acf366,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,0,0,PC ****,27.7208,B,C
+753b2c4c,1,1,"Lurette, Miss. Elise",female,58,0,0,PC ****,146.5208,B,C
+b83cf01b,0,3,"Mernagh, Mr. Robert",male,28,0,0,368****,7.75,Desconhecido,Q
+d758a04f,0,3,"Olsen, Mr. Karl Siegwart Andreas",male,42,0,1,457****,8.4042,Desconhecido,S
+a8ef3e87,1,3,"Madigan, Miss. Margaret ""Maggie""",female,28,0,0,370****,7.75,Desconhecido,Q
+8a352abd,0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,0,0,248****,13.0,Desconhecido,S
+a5a4d21e,0,3,"Vande Walle, Mr. Nestor Cyriel",male,28,0,0,345****,9.5,Desconhecido,S
+da0933e5,0,3,"Sage, Mr. Frederick",male,28,8,2,CA.****,69.55,Desconhecido,S
+36f830b1,0,3,"Johanson, Mr. Jakob Alfred",male,34,0,0,310****,6.4958,Desconhecido,S
+e72ad5b6,0,3,"Youseff, Mr. Gerious",male,45,0,0,262****,7.225,Desconhecido,C
+d5c6d6fe,1,3,"Cohen, Mr. Gurshon ""Gus""",male,18,0,0,A/5****,8.05,Desconhecido,S
+48dc7547,0,3,"Strom, Miss. Telma Matilda",female,2,0,1,347****,10.4625,G,S
+5d6cac8b,0,3,"Backstrom, Mr. Karl Alfred",male,32,1,0,310****,15.85,Desconhecido,S
+26aff525,1,3,"Albimona, Mr. Nassef Cassem",male,26,0,0,269****,18.7875,Desconhecido,C
+07137501,1,3,"Carr, Miss. Helen ""Ellen""",female,16,0,0,367****,7.75,Desconhecido,Q
+17f559f6,1,1,"Blank, Mr. Henry",male,40,0,0,112****,31.0,A,C
+8b195512,0,3,"Ali, Mr. Ahmed",male,24,0,0,SOT****,7.05,Desconhecido,S
+956d43b5,1,2,"Cameron, Miss. Clear Annie",female,35,0,0,F.C****,21.0,Desconhecido,S
+86fc1cdd,0,3,"Perkin, Mr. John Henry",male,22,0,0,A/5****,7.25,Desconhecido,S
+9508f7ad,0,2,"Givard, Mr. Hans Kristensen",male,30,0,0,250****,13.0,Desconhecido,S
+e5b4c7dc,0,3,"Kiernan, Mr. Philip",male,28,1,0,367****,7.75,Desconhecido,Q
+1094c4b8,1,1,"Newell, Miss. Madeleine",female,31,1,0,352****,113.275,D,C
+350673d7,1,3,"Honkanen, Miss. Eliina",female,27,0,0,STO****,7.925,Desconhecido,S
+0e635e7c,0,2,"Jacobsohn, Mr. Sidney Samuel",male,42,1,0,243****,27.0,Desconhecido,S
+4985ea4a,1,1,"Bazzani, Miss. Albina",female,32,0,0,118****,76.2917,D,C
+df9eb663,0,2,"Harris, Mr. Walter",male,30,0,0,W/C****,10.5,Desconhecido,S
+f90a4422,1,3,"Sunderland, Mr. Victor Francis",male,16,0,0,SOT****,8.05,Desconhecido,S
+afbd7baf,0,2,"Bracken, Mr. James H",male,27,0,0,220****,13.0,Desconhecido,S
+285a9101,0,3,"Green, Mr. George Henry",male,51,0,0,214****,8.05,Desconhecido,S
+e7b178c7,0,3,"Nenkoff, Mr. Christo",male,28,0,0,349****,7.8958,Desconhecido,S
+bcd708a9,1,1,"Hoyt, Mr. Frederick Maxfield",male,38,1,0,199****,90.0,C,S
+6694468d,0,3,"Berglund, Mr. Karl Ivar Sven",male,22,0,0,PP ****,9.35,Desconhecido,S
+71a3483e,1,2,"Mellors, Mr. William John",male,19,0,0,SW/****,10.5,Desconhecido,S
+8b7356d6,0,3,"Lovell, Mr. John Hall (""Henry"")",male,20,0,0,A/5****,7.25,Desconhecido,S
+ccf00fc1,0,2,"Fahlstrom, Mr. Arne Jonas",male,18,0,0,236****,13.0,Desconhecido,S
+b1f6357d,0,3,"Lefebre, Miss. Mathilde",female,28,3,1,413****,25.4667,Desconhecido,S
+99dad0be,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,1,0,369****,83.475,C,S
+974592f4,0,3,"Larsson, Mr. Bengt Edvin",male,29,0,0,347****,7.775,Desconhecido,S
+0ba8ab1a,0,2,"Sjostedt, Mr. Ernst Adolf",male,59,0,0,237****,13.5,Desconhecido,S
+e33d83dd,1,3,"Asplund, Miss. Lillian Gertrud",female,5,4,2,347****,31.3875,Desconhecido,S
+89ec6aa2,0,2,"Leyson, Mr. Robert William Norman",male,24,0,0,C.A****,10.5,Desconhecido,S
+ba8ca55e,0,3,"Harknett, Miss. Alice Phoebe",female,28,0,0,W./****,7.55,Desconhecido,S
+796fe378,0,2,"Hold, Mr. Stephen",male,44,1,0,267****,26.0,Desconhecido,S
+6f8fa43c,1,2,"Collyer, Miss. Marjorie ""Lottie""",female,8,0,2,C.A****,26.25,Desconhecido,S
+53970dab,0,2,"Pengelly, Mr. Frederick William",male,19,0,0,286****,10.5,Desconhecido,S
+976a7aa2,0,2,"Hunt, Mr. George Henry",male,33,0,0,SCO****,12.275,Desconhecido,S
+5f10512f,0,3,"Zabour, Miss. Thamine",female,28,1,0,266****,14.4542,Desconhecido,C
+acabdb28,1,3,"Murphy, Miss. Katherine ""Kate""",female,28,1,0,367****,15.5,Desconhecido,Q
+4d6e37b5,0,2,"Coleridge, Mr. Reginald Charles",male,29,0,0,W./****,10.5,Desconhecido,S
+17cb36d3,0,3,"Maenpaa, Mr. Matti Alexanteri",male,22,0,0,STO****,7.125,Desconhecido,S
+9bf1e493,0,3,"Attalah, Mr. Sleiman",male,30,0,0,269****,7.225,Desconhecido,C
+8056a4b2,0,1,"Minahan, Dr. William Edward",male,44,2,0,199****,90.0,C,Q
+700edb43,0,3,"Lindahl, Miss. Agda Thorilda Viktoria",female,25,0,0,347****,7.775,Desconhecido,S
+31064516,1,2,"Hamalainen, Mrs. William (Anna)",female,24,0,2,250****,14.5,Desconhecido,S
+c5ba2575,1,1,"Beckwith, Mr. Richard Leonard",male,37,1,1,117****,52.5542,D,S
+4919dd75,0,2,"Carter, Rev. Ernest Courtenay",male,54,1,0,244****,26.0,Desconhecido,S
+b2273946,0,3,"Reed, Mr. James George",male,28,0,0,362****,7.25,Desconhecido,S
+a299ae42,0,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29,1,1,347****,10.4625,G,S
+c6707c06,0,1,"Stead, Mr. William Thomas",male,62,0,0,113****,26.55,C,S
+5b50fab8,0,3,"Lobb, Mr. William Arthur",male,30,1,0,A/5****,16.1,Desconhecido,S
+f38cc475,0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41,0,2,370****,20.2125,Desconhecido,S
+4e90cd98,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29,0,2,265****,15.2458,Desconhecido,C
+7f29ac6c,1,1,"Thorne, Mrs. Gertrude Maybelle",female,28,0,0,PC ****,79.2,Desconhecido,C
+cfb30fc7,1,1,"Cherry, Miss. Gladys",female,30,0,0,110****,86.5,B,S
+06bd3c23,1,1,"Ward, Miss. Anna",female,35,0,0,PC ****,512.3292,Desconhecido,C
+89bd8f12,1,2,"Parrish, Mrs. (Lutie Davis)",female,50,0,1,230****,26.0,Desconhecido,S
+db21471f,0,3,"Smith, Mr. Thomas",male,28,0,0,384****,7.75,Desconhecido,Q
+540ba3ed,1,3,"Asplund, Master. Edvin Rojj Felix",male,3,4,2,347****,31.3875,Desconhecido,S
+4a06b188,0,1,"Taussig, Mr. Emil",male,52,1,1,110****,79.65,E,S
+39381599,0,1,"Harrison, Mr. William",male,40,0,0,112****,0.0,B,S
+f58716eb,0,3,"Henry, Miss. Delia",female,28,0,0,382****,7.75,Desconhecido,Q
+32eee8a7,0,2,"Reeves, Mr. David",male,36,0,0,C.A****,10.5,Desconhecido,S
+dc47393e,0,3,"Panula, Mr. Ernesti Arvid",male,16,4,1,310****,39.6875,Desconhecido,S
+a56c1234,1,3,"Persson, Mr. Ernst Ulrik",male,25,1,0,347****,7.775,Desconhecido,S
+00e3f6eb,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,0,1,PC ****,153.4625,C,S
+ed99bfe1,1,1,"Bissette, Miss. Amelia",female,35,0,0,PC ****,135.6333,C,S
+67fcdd05,0,1,"Cairns, Mr. Alexander",male,28,0,0,113****,31.0,Desconhecido,S
+d9be7f4c,1,3,"Tornquist, Mr. William Henry",male,25,0,0,LIN****,0.0,Desconhecido,S
+b56cbefe,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41,0,1,250****,19.5,Desconhecido,S
+1b361402,0,1,"Natsch, Mr. Charles H",male,37,0,1,PC ****,29.7,C,C
+50b52fb8,1,3,"Healy, Miss. Hanora ""Nora""",female,28,0,0,370****,7.75,Desconhecido,Q
+33ef68ed,1,1,"Andrews, Miss. Kornelia Theodosia",female,63,1,0,135****,77.9583,D,S
+212da18f,0,3,"Lindblom, Miss. Augusta Charlotta",female,45,0,0,347****,7.75,Desconhecido,S
+d8f44ea1,0,2,"Parkes, Mr. Francis ""Frank""",male,28,0,0,239****,0.0,Desconhecido,S
+dfecacd5,0,3,"Rice, Master. Eric",male,7,4,1,382****,29.125,Desconhecido,Q
+f67b061e,1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35,1,1,C.A****,20.25,Desconhecido,S
+c441e370,0,3,"Duane, Mr. Frank",male,65,0,0,336****,7.75,Desconhecido,Q
+bc50e251,0,3,"Olsson, Mr. Nils Johan Goransson",male,28,0,0,347****,7.8542,Desconhecido,S
+e4ea067f,0,3,"de Pelsmaeker, Mr. Alfons",male,16,0,0,345****,9.5,Desconhecido,S
+45efca19,1,3,"Dorking, Mr. Edward Arthur",male,19,0,0,A/5****,8.05,Desconhecido,S
+033ab510,0,1,"Smith, Mr. Richard William",male,28,0,0,113****,26.0,A,S
+0e2326d4,0,3,"Stankovic, Mr. Ivan",male,33,0,0,349****,8.6625,Desconhecido,C
+b7279f6d,1,3,"de Mulder, Mr. Theodore",male,30,0,0,345****,9.5,Desconhecido,S
+e14142ad,0,3,"Naidenoff, Mr. Penko",male,22,0,0,349****,7.8958,Desconhecido,S
+4d19715b,1,2,"Hosono, Mr. Masabumi",male,42,0,0,237****,13.0,Desconhecido,S
+6824fc05,1,3,"Connolly, Miss. Kate",female,22,0,0,370****,7.75,Desconhecido,Q
+cde812ad,1,1,"Barber, Miss. Ellen ""Nellie""",female,26,0,0,198****,78.85,Desconhecido,S
+714899ca,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,1,0,119****,91.0792,B,C
+36f47599,0,2,"Levy, Mr. Rene Jacques",male,36,0,0,SC/****,12.875,D,C
+08006dd5,0,3,"Haas, Miss. Aloisia",female,24,0,0,349****,8.85,Desconhecido,S
+886d8bb5,0,3,"Mineff, Mr. Ivan",male,24,0,0,349****,7.8958,Desconhecido,S
+fce00670,0,1,"Lewy, Mr. Ervin G",male,28,0,0,PC ****,27.7208,Desconhecido,C
+f6b27443,0,3,"Hanna, Mr. Mansour",male,23,0,0,269****,7.2292,Desconhecido,C
+e0eab43f,0,1,"Allison, Miss. Helen Loraine",female,2,1,2,113****,151.55,C,S
+00ea7a83,1,1,"Saalfeld, Mr. Adolphe",male,28,0,0,199****,30.5,C,S
+6e9aef45,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,0,1,PC ****,247.5208,B,C
+5f50bbe4,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,28,0,0,923****,7.75,Desconhecido,Q
+d89cb30e,1,3,"McCoy, Mr. Bernard",male,28,2,0,367****,23.25,Desconhecido,Q
+f91c38bc,0,3,"Johnson, Mr. William Cahoone Jr",male,19,0,0,LIN****,0.0,Desconhecido,S
+e30a1ac7,1,2,"Keane, Miss. Nora A",female,28,0,0,226****,12.35,E,Q
+197d25f3,0,3,"Williams, Mr. Howard Hugh ""Harry""",male,28,0,0,A/5****,8.05,Desconhecido,S
+8e80d6f3,1,1,"Allison, Master. Hudson Trevor",male,0,1,2,113****,151.55,C,S
+5f5af1bd,1,1,"Fleming, Miss. Margaret",female,28,0,0,174****,110.8833,Desconhecido,C
+86f7eff1,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,1,0,PC ****,108.9,C,C
+bf8aad01,0,2,"Abelson, Mr. Samuel",male,30,1,0,P/P****,24.0,Desconhecido,C
+c70b8087,1,1,"Francatelli, Miss. Laura Mabel",female,30,0,0,PC ****,56.9292,E,C
+c7981a4b,1,1,"Hays, Miss. Margaret Bechstein",female,24,0,0,117****,83.1583,C,C
+29ce757f,1,1,"Ryerson, Miss. Emily Borie",female,18,2,2,PC ****,262.375,B,C
+4818dfae,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",female,26,1,1,250****,26.0,Desconhecido,S
+dba32f9a,0,3,"Hendekovic, Mr. Ignjac",male,28,0,0,349****,7.8958,Desconhecido,S
+8b431fc8,0,2,"Hart, Mr. Benjamin",male,43,1,1,F.C****,26.25,Desconhecido,S
+bae03e67,1,3,"Nilsson, Miss. Helmina Josefina",female,26,0,0,347****,7.8542,Desconhecido,S
+840598f2,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24,1,0,244****,26.0,Desconhecido,S
+723801dd,0,2,"Moraweck, Dr. Ernest",male,54,0,0,290****,14.0,Desconhecido,S
+58bca956,1,1,"Wick, Miss. Mary Natalie",female,31,0,2,369****,164.8667,C,S
+5c4c387c,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,1,1,169****,134.5,E,C
+a6be26d4,0,3,"Dennis, Mr. Samuel",male,22,0,0,A/5****,7.25,Desconhecido,S
+0f439b57,0,3,"Danoff, Mr. Yoto",male,27,0,0,349****,7.8958,Desconhecido,S
+8806c692,1,2,"Slayter, Miss. Hilda Mary",female,30,0,0,234****,12.35,Desconhecido,Q
+f06705e7,1,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22,1,1,248****,29.0,Desconhecido,S
+36ac4875,0,3,"Sage, Mr. George John Jr",male,28,8,2,CA.****,69.55,Desconhecido,S
+330524ac,1,1,"Young, Miss. Marie Grice",female,36,0,0,PC ****,135.6333,C,C
+a7279e07,0,3,"Nysveen, Mr. Johan Hansen",male,61,0,0,345****,6.2375,Desconhecido,S
+b93cd95a,1,2,"Ball, Mrs. (Ada E Hall)",female,36,0,0,285****,13.0,D,S
+957389e6,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31,1,1,363****,20.525,Desconhecido,S
+648a1623,1,1,"Hippach, Miss. Jean Gertrude",female,16,0,1,111****,57.9792,B,C
+c2cd8989,1,3,"McCoy, Miss. Agnes",female,28,2,0,367****,23.25,Desconhecido,Q
+502dfa4e,0,1,"Partner, Mr. Austen",male,45,0,0,113****,28.5,C,S
+ec260ce1,0,1,"Graham, Mr. George Edward",male,38,0,1,PC ****,153.4625,C,S
+147b0a31,0,3,"Vander Planke, Mr. Leo Edmondus",male,16,2,0,345****,18.0,Desconhecido,S
+60452d16,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,28,1,0,PC ****,133.65,Desconhecido,S
+bff2a7c1,0,3,"Denkoff, Mr. Mitto",male,28,0,0,349****,7.8958,Desconhecido,S
+76aa9c9d,0,1,"Pears, Mr. Thomas Clinton",male,29,1,0,113****,66.6,C,S
+1ae326d0,1,1,"Burns, Miss. Elizabeth Margaret",female,41,0,0,169****,134.5,E,C
+20d242d7,1,3,"Dahl, Mr. Karl Edwart",male,45,0,0,759****,8.05,Desconhecido,S
+6e061049,0,1,"Blackwell, Mr. Stephen Weart",male,45,0,0,113****,35.5,T,S
+53adf5df,1,2,"Navratil, Master. Edmond Roger",male,2,1,1,230****,26.0,F,S
+28f59cd7,1,1,"Fortune, Miss. Alice Elizabeth",female,24,3,2,199****,263.0,C,S
+ce21d2c6,0,2,"Collander, Mr. Erik Gustaf",male,28,0,0,248****,13.0,Desconhecido,S
+54b13433,0,2,"Sedgwick, Mr. Charles Frederick Waddington",male,25,0,0,244****,13.0,Desconhecido,S
+dee0e62d,0,2,"Fox, Mr. Stanley Hubert",male,36,0,0,229****,13.0,Desconhecido,S
+85404bdb,1,2,"Brown, Miss. Amelia ""Mildred""",female,24,0,0,248****,13.0,F,S
+4dd70ed7,1,2,"Smith, Miss. Marion Elsie",female,40,0,0,314****,13.0,Desconhecido,S
+202b15a7,1,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,28,1,0,386****,16.1,Desconhecido,S
+3dca56bf,1,3,"Coutts, Master. William Loch ""William""",male,3,1,1,C.A****,15.9,Desconhecido,S
+43a07ad7,0,3,"Dimic, Mr. Jovan",male,42,0,0,315****,8.6625,Desconhecido,S
+9c687ac4,0,3,"Odahl, Mr. Nils Martin",male,23,0,0,726****,9.225,Desconhecido,S
+61c6152a,0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,28,0,0,113****,35.0,C,S
+5c11a6ce,0,3,"Elias, Mr. Tannous",male,15,1,1,269****,7.2292,Desconhecido,C
+1e53d7ab,0,3,"Arnold-Franchi, Mr. Josef",male,25,1,0,349****,17.8,Desconhecido,S
+8838dfee,0,3,"Yousif, Mr. Wazli",male,28,0,0,264****,7.225,Desconhecido,C
+ece419c1,0,3,"Vanden Steen, Mr. Leo Peter",male,28,0,0,345****,9.5,Desconhecido,S
+93d33c9b,1,1,"Bowerman, Miss. Elsie Edith",female,22,0,1,113****,55.0,E,S
+e0357dc1,0,2,"Funk, Miss. Annie Clemmer",female,38,0,0,237****,13.0,Desconhecido,S
+89601716,1,3,"McGovern, Miss. Mary",female,28,0,0,330****,7.8792,Desconhecido,Q
+6029759c,1,3,"Mockler, Miss. Helen Mary ""Ellie""",female,28,0,0,330****,7.8792,Desconhecido,Q
+dbac41c5,0,3,"Skoog, Mr. Wilhelm",male,40,1,4,347****,27.9,Desconhecido,S
+34010a53,0,2,"del Carlo, Mr. Sebastiano",male,29,1,0,SC/****,27.7208,Desconhecido,C
+3db8bdee,0,3,"Barbara, Mrs. (Catherine David)",female,45,0,1,269****,14.4542,Desconhecido,C
+6cc7faaf,0,3,"Asim, Mr. Adola",male,35,0,0,SOT****,7.05,Desconhecido,S
+8c643ad2,0,3,"O'Brien, Mr. Thomas",male,28,1,0,370****,15.5,Desconhecido,Q
+f4d3de40,0,3,"Adahl, Mr. Mauritz Nils Martin",male,30,0,0,C 7****,7.25,Desconhecido,S
+5ba30111,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,1,0,110****,75.25,D,C
+72c62a10,1,3,"Moussa, Mrs. (Mantoura Boulos)",female,28,0,0,262****,7.2292,Desconhecido,C
+cd19cf49,1,3,"Jermyn, Miss. Annie",female,28,0,0,143****,7.75,Desconhecido,Q
+0964c130,1,1,"Aubart, Mme. Leontine Pauline",female,24,0,0,PC ****,69.3,B,C
+62bf69b1,1,1,"Harder, Mr. George Achilles",male,25,1,0,117****,55.4417,E,C
+0847f045,0,3,"Wiklund, Mr. Jakob Alfred",male,18,1,0,310****,6.4958,Desconhecido,S
+1d72ba92,0,3,"Beavan, Mr. William Thomas",male,19,0,0,323****,8.05,Desconhecido,S
+3e36b0b7,0,1,"Ringhini, Mr. Sante",male,22,0,0,PC ****,135.6333,Desconhecido,C
+ca5262b6,0,3,"Palsson, Miss. Stina Viola",female,3,3,1,349****,21.075,Desconhecido,S
+66bde974,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,28,1,0,PC ****,82.1708,Desconhecido,C
+b641fd0e,1,3,"Landergren, Miss. Aurora Adelia",female,22,0,0,C 7****,7.25,Desconhecido,S
+7645e275,0,1,"Widener, Mr. Harry Elkins",male,27,0,2,113****,211.5,C,C
+a25ff1f9,0,3,"Betros, Mr. Tannous",male,20,0,0,264****,4.0125,Desconhecido,C
+4c44c4d2,0,3,"Gustafsson, Mr. Karl Gideon",male,19,0,0,347****,7.775,Desconhecido,S
+34e633fe,1,1,"Bidois, Miss. Rosalie",female,42,0,0,PC ****,227.525,Desconhecido,C
+5829299f,1,3,"Nakid, Miss. Maria (""Mary"")",female,1,0,2,265****,15.7417,Desconhecido,C
+03ee1527,0,3,"Tikkanen, Mr. Juho",male,32,0,0,STO****,7.925,Desconhecido,S
+08848b13,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35,1,0,113****,52.0,Desconhecido,S
+0f5e4acf,0,3,"Plotcharsky, Mr. Vasil",male,28,0,0,349****,7.8958,Desconhecido,S
+0d1f61b6,0,2,"Davies, Mr. Charles Henry",male,18,0,0,S.O****,73.5,Desconhecido,S
+03a26e4e,0,3,"Goodwin, Master. Sidney Leonard",male,1,5,2,CA ****,46.9,Desconhecido,S
+48e0ca96,1,2,"Buss, Miss. Kate",female,36,0,0,278****,13.0,Desconhecido,S
+e2cd891d,0,3,"Sadlier, Mr. Matthew",male,28,0,0,367****,7.7292,Desconhecido,Q
+b6533b31,1,2,"Lehmann, Miss. Bertha",female,17,0,0,SC ****,12.0,Desconhecido,C
+a9e08096,1,1,"Carter, Mr. William Ernest",male,36,1,2,113****,120.0,B,S
+0ed8b19d,1,3,"Jansson, Mr. Carl Olof",male,21,0,0,350****,7.7958,Desconhecido,S
+68faab31,0,3,"Gustafsson, Mr. Johan Birger",male,28,2,0,310****,7.925,Desconhecido,S
+8b65afaa,1,1,"Newell, Miss. Marjorie",female,23,1,0,352****,113.275,D,C
+029ccd06,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24,0,2,PP ****,16.7,G,S
+e177a244,0,3,"Johansson, Mr. Erik",male,22,0,0,350****,7.7958,Desconhecido,S
+a7dc4056,0,3,"Olsson, Miss. Elina",female,31,0,0,350****,7.8542,Desconhecido,S
+2e34796d,0,2,"McKane, Mr. Peter David",male,46,0,0,284****,26.0,Desconhecido,S
+9cdf7086,0,2,"Pain, Dr. Alfred",male,23,0,0,244****,10.5,Desconhecido,S
+169df897,1,2,"Trout, Mrs. William H (Jessie L)",female,28,0,0,240****,12.65,Desconhecido,S
+b67f29cd,1,3,"Niskanen, Mr. Juha",male,39,0,0,STO****,7.925,Desconhecido,S
+0be48cad,0,3,"Adams, Mr. John",male,26,0,0,341****,8.05,Desconhecido,S
+6a47df44,0,3,"Jussila, Miss. Mari Aina",female,21,1,0,413****,9.825,Desconhecido,S
+5b925f9e,0,3,"Hakkarainen, Mr. Pekka Pietari",male,28,1,0,STO****,15.85,Desconhecido,S
+62176754,0,3,"Oreskovic, Miss. Marija",female,20,0,0,315****,8.6625,Desconhecido,S
+b5defd77,0,2,"Gale, Mr. Shadrach",male,34,1,0,286****,21.0,Desconhecido,S
+29e062dd,0,3,"Widegren, Mr. Carl/Charles Peter",male,51,0,0,347****,7.75,Desconhecido,S
+7b308769,1,2,"Richards, Master. William Rowe",male,3,1,1,291****,18.75,Desconhecido,S
+005a6666,0,3,"Birkeland, Mr. Hans Martin Monsen",male,21,0,0,312****,7.775,Desconhecido,S
+c5c655fb,0,3,"Lefebre, Miss. Ida",female,28,3,1,413****,25.4667,Desconhecido,S
+c04eb0cb,0,3,"Sdycoff, Mr. Todor",male,28,0,0,349****,7.8958,Desconhecido,S
+9aff7871,0,3,"Hart, Mr. Henry",male,28,0,0,394****,6.8583,Desconhecido,Q
+e1195c0e,1,1,"Minahan, Miss. Daisy E",female,33,1,0,199****,90.0,C,Q
+47dc0042,0,2,"Cunningham, Mr. Alfred Fleming",male,28,0,0,239****,0.0,Desconhecido,S
+d42123b8,1,3,"Sundman, Mr. Johan Julian",male,44,0,0,STO****,7.925,Desconhecido,S
+5454611d,0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,28,0,0,343****,8.05,Desconhecido,S
+e8fba101,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,1,1,282****,32.5,Desconhecido,S
+cdf75de7,1,2,"Silven, Miss. Lyyli Karoliina",female,18,0,2,250****,13.0,Desconhecido,S
+37c670c0,0,2,"Matthews, Mr. William John",male,30,0,0,282****,13.0,Desconhecido,S
+53c2045b,0,3,"Van Impe, Miss. Catharina",female,10,0,2,345****,24.15,Desconhecido,S
+bbf3d175,0,3,"Gheorgheff, Mr. Stanio",male,28,0,0,349****,7.8958,Desconhecido,C
+fbaa073d,0,3,"Charters, Mr. David",male,21,0,0,A/5****,7.7333,Desconhecido,Q
+14aa534f,0,3,"Zimmerman, Mr. Leo",male,29,0,0,315****,7.875,Desconhecido,S
+1203536d,0,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,1,1,347****,14.4,Desconhecido,S
+ee50fbd6,0,3,"Rosblom, Mr. Viktor Richard",male,18,1,1,370****,20.2125,Desconhecido,S
+d06c1522,0,3,"Wiseman, Mr. Phillippe",male,28,0,0,A/4****,7.25,Desconhecido,S
+aa595af5,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,1,0,200****,26.0,Desconhecido,S
+7f8d4c80,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,0,0,250****,26.0,Desconhecido,S
+f9ec430b,0,3,"Flynn, Mr. James",male,28,0,0,364****,7.75,Desconhecido,Q
+b831bef3,1,3,"Pickard, Mr. Berk (Berk Trembisky)",male,32,0,0,SOT****,8.05,E,S
+5b021d16,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,0,0,110****,26.55,C,S
+e72046cb,1,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,28,1,0,376****,16.1,Desconhecido,S
+752f5628,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42,1,0,SC/****,26.0,Desconhecido,S
+62adb462,0,3,"Kallio, Mr. Nikolai Erland",male,17,0,0,STO****,7.125,Desconhecido,S
+296ebaf8,0,1,"Silvey, Mr. William Baird",male,50,1,0,135****,55.9,E,S
+eaa73773,1,1,"Carter, Miss. Lucile Polk",female,14,1,2,113****,120.0,B,S
+a002de3b,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,21,2,2,W./****,34.375,Desconhecido,S
+aa89035e,1,2,"Richards, Mrs. Sidney (Emily Hocking)",female,24,2,3,291****,18.75,Desconhecido,S
+6dfb9c45,0,1,"Fortune, Mr. Mark",male,64,1,4,199****,263.0,C,S
+671f3681,0,2,"Kvillner, Mr. Johan Henrik Johannesson",male,31,0,0,C.A****,10.5,Desconhecido,S
+49217271,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,1,1,F.C****,26.25,Desconhecido,S
+c6a7ea42,0,3,"Hampe, Mr. Leon",male,20,0,0,345****,9.5,Desconhecido,S
+f9e32571,0,3,"Petterson, Mr. Johan Emil",male,25,1,0,347****,7.775,Desconhecido,S
+1ccda8cf,1,2,"Reynaldo, Ms. Encarnacion",female,28,0,0,230****,13.0,Desconhecido,S
+6ed38baf,1,3,"Johannesen-Bratthammer, Mr. Bernt",male,28,0,0,653****,8.1125,Desconhecido,S
+4ef61efc,1,1,"Dodge, Master. Washington",male,4,0,2,336****,81.8583,A,S
+e7c590dc,1,2,"Mellinger, Miss. Madeleine Violet",female,13,0,1,250****,19.5,Desconhecido,S
+69286fd2,1,1,"Seward, Mr. Frederic Kimber",male,34,0,0,113****,26.55,Desconhecido,S
+657bb151,1,3,"Baclini, Miss. Marie Catherine",female,5,2,1,266****,19.2583,Desconhecido,C
+54194b82,1,1,"Peuchen, Major. Arthur Godfrey",male,52,0,0,113****,30.5,C,S
+43b68b59,0,2,"West, Mr. Edwy Arthur",male,36,1,2,C.A****,27.75,Desconhecido,S
+7d86ad16,0,3,"Hagland, Mr. Ingvald Olai Olsen",male,28,1,0,653****,19.9667,Desconhecido,S
+83e59f33,0,1,"Foreman, Mr. Benjamin Laventall",male,30,0,0,113****,27.75,C,C
+2b25a060,1,1,"Goldenberg, Mr. Samuel L",male,49,1,0,174****,89.1042,C,C
+a38d1668,0,3,"Peduzzi, Mr. Joseph",male,28,0,0,A/5****,8.05,Desconhecido,S
+4f5ef48c,1,3,"Jalsevac, Mr. Ivan",male,29,0,0,349****,7.8958,Desconhecido,C
+52f8a107,0,1,"Millet, Mr. Francis Davis",male,65,0,0,135****,26.55,E,S
+110a3909,1,1,"Kenyon, Mrs. Frederick R (Marion)",female,28,1,0,174****,51.8625,D,S
+070dc157,1,2,"Toomey, Miss. Ellen",female,50,0,0,F.C****,10.5,Desconhecido,S
+2e8f564a,0,3,"O'Connor, Mr. Maurice",male,28,0,0,371****,7.75,Desconhecido,Q
+7d42e188,1,1,"Anderson, Mr. Harry",male,48,0,0,199****,26.55,E,S
+7bcf4fdd,0,3,"Morley, Mr. William",male,34,0,0,364****,8.05,Desconhecido,S
+13275466,0,1,"Gee, Mr. Arthur H",male,47,0,0,111****,38.5,E,S
+73feaa37,0,2,"Milling, Mr. Jacob Christian",male,48,0,0,234****,13.0,Desconhecido,S
+e0e18c8d,0,3,"Maisner, Mr. Simon",male,28,0,0,A/S****,8.05,Desconhecido,S
+5811ffb1,0,3,"Goncalves, Mr. Manuel Estanslas",male,38,0,0,SOT****,7.05,Desconhecido,S
+86c34945,0,2,"Campbell, Mr. William",male,28,0,0,239****,0.0,Desconhecido,S
+84725c70,0,1,"Smart, Mr. John Montgomery",male,56,0,0,113****,26.55,Desconhecido,S
+a6a7aa1a,0,3,"Scanlan, Mr. James",male,28,0,0,362****,7.725,Desconhecido,Q
+9348b7a3,1,3,"Baclini, Miss. Helene Barbara",female,0,2,1,266****,19.2583,Desconhecido,C
+d55993ea,0,3,"Keefe, Mr. Arthur",male,28,0,0,323****,7.25,Desconhecido,S
+c463e147,0,3,"Cacic, Mr. Luka",male,38,0,0,315****,8.6625,Desconhecido,S
+89fb23c6,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,1,2,C.A****,27.75,Desconhecido,S
+4ff54150,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23,0,0,SC/****,13.7917,D,C
+6cdbac8a,0,3,"Strandberg, Miss. Ida Sofia",female,22,0,0,755****,9.8375,Desconhecido,S
+ee8600a5,0,1,"Clifford, Mr. George Quincy",male,28,0,0,110****,52.0,A,S
+59618c49,0,2,"Renouf, Mr. Peter Henry",male,34,1,0,310****,21.0,Desconhecido,S
+d274ed6b,0,3,"Braund, Mr. Lewis Richard",male,29,1,0,346****,7.0458,Desconhecido,S
+14abdb54,0,3,"Karlsson, Mr. Nils August",male,22,0,0,350****,7.5208,Desconhecido,S
+460db1a4,1,3,"Hirvonen, Miss. Hildur E",female,2,0,1,310****,12.2875,Desconhecido,S
+499ae798,0,3,"Goodwin, Master. Harold Victor",male,9,5,2,CA ****,46.9,Desconhecido,S
+73ad8a72,0,2,"Frost, Mr. Anthony Wood ""Archie""",male,28,0,0,239****,0.0,Desconhecido,S
+f06e3eec,0,3,"Rouse, Mr. Richard Henry",male,50,0,0,A/5****,8.05,Desconhecido,S
+cd785fb1,1,3,"Turkula, Mrs. (Hedwig)",female,63,0,0,413****,9.5875,Desconhecido,S
+106835da,1,1,"Bishop, Mr. Dickinson H",male,25,1,0,119****,91.0792,B,C
+0866f78d,0,3,"Lefebre, Miss. Jeannie",female,28,3,1,413****,25.4667,Desconhecido,S
+46a5ec38,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35,1,0,199****,90.0,C,S
+d5b5c17a,0,1,"Kent, Mr. Edward Austin",male,58,0,0,117****,29.7,B,C
+937494b5,0,3,"Somerton, Mr. Francis William",male,30,0,0,A.5****,8.05,Desconhecido,S
+0101b333,1,3,"Coutts, Master. Eden Leslie ""Neville""",male,9,1,1,C.A****,15.9,Desconhecido,S
+fd9c31cd,0,3,"Hagland, Mr. Konrad Mathias Reiersen",male,28,1,0,653****,19.9667,Desconhecido,S
+2b3bd3f3,0,3,"Windelov, Mr. Einar",male,21,0,0,SOT****,7.25,Desconhecido,S
+1be88454,0,1,"Molson, Mr. Harry Markland",male,55,0,0,113****,30.5,C,S
+9a3bcdb2,0,1,"Artagaveytia, Mr. Ramon",male,71,0,0,PC ****,49.5042,Desconhecido,C
+b1eeb7a5,0,3,"Stanley, Mr. Edward Roland",male,21,0,0,A/4****,8.05,Desconhecido,S
+9b1b6690,0,3,"Yousseff, Mr. Gerious",male,28,0,0,262****,14.4583,Desconhecido,C
+de92ffcb,1,1,"Eustis, Miss. Elizabeth Mussey",female,54,1,0,369****,78.2667,D,C
+8792b9d9,0,3,"Shellard, Mr. Frederick William",male,28,0,0,C.A****,15.1,Desconhecido,S
+c5b10b82,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,1,2,113****,151.55,C,S
+98188c23,0,3,"Svensson, Mr. Olof",male,24,0,0,350****,7.7958,Desconhecido,S
+b8162b1e,0,3,"Calic, Mr. Petar",male,17,0,0,315****,8.6625,Desconhecido,S
+5c1e6066,0,3,"Canavan, Miss. Mary",female,21,0,0,364****,7.75,Desconhecido,Q
+3ee46041,0,3,"O'Sullivan, Miss. Bridget Mary",female,28,0,0,330****,7.6292,Desconhecido,Q
+6716a1d4,0,3,"Laitinen, Miss. Kristina Sofia",female,37,0,0,413****,9.5875,Desconhecido,S
+28254913,1,1,"Maioni, Miss. Roberta",female,16,0,0,110****,86.5,B,S
+c4b53b51,0,1,"Penasco y Castellana, Mr. Victor de Satode",male,18,1,0,PC ****,108.9,C,C
+5593cf7c,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33,0,2,263****,26.0,Desconhecido,S
+7ee07f89,1,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,28,0,0,111****,26.55,Desconhecido,S
+8506ad4c,0,3,"Olsen, Mr. Henry Margido",male,28,0,0,C 4****,22.525,Desconhecido,S
+43eab152,1,3,"Lang, Mr. Fang",male,26,0,0,160****,56.4958,Desconhecido,S
+b032d599,1,3,"Daly, Mr. Eugene Patrick",male,29,0,0,382****,7.75,Desconhecido,Q
+2f933875,0,3,"Webber, Mr. James",male,28,0,0,SOT****,8.05,Desconhecido,S
+7307594b,1,1,"McGough, Mr. James Robert",male,36,0,0,PC ****,26.2875,E,S
+4c330e99,1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54,1,0,PC ****,59.4,Desconhecido,C
+7fc5de3f,0,3,"Coleff, Mr. Satio",male,24,0,0,349****,7.4958,Desconhecido,S
+09f18933,0,1,"Walker, Mr. William Anderson",male,47,0,0,369****,34.0208,D,S
+91205563,1,2,"Lemore, Mrs. (Amelia Milley)",female,34,0,0,C.A****,10.5,F,S
+a729cc9e,0,3,"Ryan, Mr. Patrick",male,28,0,0,371****,24.15,Desconhecido,Q
+8f9b374b,1,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,1,0,226****,26.0,Desconhecido,S
+3e4486c8,0,3,"Pavlovic, Mr. Stefo",male,32,0,0,349****,7.8958,Desconhecido,S
+912e21ab,1,1,"Perreault, Miss. Anne",female,30,0,0,127****,93.5,B,S
+21c4dbf5,0,3,"Vovk, Mr. Janko",male,22,0,0,349****,7.8958,Desconhecido,S
+c6244ee0,0,3,"Lahoud, Mr. Sarkis",male,28,0,0,262****,7.225,Desconhecido,C
+30ad6bd9,1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,0,1,111****,57.9792,B,C
+16ff626c,0,3,"Kassem, Mr. Fared",male,28,0,0,270****,7.2292,Desconhecido,C
+456fa850,0,3,"Farrell, Mr. James",male,40,0,0,367****,7.75,Desconhecido,Q
+e85a56aa,1,2,"Ridsdale, Miss. Lucy",female,50,0,0,W./****,10.5,Desconhecido,S
+d0635c08,0,1,"Farthing, Mr. John",male,28,0,0,PC ****,221.7792,C,S
+c2a34e92,0,3,"Salonen, Mr. Johan Werner",male,39,0,0,310****,7.925,Desconhecido,S
+fb4bdb67,0,2,"Hocking, Mr. Richard George",male,23,2,1,291****,11.5,Desconhecido,S
+f8ecdfbe,1,2,"Quick, Miss. Phyllis May",female,2,1,1,263****,26.0,Desconhecido,S
+481ae1ee,0,3,"Toufik, Mr. Nakli",male,28,0,0,264****,7.2292,Desconhecido,C
+fe519aa4,0,3,"Elias, Mr. Joseph Jr",male,17,1,1,269****,7.2292,Desconhecido,C
+0e8cd528,1,3,"Peter, Mrs. Catherine (Catherine Rizk)",female,28,0,2,266****,22.3583,Desconhecido,C
+6620cdfe,0,3,"Cacic, Miss. Marija",female,30,0,0,315****,8.6625,Desconhecido,S
+1e048c8f,1,2,"Hart, Miss. Eva Miriam",female,7,0,2,F.C****,26.25,Desconhecido,S
+5e9f99ef,0,1,"Butt, Major. Archibald Willingham",male,45,0,0,113****,26.55,B,S
+4f57d21d,1,1,"LeRoy, Miss. Bertha",female,30,0,0,PC ****,106.425,Desconhecido,C
+6ce4219e,0,3,"Risien, Mr. Samuel Beard",male,28,0,0,364****,14.5,Desconhecido,S
+bba9391a,1,1,"Frolicher, Miss. Hedwig Margaritha",female,22,0,2,135****,49.5,B,C
+9f4113b0,1,1,"Crosby, Miss. Harriet R",female,36,0,2,WE/****,71.0,B,S
+6ab94eb7,0,3,"Andersson, Miss. Ingeborg Constanzia",female,9,4,2,347****,31.275,Desconhecido,S
+6852af65,0,3,"Andersson, Miss. Sigrid Elisabeth",female,11,4,2,347****,31.275,Desconhecido,S
+4637747f,1,2,"Beane, Mr. Edward",male,32,1,0,290****,26.0,Desconhecido,S
+8575d385,0,1,"Douglas, Mr. Walter Donald",male,50,1,0,PC ****,106.425,C,C
+c62026fa,0,1,"Nicholson, Mr. Arthur Ernest",male,64,0,0,693****,26.0,Desconhecido,S
+a641282e,1,2,"Beane, Mrs. Edward (Ethel Clarke)",female,19,1,0,290****,26.0,Desconhecido,S
+2c0923aa,1,2,"Padro y Manent, Mr. Julian",male,28,0,0,SC/****,13.8625,Desconhecido,C
+e502b991,0,3,"Goldsmith, Mr. Frank John",male,33,1,1,363****,20.525,Desconhecido,S
+7e52ddec,1,2,"Davies, Master. John Morgan Jr",male,8,1,1,C.A****,36.75,Desconhecido,S
+905ee4b0,1,1,"Thayer, Mr. John Borland Jr",male,17,0,2,174****,110.8833,C,C
+613d6f9b,0,2,"Sharp, Mr. Percival James R",male,27,0,0,244****,26.0,Desconhecido,S
+43e13cdd,0,3,"O'Brien, Mr. Timothy",male,28,0,0,330****,7.8292,Desconhecido,Q
+1eec79e6,1,3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22,0,0,262****,7.225,Desconhecido,C
+78676f25,1,3,"Ohman, Miss. Velin",female,22,0,0,347****,7.775,Desconhecido,S
+0d936895,0,1,"Wright, Mr. George",male,62,0,0,113****,26.55,Desconhecido,S
+ab810467,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,1,0,117****,39.6,A,C
+34fe91cd,0,1,"Robbins, Mr. Victor",male,28,0,0,PC ****,227.525,Desconhecido,C
+5c3ab290,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,1,1,110****,79.65,E,S
+bf6d034a,1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36,1,0,345****,17.4,Desconhecido,S
+dee9debf,0,3,"Morrow, Mr. Thomas Rowan",male,28,0,0,372****,7.75,Desconhecido,Q
+22fadc90,0,3,"Sivic, Mr. Husein",male,40,0,0,349****,7.8958,Desconhecido,S
+298cf5c9,0,2,"Norman, Mr. Robert Douglas",male,28,0,0,218****,13.5,Desconhecido,S
+e9d443b7,0,3,"Simmons, Mr. John",male,28,0,0,SOT****,8.05,Desconhecido,S
+7d6b74d0,0,3,"Meanwell, Miss. (Marion Ogden)",female,28,0,0,SOT****,8.05,Desconhecido,S
+e34e47b6,0,3,"Davies, Mr. Alfred J",male,24,2,0,A/4****,24.15,Desconhecido,S
+abe05b90,0,3,"Stoytcheff, Mr. Ilia",male,19,0,0,349****,7.8958,Desconhecido,S
+8b86dca7,0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29,0,4,349****,21.075,Desconhecido,S
+2b78c443,0,3,"Doharr, Mr. Tannous",male,28,0,0,268****,7.2292,Desconhecido,C
+25b02725,1,3,"Jonsson, Mr. Carl",male,32,0,0,350****,7.8542,Desconhecido,S
+25d9f88c,1,2,"Harris, Mr. George",male,62,0,0,S.W****,10.5,Desconhecido,S
+63353c28,1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,2,0,117****,51.4792,C,S
+e5dfdc4d,1,1,"Flynn, Mr. John Irwin (""Irving"")",male,36,0,0,PC ****,26.3875,E,S
+656049e2,1,3,"Kelly, Miss. Mary",female,28,0,0,143****,7.75,Desconhecido,Q
+7e01b63c,0,3,"Rush, Mr. Alfred George John",male,16,0,0,A/4****,8.05,Desconhecido,S
+0884defb,0,3,"Patchett, Mr. George",male,19,0,0,358****,14.5,Desconhecido,S
+9ff86afa,1,2,"Garside, Miss. Ethel",female,34,0,0,243****,13.0,Desconhecido,S
+542169d4,1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39,1,0,135****,55.9,E,S
+fcc23909,0,3,"Caram, Mrs. Joseph (Maria Elias)",female,28,1,0,268****,14.4583,Desconhecido,C
+c77c75c6,1,3,"Jussila, Mr. Eiriik",male,32,0,0,STO****,7.925,Desconhecido,S
+bbf325af,1,2,"Christy, Miss. Julie Rachel",female,25,1,1,237****,30.0,Desconhecido,S
+4f9c8a0b,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,1,1,174****,110.8833,C,C
+89ad8809,0,2,"Downton, Mr. William James",male,54,0,0,284****,26.0,Desconhecido,S
+77ebee9e,0,1,"Ross, Mr. John Hugo",male,36,0,0,130****,40.125,A,C
+94361b29,0,3,"Paulner, Mr. Uscher",male,28,0,0,341****,8.7125,Desconhecido,C
+b6716949,1,1,"Taussig, Miss. Ruth",female,18,0,2,110****,79.65,E,S
+8bcdc42e,0,2,"Jarvis, Mr. John Denzil",male,47,0,0,237****,15.0,Desconhecido,S
+6b04e389,1,1,"Frolicher-Stehli, Mr. Maxmillian",male,60,1,1,135****,79.2,B,C
+95cc7498,0,3,"Gilinski, Mr. Eliezer",male,22,0,0,149****,8.05,Desconhecido,S
+ae52857f,0,3,"Murdlin, Mr. Joseph",male,28,0,0,A./****,8.05,Desconhecido,S
+aa626486,0,3,"Rintamaki, Mr. Matti",male,35,0,0,STO****,7.125,Desconhecido,S
+74ad27ee,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,1,0,369****,78.2667,D,C
+e41b76e1,0,3,"Elsbury, Mr. William James",male,47,0,0,A/5****,7.25,Desconhecido,S
+193983c6,0,3,"Bourke, Miss. Mary",female,28,0,2,364****,7.75,Desconhecido,Q
+661b713b,0,2,"Chapman, Mr. John Henry",male,37,1,0,SC/****,26.0,Desconhecido,S
+900a0383,0,3,"Van Impe, Mr. Jean Baptiste",male,36,1,1,345****,24.15,Desconhecido,S
+e9c44805,1,2,"Leitch, Miss. Jessie Wills",female,28,0,0,248****,33.0,Desconhecido,S
+c3b0f180,0,3,"Johnson, Mr. Alfred",male,49,0,0,LIN****,0.0,Desconhecido,S
+a58548c7,0,3,"Boulos, Mr. Hanna",male,28,0,0,266****,7.225,Desconhecido,C
+bc497282,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49,1,0,PC ****,56.9292,A,C
+6e122a19,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24,2,1,243****,27.0,Desconhecido,S
+e4fe4c09,0,3,"Slabenoff, Mr. Petco",male,28,0,0,349****,7.8958,Desconhecido,S
+03e6b8d4,0,1,"Harrington, Mr. Charles H",male,28,0,0,113****,42.4,Desconhecido,S
+65411d21,0,3,"Torber, Mr. Ernst William",male,44,0,0,364****,8.05,Desconhecido,S
+97492d11,1,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35,0,0,111****,26.55,Desconhecido,C
+fb67fd51,0,3,"Lindell, Mr. Edvard Bengtsson",male,36,1,0,349****,15.55,Desconhecido,S
+d6f5d290,0,3,"Karaic, Mr. Milan",male,30,0,0,349****,7.8958,Desconhecido,S
+58abdf44,1,1,"Daniel, Mr. Robert Williams",male,27,0,0,113****,30.5,Desconhecido,S
+46ab2633,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,1,2,SC/****,41.5792,Desconhecido,C
+4a58ada7,1,1,"Shutes, Miss. Elizabeth W",female,40,0,0,PC ****,153.4625,C,S
+26df8432,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39,1,5,347****,31.275,Desconhecido,S
+f4528118,0,3,"Jardin, Mr. Jose Neto",male,28,0,0,SOT****,7.05,Desconhecido,S
+0ac08ab8,1,3,"Murphy, Miss. Margaret Jane",female,28,1,0,367****,15.5,Desconhecido,Q
+115bc29b,0,3,"Horgan, Mr. John",male,28,0,0,370****,7.75,Desconhecido,Q
+3b6d8dde,0,3,"Brocklebank, Mr. William Alfred",male,35,0,0,364****,8.05,Desconhecido,S
+32cc5e82,1,2,"Herman, Miss. Alice",female,24,1,2,220****,65.0,Desconhecido,S
+0d9df090,0,3,"Danbom, Mr. Ernst Gilbert",male,34,1,1,347****,14.4,Desconhecido,S
+c787b029,0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26,1,0,A/5****,16.1,Desconhecido,S
+b895a4ac,1,2,"Becker, Miss. Marion Louise",female,4,2,1,230****,39.0,F,S
+c9771671,0,2,"Gavey, Mr. Lawrence",male,26,0,0,310****,10.5,Desconhecido,S
+820c9c5b,0,3,"Yasbeck, Mr. Antoni",male,27,1,0,265****,14.4542,Desconhecido,C
+e1bd8fcd,1,1,"Kimball, Mr. Edwin Nelson Jr",male,42,1,0,117****,52.5542,D,S
+bfe1b887,1,3,"Nakid, Mr. Sahid",male,20,1,1,265****,15.7417,Desconhecido,C
+2e5d39cd,0,3,"Hansen, Mr. Henry Damsgaard",male,21,0,0,350****,7.8542,Desconhecido,S
+3767def1,0,3,"Bowen, Mr. David John ""Dai""",male,21,0,0,546****,16.1,Desconhecido,S
+4db466d0,0,1,"Sutton, Mr. Frederick",male,61,0,0,369****,32.3208,D,S
+f82076ee,0,2,"Kirkland, Rev. Charles Leonard",male,57,0,0,219****,12.35,Desconhecido,Q
+9e27bf3b,1,1,"Longley, Miss. Gretchen Fiske",female,21,0,0,135****,77.9583,D,S
+c97f3a49,0,3,"Bostandyeff, Mr. Guentcho",male,26,0,0,349****,7.8958,Desconhecido,S
+b4cae6b4,0,3,"O'Connell, Mr. Patrick D",male,28,0,0,334****,7.7333,Desconhecido,Q
+b2b392e9,1,1,"Barkworth, Mr. Algernon Henry Wilson",male,80,0,0,270****,30.0,A,S
+3e6122b7,0,3,"Lundahl, Mr. Johan Svensson",male,51,0,0,347****,7.0542,Desconhecido,S
+42932af4,1,1,"Stahelin-Maeglin, Dr. Max",male,32,0,0,132****,30.5,B,C
+a56058a4,0,1,"Parr, Mr. William Henry Marsh",male,28,0,0,112****,0.0,Desconhecido,S
+8a0fd6d0,0,3,"Skoog, Miss. Mabel",female,9,3,2,347****,27.9,Desconhecido,S
+4faf3716,1,2,"Davis, Miss. Mary",female,28,0,0,237****,13.0,Desconhecido,S
+661363c4,0,3,"Leinonen, Mr. Antti Gustaf",male,32,0,0,STO****,7.925,Desconhecido,S
+ecdcf249,0,2,"Collyer, Mr. Harvey",male,31,1,1,C.A****,26.25,Desconhecido,S
+71dfc08a,0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41,0,5,310****,39.6875,Desconhecido,S
+1be12650,0,3,"Thorneycroft, Mr. Percival",male,28,1,0,376****,16.1,Desconhecido,S
+fd45624c,0,3,"Jensen, Mr. Hans Peder",male,20,0,0,350****,7.8542,Desconhecido,S
+d49ab16e,1,1,"Sagesser, Mlle. Emma",female,24,0,0,PC ****,69.3,B,C
+8cfb1a1d,0,3,"Skoog, Miss. Margit Elizabeth",female,2,3,2,347****,27.9,Desconhecido,S
+8d77ac22,1,3,"Foo, Mr. Choong",male,28,0,0,160****,56.4958,Desconhecido,S
+a9d3958c,1,3,"Baclini, Miss. Eugenie",female,0,2,1,266****,19.2583,Desconhecido,C
+d6938f01,1,1,"Harper, Mr. Henry Sleeper",male,48,1,0,PC ****,76.7292,D,C
+b234c7d6,0,3,"Cor, Mr. Liudevit",male,19,0,0,349****,7.8958,Desconhecido,S
+60bcf8ab,1,1,"Simonius-Blumer, Col. Oberst Alfons",male,56,0,0,132****,35.5,A,C
+2788a608,0,3,"Willey, Mr. Edward",male,28,0,0,S.O****,7.55,Desconhecido,S
+2486ba2c,1,3,"Stanley, Miss. Amy Zillah Elsie",female,23,0,0,CA.****,7.55,Desconhecido,S
+59d1f79d,0,3,"Mitkoff, Mr. Mito",male,28,0,0,349****,7.8958,Desconhecido,S
+3acc0b1d,1,2,"Doling, Miss. Elsie",female,18,0,1,231****,23.0,Desconhecido,S
+fab7595d,0,3,"Kalvik, Mr. Johannes Halvorsen",male,21,0,0,847****,8.4333,Desconhecido,S
+29703b82,1,3,"O'Leary, Miss. Hanora ""Norah""",female,28,0,0,330****,7.8292,Desconhecido,Q
+0e56b28e,0,3,"Hegarty, Miss. Hanora ""Nora""",female,18,0,0,365****,6.75,Desconhecido,Q
+02ff0011,0,2,"Hickman, Mr. Leonard Mark",male,24,2,0,S.O****,73.5,Desconhecido,S
+aaa0db61,0,3,"Radeff, Mr. Alexander",male,28,0,0,349****,7.8958,Desconhecido,S
+376e5ba4,0,3,"Bourke, Mrs. John (Catherine)",female,32,1,1,364****,15.5,Desconhecido,Q
+c8f372e9,0,2,"Eitemiller, Mr. George Floyd",male,23,0,0,297****,13.0,Desconhecido,S
+580fbe59,0,1,"Newell, Mr. Arthur Webster",male,58,0,2,352****,113.275,D,C
+4ccdce1c,1,1,"Frauenthal, Dr. Henry William",male,50,2,0,PC ****,133.65,Desconhecido,S
+25e3ae5e,0,3,"Badt, Mr. Mohamed",male,40,0,0,262****,7.225,Desconhecido,C
+32421680,0,1,"Colley, Mr. Edward Pomeroy",male,47,0,0,572****,25.5875,E,S
+387de928,0,3,"Coleff, Mr. Peju",male,36,0,0,349****,7.4958,Desconhecido,S
+3ed66b97,1,3,"Lindqvist, Mr. Eino William",male,20,1,0,STO****,7.925,Desconhecido,S
+62e213d3,0,2,"Hickman, Mr. Lewis",male,32,2,0,S.O****,73.5,Desconhecido,S
+fb2870da,0,2,"Butler, Mr. Reginald Fenton",male,25,0,0,234****,13.0,Desconhecido,S
+6478ba3d,0,3,"Rommetvedt, Mr. Knud Paust",male,28,0,0,312****,7.775,Desconhecido,S
+c2e73499,0,3,"Cook, Mr. Jacob",male,43,0,0,A/5****,8.05,Desconhecido,S
+65756089,1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,28,1,0,199****,52.0,C,S
+8d94820e,1,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40,1,1,297****,39.0,Desconhecido,S
+1a63b7b8,0,1,"Davidson, Mr. Thornton",male,31,1,0,F.C****,52.0,B,S
+2335a47d,0,2,"Mitchell, Mr. Henry Michael",male,70,0,0,C.A****,10.5,Desconhecido,S
+1f76825e,1,2,"Wilhelms, Mr. Charles",male,31,0,0,244****,13.0,Desconhecido,S
+e2305d84,0,2,"Watson, Mr. Ennis Hastings",male,28,0,0,239****,0.0,Desconhecido,S
+5a537b7c,0,3,"Edvardsson, Mr. Gustaf Hjalmar",male,18,0,0,349****,7.775,Desconhecido,S
+fc50f8cc,0,3,"Sawyer, Mr. Frederick Charles",male,24,0,0,342****,8.05,Desconhecido,S
+549e9da8,1,3,"Turja, Miss. Anna Sofia",female,18,0,0,413****,9.8417,Desconhecido,S
+5357d1a4,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43,1,6,CA ****,46.9,Desconhecido,S
+a7e13d0c,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36,0,1,PC ****,512.3292,B,C
+9c8933fb,0,3,"Peters, Miss. Katie",female,28,0,0,330****,8.1375,Desconhecido,Q
+e2c555f5,1,1,"Hassab, Mr. Hammad",male,27,0,0,PC ****,76.7292,D,C
+b267c1ba,0,3,"Olsvigen, Mr. Thor Anderson",male,20,0,0,656****,9.225,Desconhecido,S
+a9bca13d,0,3,"Goodwin, Mr. Charles Edward",male,14,5,2,CA ****,46.9,Desconhecido,S
+12c2e6dd,0,2,"Brown, Mr. Thomas William Solomon",male,60,1,1,297****,39.0,Desconhecido,S
+5cdb8306,0,2,"Laroche, Mr. Joseph Philippe Lemercier",male,25,1,2,SC/****,41.5792,Desconhecido,C
+318c4feb,0,3,"Panula, Mr. Jaako Arnold",male,14,4,1,310****,39.6875,Desconhecido,S
+aa277d5e,0,3,"Dakic, Mr. Branko",male,19,0,0,349****,10.1708,Desconhecido,S
+8343f4c3,0,3,"Fischer, Mr. Eberhard Thelander",male,18,0,0,350****,7.7958,Desconhecido,S
+b0331114,1,1,"Madill, Miss. Georgette Alexandra",female,15,0,1,241****,211.3375,B,S
+06c6849a,1,1,"Dick, Mr. Albert Adrian",male,31,1,0,174****,57.0,B,S
+123af0af,1,3,"Karun, Miss. Manca",female,4,0,1,349****,13.4167,Desconhecido,C
+0c5a0ae2,1,3,"Lam, Mr. Ali",male,28,0,0,160****,56.4958,Desconhecido,S
+84f47d2b,0,3,"Saad, Mr. Khalil",male,25,0,0,267****,7.225,Desconhecido,C
+131193ce,0,1,"Weir, Col. John",male,60,0,0,113****,26.55,Desconhecido,S
+5835dbab,0,2,"Chapman, Mr. Charles Henry",male,52,0,0,248****,13.5,Desconhecido,S
+acb52453,0,3,"Kelly, Mr. James",male,44,0,0,363****,8.05,Desconhecido,S
+f2d1ea13,1,3,"Mullens, Miss. Katherine ""Katie""",female,28,0,0,358****,7.7333,Desconhecido,Q
+16ed0c0a,0,1,"Thayer, Mr. John Borland",male,49,1,1,174****,110.8833,C,C
+d7e96509,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42,0,0,348****,7.65,F,S
+7696ecde,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,1,0,PC ****,227.525,C,C
+66de485e,1,1,"Silverthorne, Mr. Spencer Victor",male,35,0,0,PC ****,26.2875,E,S
+66bd75f8,0,3,"Barbara, Miss. Saiide",female,18,0,1,269****,14.4542,Desconhecido,C
+3c1db2bf,0,3,"Gallagher, Mr. Martin",male,25,0,0,368****,7.7417,Desconhecido,Q
+e4dc5694,0,3,"Hansen, Mr. Henrik Juul",male,26,1,0,350****,7.8542,Desconhecido,S
+74e3f730,0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,0,0,250****,26.0,Desconhecido,S
+e323ebc3,1,2,"Kelly, Mrs. Florence ""Fannie""",female,45,0,0,223****,13.5,Desconhecido,S
+58ca0b4a,1,1,"Calderhead, Mr. Edward Pennington",male,42,0,0,PC ****,26.2875,E,S
+ea027488,1,1,"Cleaver, Miss. Alice",female,22,0,0,113****,151.55,Desconhecido,S
+8f0cae36,1,3,"Moubarek, Master. Halim Gonios (""William George"")",male,28,1,1,266****,15.2458,Desconhecido,C
+343ae19b,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,0,0,PC ****,49.5042,C,C
+66284844,0,1,"Klaber, Mr. Herman",male,28,0,0,113****,26.55,C,S
+632b2d3f,1,1,"Taylor, Mr. Elmer Zebley",male,48,1,0,199****,52.0,C,S
+d92828d4,0,3,"Larsson, Mr. August Viktor",male,29,0,0,754****,9.4833,Desconhecido,S
+acfea401,0,2,"Greenberg, Mr. Samuel",male,52,0,0,250****,13.0,Desconhecido,S
+6ca62bcd,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,0,0,348****,7.65,F,S
+4e6cef65,1,1,"Endres, Miss. Caroline Louise",female,38,0,0,PC ****,227.525,C,C
+d98a98f2,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27,0,0,342****,10.5,E,S
+0739654b,0,3,"McEvoy, Mr. Michael",male,28,0,0,365****,15.5,Desconhecido,Q
+a034601d,0,3,"Johnson, Mr. Malkolm Joackim",male,33,0,0,347****,7.775,Desconhecido,S
+5f92812d,1,2,"Harper, Miss. Annie Jessie ""Nina""",female,6,0,1,248****,33.0,Desconhecido,S
+872b3d1d,0,3,"Jensen, Mr. Svend Lauritz",male,17,1,0,350****,7.0542,Desconhecido,S
+92197d10,0,2,"Gillespie, Mr. William Henry",male,34,0,0,122****,13.0,Desconhecido,S
+306c7f4c,0,2,"Hodges, Mr. Henry Price",male,50,0,0,250****,13.0,Desconhecido,S
+3ad17912,1,1,"Chambers, Mr. Norman Campbell",male,27,1,0,113****,53.1,E,S
+11a17094,0,3,"Oreskovic, Mr. Luka",male,20,0,0,315****,8.6625,Desconhecido,S
+6218e862,1,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30,3,0,310****,21.0,Desconhecido,S
+d5775470,1,3,"Mannion, Miss. Margareth",female,28,0,0,368****,7.7375,Desconhecido,Q
+ef57572f,0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,1,0,236****,26.0,Desconhecido,S
+80420848,0,3,"Ilmakangas, Miss. Pieta Sofia",female,25,1,0,STO****,7.925,Desconhecido,S
+fa475a70,1,1,"Allen, Miss. Elisabeth Walton",female,29,0,0,241****,211.3375,B,S
+12badadb,0,3,"Hassan, Mr. Houssein G N",male,11,0,0,269****,18.7875,Desconhecido,C
+8129dada,0,2,"Knight, Mr. Robert J",male,28,0,0,239****,0.0,Desconhecido,S
+b13907b2,0,2,"Berriman, Mr. William John",male,23,0,0,284****,13.0,Desconhecido,S
+0473d72d,0,2,"Troupiansky, Mr. Moses Aaron",male,23,0,0,233****,13.0,Desconhecido,S
+a9467d05,0,3,"Williams, Mr. Leslie",male,28,0,0,546****,16.1,Desconhecido,S
+8abf5a5f,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,1,3,W./****,34.375,Desconhecido,S
+2527beff,1,1,"Lesurer, Mr. Gustave J",male,35,0,0,PC ****,512.3292,B,C
+262755a0,0,3,"Ivanoff, Mr. Kanio",male,28,0,0,349****,7.8958,Desconhecido,S
+f26f70ed,0,3,"Nankoff, Mr. Minko",male,28,0,0,349****,7.8958,Desconhecido,S
+61b6cb90,1,1,"Hawksford, Mr. Walter James",male,28,0,0,169****,30.0,D,S
+82cc0ef6,0,1,"Cavendish, Mr. Tyrell William",male,36,1,0,198****,78.85,C,S
+59454305,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21,2,2,PC ****,262.375,B,C
+d41f1109,0,3,"McNamee, Mr. Neal",male,24,1,0,376****,16.1,Desconhecido,S
+16fabfc4,1,3,"Stranden, Mr. Juho",male,31,0,0,STO****,7.925,Desconhecido,S
+9a24628e,0,1,"Crosby, Capt. Edward Gifford",male,70,1,1,WE/****,71.0,B,S
+55ce8825,0,3,"Abbott, Mr. Rossmore Edward",male,16,1,1,C.A****,20.25,Desconhecido,S
+febdf260,1,2,"Sinkkonen, Miss. Anna",female,30,0,0,250****,13.0,Desconhecido,S
+eebb8d60,0,1,"Marvin, Mr. Daniel Warner",male,19,1,0,113****,53.1,D,S
+e8ed2668,0,3,"Connaghton, Mr. Michael",male,31,0,0,335****,7.75,Desconhecido,Q
+d655c714,1,2,"Wells, Miss. Joan",female,4,1,1,291****,23.0,Desconhecido,S
+3570552e,1,3,"Moor, Master. Meier",male,6,0,1,392****,12.475,E,S
+c5677169,0,3,"Vande Velde, Mr. Johannes Joseph",male,33,0,0,345****,9.5,Desconhecido,S
+f0dce6a3,0,3,"Jonkoff, Mr. Lalio",male,23,0,0,349****,7.8958,Desconhecido,S
+91857e89,1,2,"Herman, Mrs. Samuel (Jane Laver)",female,48,1,2,220****,65.0,Desconhecido,S
+f544400a,1,2,"Hamalainen, Master. Viljo",male,0,1,1,250****,14.5,Desconhecido,S
+520d66b6,0,3,"Carlsson, Mr. August Sigfrid",male,28,0,0,350****,7.7958,Desconhecido,S
+539dd2c5,0,2,"Bailey, Mr. Percy Andrew",male,18,0,0,291****,11.5,Desconhecido,S
+a044bc65,0,3,"Theobald, Mr. Thomas Leonard",male,34,0,0,363****,8.05,Desconhecido,S
+c534d0a3,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,0,0,110****,86.5,B,S
+ce66913d,0,3,"Garfirth, Mr. John",male,28,0,0,358****,14.5,Desconhecido,S
+5e9a80d6,0,3,"Nirva, Mr. Iisakki Antino Aijo",male,41,0,0,SOT****,7.125,Desconhecido,S
+6d12ad30,1,3,"Barah, Mr. Hanna Assi",male,20,0,0,266****,7.2292,Desconhecido,C
+b4929b43,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36,1,2,113****,120.0,B,S
+582a2329,0,3,"Eklund, Mr. Hans Linus",male,16,0,0,347****,7.775,Desconhecido,S
+852dd935,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51,1,0,135****,77.9583,D,S
+bac1a4ad,0,1,"Brewe, Dr. Arthur Jackson",male,28,0,0,112****,39.6,Desconhecido,C
+a8831d89,0,3,"Mangan, Miss. Mary",female,30,0,0,364****,7.75,Desconhecido,Q
+62046e8a,0,3,"Moran, Mr. Daniel J",male,28,1,0,371****,24.15,Desconhecido,Q
+ce5a745a,0,3,"Gronnestad, Mr. Daniel Danielsen",male,32,0,0,847****,8.3625,Desconhecido,S
+598d25bf,0,3,"Lievens, Mr. Rene Aime",male,24,0,0,345****,9.5,Desconhecido,S
+d13beb64,0,3,"Jensen, Mr. Niels Peder",male,48,0,0,350****,7.8542,Desconhecido,S
+b12c7409,0,2,"Mack, Mrs. (Mary)",female,57,0,0,S.O****,10.5,E,S
+c1a86f65,0,3,"Elias, Mr. Dibo",male,28,0,0,267****,7.225,Desconhecido,C
+f5f53ffe,1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54,1,3,291****,23.0,Desconhecido,S
+4e42b3c0,0,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18,0,0,347****,7.75,Desconhecido,S
+260e0aa7,0,3,"Tobin, Mr. Roger",male,28,0,0,383****,7.75,F,Q
+dc3cb1f4,1,3,"Emanuel, Miss. Virginia Ethel",female,5,0,0,364****,12.475,Desconhecido,S
+5d3f8bb3,0,3,"Kilgannon, Mr. Thomas J",male,28,0,0,368****,7.7375,Desconhecido,Q
+795ad3f1,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,0,1,241****,211.3375,B,S
+135b9156,1,3,"Ayoub, Miss. Banoura",female,13,0,0,268****,7.2292,Desconhecido,C
+11e47977,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17,1,0,174****,57.0,B,S
+6f0155a3,0,1,"Long, Mr. Milton Clyde",male,29,0,0,113****,30.0,D,S
+7e0342e2,0,3,"Johnston, Mr. Andrew G",male,28,1,2,W./****,23.45,Desconhecido,S
+1c9dad41,0,3,"Ali, Mr. William",male,25,0,0,SOT****,7.05,Desconhecido,S
+60573a41,0,3,"Harmer, Mr. Abraham (David Lishin)",male,25,0,0,374****,7.25,Desconhecido,S
+8a153231,1,3,"Sjoblom, Miss. Anna Sofia",female,18,0,0,310****,7.4958,Desconhecido,S
+6d5922fb,0,3,"Rice, Master. George Hugh",male,8,4,1,382****,29.125,Desconhecido,Q
+66308f0e,1,3,"Dean, Master. Bertram Vere",male,1,1,2,C.A****,20.575,Desconhecido,S
+ae99d564,0,1,"Guggenheim, Mr. Benjamin",male,46,0,0,PC ****,79.2,B,C
+f52a718a,0,3,"Keane, Mr. Andrew ""Andy""",male,28,0,0,124****,7.75,Desconhecido,Q
+9f40f49d,0,2,"Gaskell, Mr. Alfred",male,16,0,0,239****,26.0,Desconhecido,S
+0cd8ddd9,0,3,"Sage, Miss. Stella Anna",female,28,8,2,CA.****,69.55,Desconhecido,S
+82e57b6a,0,1,"Hoyt, Mr. William Fisher",male,28,0,0,PC ****,30.6958,Desconhecido,C
+c3c31878,0,3,"Dantcheff, Mr. Ristiu",male,25,0,0,349****,7.8958,Desconhecido,S
+68e53eb5,0,2,"Otter, Mr. Richard",male,39,0,0,282****,13.0,Desconhecido,S
+605cfebe,1,1,"Leader, Dr. Alice (Farnham)",female,49,0,0,174****,25.9292,D,S
+f3247328,1,3,"Osman, Mrs. Mara",female,31,0,0,349****,8.6833,Desconhecido,S
+d76ff27e,0,3,"Ibrahim Shawah, Mr. Yousseff",male,30,0,0,268****,7.2292,Desconhecido,C
+594be78e,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30,1,1,345****,24.15,Desconhecido,S
+ad13752f,0,2,"Ponesell, Mr. Martin",male,34,0,0,250****,13.0,Desconhecido,S
+80097cf3,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31,1,1,C.A****,26.25,Desconhecido,S
+8b881d1c,1,1,"Carter, Master. William Thornton II",male,11,1,2,113****,120.0,B,S
+d4c4bb99,1,3,"Thomas, Master. Assad Alexander",male,0,0,1,262****,8.5167,Desconhecido,C
+d8f8a130,1,3,"Hedman, Mr. Oskar Arvid",male,27,0,0,347****,6.975,Desconhecido,S
+87069bad,0,3,"Johansson, Mr. Karl Johan",male,31,0,0,347****,7.775,Desconhecido,S
+b9b8acf0,0,1,"Andrews, Mr. Thomas Jr",male,39,0,0,112****,0.0,A,S
+19ec4ab8,0,3,"Pettersson, Miss. Ellen Natalia",female,18,0,0,347****,7.775,Desconhecido,S
+26dd2cdf,0,2,"Meyer, Mr. August",male,39,0,0,248****,13.0,Desconhecido,S
+d4edc9d8,1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33,1,0,113****,53.1,E,S
+723b1b2b,0,3,"Alexander, Mr. William",male,26,0,0,347****,7.8875,Desconhecido,S
+70fac470,0,3,"Lester, Mr. James",male,39,0,0,A/4****,24.15,Desconhecido,S
+10683f1d,0,2,"Slemen, Mr. Richard James",male,35,0,0,282****,10.5,Desconhecido,S
+181d5e54,0,3,"Andersson, Miss. Ebba Iris Alfrida",female,6,4,2,347****,31.275,Desconhecido,S
+e6d5d0c0,0,3,"Tomlin, Mr. Ernest Portage",male,30,0,0,364****,8.05,Desconhecido,S
+fb3d7b43,0,1,"Fry, Mr. Richard",male,28,0,0,112****,0.0,B,S
+afd61fc1,0,3,"Heininen, Miss. Wendla Maria",female,23,0,0,STO****,7.925,Desconhecido,S
+4aa2472f,0,2,"Mallet, Mr. Albert",male,31,1,1,S.C****,37.0042,Desconhecido,C
+808d4705,0,3,"Holm, Mr. John Fredrik Alexander",male,43,0,0,C 7****,6.45,Desconhecido,S
+53446a33,0,3,"Skoog, Master. Karl Thorsten",male,10,3,2,347****,27.9,Desconhecido,S
+183a2c35,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,1,1,127****,93.5,B,S
+c058e33e,1,3,"Lulic, Mr. Nikola",male,27,0,0,315****,8.6625,Desconhecido,S
+cc08e331,0,1,"Reuchlin, Jonkheer. John George",male,38,0,0,199****,0.0,Desconhecido,S
+dd678081,1,3,"Moor, Mrs. (Beila)",female,27,0,1,392****,12.475,E,S
+8d94eab7,0,3,"Panula, Master. Urho Abraham",male,2,4,1,310****,39.6875,Desconhecido,S
+f5db5670,0,3,"Flynn, Mr. John",male,28,0,0,368****,6.95,Desconhecido,Q
+79b01ba1,0,3,"Lam, Mr. Len",male,28,0,0,160****,56.4958,Desconhecido,S
+dee4d8a8,1,2,"Mallet, Master. Andre",male,1,0,2,S.C****,37.0042,Desconhecido,C
+a089c0d4,1,3,"McCormack, Mr. Thomas Joseph",male,28,0,0,367****,7.75,Desconhecido,Q
+f365946f,1,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62,0,0,113****,80.0,B,Desconhecido
+a435a674,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15,1,0,265****,14.4542,Desconhecido,C
+6363f07a,1,2,"Richards, Master. George Sibley",male,0,1,1,291****,18.75,Desconhecido,S
+f7323954,0,3,"Saad, Mr. Amin",male,28,0,0,267****,7.2292,Desconhecido,C
+b173cab9,0,3,"Augustsson, Mr. Albert",male,23,0,0,347****,7.8542,Desconhecido,S
+5a810c37,0,3,"Allum, Mr. Owen George",male,18,0,0,222****,8.3,Desconhecido,S
+d2cf7d18,1,1,"Compton, Miss. Sara Rebecca",female,39,1,1,PC ****,83.1583,E,C
+79686ff5,0,3,"Pasic, Mr. Jakob",male,21,0,0,315****,8.6625,Desconhecido,S
+0aab0967,0,3,"Sirota, Mr. Maurice",male,28,0,0,392****,8.05,Desconhecido,S
+36f48c5a,1,3,"Chip, Mr. Chang",male,32,0,0,160****,56.4958,Desconhecido,S
+1481aa16,1,1,"Marechal, Mr. Pierre",male,28,0,0,117****,29.7,C,C
+0c4125e4,0,3,"Alhomaki, Mr. Ilmari Rudolf",male,20,0,0,SOT****,7.925,Desconhecido,S
+5cef24f3,0,2,"Mudd, Mr. Thomas Charles",male,16,0,0,S.O****,10.5,Desconhecido,S
+494b7368,1,1,"Serepeca, Miss. Augusta",female,30,0,0,113****,31.0,Desconhecido,C
+da66c992,0,3,"Lemberopolous, Mr. Peter L",male,34,0,0,268****,6.4375,Desconhecido,C
+e936b842,0,3,"Culumovic, Mr. Jeso",male,17,0,0,315****,8.6625,Desconhecido,S
+a8f7dc1b,0,3,"Abbing, Mr. Anthony",male,42,0,0,C.A****,7.55,Desconhecido,S
+bcab8ab7,0,3,"Sage, Mr. Douglas Bullen",male,28,8,2,CA.****,69.55,Desconhecido,S
+ef89a6a5,0,3,"Markoff, Mr. Marin",male,35,0,0,349****,7.8958,Desconhecido,C
+1b9d5c3f,0,2,"Harper, Rev. John",male,28,0,1,248****,33.0,Desconhecido,S
+957254d5,1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,28,1,0,174****,89.1042,C,C
+c4c8406b,0,3,"Andersson, Master. Sigvard Harald Elias",male,4,4,2,347****,31.275,Desconhecido,S
+df5d007f,0,3,"Svensson, Mr. Johan",male,74,0,0,347****,7.775,Desconhecido,S
+1408d072,0,3,"Boulos, Miss. Nourelain",female,9,1,1,267****,15.2458,Desconhecido,C
+aa3a5531,1,1,"Lines, Miss. Mary Conover",female,16,0,1,PC ****,39.4,D,S
+67c9435f,0,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44,1,0,244****,26.0,Desconhecido,S
+d7185670,1,3,"Aks, Mrs. Sam (Leah Rosen)",female,18,0,1,392****,9.35,Desconhecido,S
+b1fee923,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45,1,1,369****,164.8667,Desconhecido,S
+120d092c,1,1,"Daly, Mr. Peter Denis ",male,51,0,0,113****,26.55,E,S
+001ec0e5,1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24,0,3,266****,19.2583,Desconhecido,C
+0c01ccea,0,3,"Razi, Mr. Raihed",male,28,0,0,262****,7.2292,Desconhecido,C
+6433a945,0,3,"Hansen, Mr. Claus Peter",male,41,2,0,350****,14.1083,Desconhecido,S
+a995755e,0,2,"Giles, Mr. Frederick Edward",male,21,1,0,281****,11.5,Desconhecido,S
+18c6f589,1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48,0,0,174****,25.9292,D,S
+297c2555,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,28,8,2,CA.****,69.55,Desconhecido,S
+b1c4ec02,0,2,"Gill, Mr. John William",male,24,0,0,233****,13.0,Desconhecido,S
+49940ef2,1,2,"Bystrom, Mrs. (Karolina)",female,42,0,0,236****,13.0,Desconhecido,S
+da2c5710,1,2,"Duran y More, Miss. Asuncion",female,27,1,0,SC/****,13.8583,Desconhecido,C
+4843163e,0,1,"Roebling, Mr. Washington Augustus II",male,31,0,0,PC ****,50.4958,A,S
+0323c26f,0,3,"van Melkebeke, Mr. Philemon",male,28,0,0,345****,9.5,Desconhecido,S
+0cc429cd,1,3,"Johnson, Master. Harold Theodor",male,4,1,1,347****,11.1333,Desconhecido,S
+9e72b32a,0,3,"Balkic, Mr. Cerin",male,26,0,0,349****,7.8958,Desconhecido,S
+e146c632,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47,1,1,117****,52.5542,D,S
+c688a478,0,1,"Carlsson, Mr. Frans Olof",male,33,0,0,695****,5.0,B,S
+b6e716cf,0,3,"Vander Cruyssen, Mr. Victor",male,47,0,0,345****,9.0,Desconhecido,S
+29aa1001,1,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28,1,0,P/P****,24.0,Desconhecido,C
+d13bc214,1,3,"Najib, Miss. Adele Kiamie ""Jane""",female,15,0,0,266****,7.225,Desconhecido,C
+f9601769,0,3,"Gustafsson, Mr. Alfred Ossian",male,20,0,0,753****,9.8458,Desconhecido,S
+b721781c,0,3,"Petroff, Mr. Nedelio",male,19,0,0,349****,7.8958,Desconhecido,S
+963c6599,0,3,"Laleff, Mr. Kristo",male,28,0,0,349****,7.8958,Desconhecido,S
+bb196803,1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,0,1,117****,83.1583,C,C
+93b739b1,1,2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25,0,1,230****,26.0,Desconhecido,S
+ba46f66b,0,3,"Markun, Mr. Johann",male,33,0,0,349****,7.8958,Desconhecido,S
+afa9abdd,0,3,"Dahlberg, Miss. Gerda Ulrika",female,22,0,0,755****,10.5167,Desconhecido,S
+c81bb3bf,0,2,"Banfield, Mr. Frederick James",male,28,0,0,C.A****,10.5,Desconhecido,S
+a2deba88,0,3,"Sutehall, Mr. Henry Jr",male,25,0,0,SOT****,7.05,Desconhecido,S
+d4c4951e,0,3,"Rice, Mrs. William (Margaret Norton)",female,39,0,5,382****,29.125,Desconhecido,Q
+3ff65474,0,2,"Montvila, Rev. Juozas",male,27,0,0,211****,13.0,Desconhecido,S
+5e210d8b,1,1,"Graham, Miss. Margaret Edith",female,19,0,0,112****,30.0,B,S
+57ac8d7b,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,28,1,2,W./****,23.45,Desconhecido,S
+5ec27ec7,1,1,"Behr, Mr. Karl Howell",male,26,0,0,111****,30.0,C,C
+1129cad0,0,3,"Dooley, Mr. Patrick",male,32,0,0,370****,7.75,Desconhecido,Q

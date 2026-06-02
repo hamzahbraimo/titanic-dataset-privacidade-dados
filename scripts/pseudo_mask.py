@@ -21,7 +21,8 @@ class PseudoMask:
 
     def mask_cabin(self):
         mask = self.data['Cabin'] != 'Desconhecido'
-        self.data.loc['Cabin'] = self.data.loc[mask, 'Cabin'].str[0]
+        self.data.loc[mask, 'Cabin'] = self.data.loc[mask, 'Cabin'].str[0]
+
 
     def save_masked_data(self):
         self.data.to_csv('data/titanic_masked.csv', index=False)    
