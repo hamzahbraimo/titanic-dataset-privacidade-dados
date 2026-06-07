@@ -7,11 +7,9 @@ class DataCleaning:
     def clean_data(self):
         self.data.drop_duplicates(inplace=True)
         
-        self.data['Age'].fillna(self.data['Age'].median(), inplace=True)
-        self.data['Age'] = self.data['Age'].astype(int)
-
-        self.data['Embarked'].fillna('Desconhecido', inplace=True)
-        self.data['Cabin'].fillna('Desconhecido', inplace=True)
+        self.data['Age'] = self.data['Age'].fillna(self.data['Age'].median()).astype(int)
+        self.data['Embarked'] = self.data['Embarked'].fillna('Desconhecido')
+        self.data['Cabin'] = self.data['Cabin'].fillna('Desconhecido')
 
         return self.data
     

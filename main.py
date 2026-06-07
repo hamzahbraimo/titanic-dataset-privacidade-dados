@@ -1,5 +1,6 @@
 import pandas as pd
 
+from scripts.anonimizacao import DataAnonymization
 from scripts.data_cleaning import DataCleaning
 from scripts.generalizacao import Generalizacao
 from scripts.pseudo_mask import PseudoMask
@@ -23,6 +24,10 @@ def main():
         pm = PseudoMask()
         
         pm.mask_data()
+        
+        a = DataAnonymization(df)
+        
+        a.anonimizar()
 
         g = Generalizacao()
         g.load_data()
