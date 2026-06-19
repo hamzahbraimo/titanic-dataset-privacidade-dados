@@ -33,7 +33,7 @@ A estrutura do projecto inclui scripts para leitura e tratamento de colunas sens
 
 • **pandas** para manipulação de dados
 
-• **secrets** e **hashlibs** para geração de identificadores seguros
+• **secrets** e **hashlib** para geração de identificadores seguros
 
 ---
 
