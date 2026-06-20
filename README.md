@@ -37,6 +37,20 @@ A estrutura do projecto inclui scripts para leitura e tratamento de colunas sens
 
 ---
 
+## Resultados obtidos
+-**`PassengerId`:** pseudonimizado com recurso a `hash`
+-**`Name`:** encriptado com recurso a `hash` de comprimento longo
+-**`Pclass`:** generalizado (*1*, *2*, *3* passam a ter códigos próprios)
+-**`Sex`:** coluna removida
+-**`Age`:** generalizada em categorias (*Adulto*/*Menor*)
+-**`SibSp` + `Parch`:** juntos e generalizados em uma única coluna `NrFamiliares` (*Sem familiares*/*Pequena*/*Grande*)
+-**`Ticket`:** mascarada
+-**`Fare`:** generalizada em intervalos de $100
+-**`Cabin`:** parcialmente mascaradas, ou denotados como `Desconhecido` em lugares sem valor
+-**`Embarked`:** removidos
+
+---
+
 ## Para melhor visualização
 • Visite o directorio `notebooks/`
 
